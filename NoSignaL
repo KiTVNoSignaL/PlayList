@@ -566,6 +566,22 @@ https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
 #EXTINF:0 tvg-logo="https://i.imgur.com/npwatmo.png" group-title="No SignaL 📺", MNC TV
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", group-title="No SignaL 📺", Moji Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1721580110~acl=/live/17252/*~id=69578335~hmac=bc84989ce11e86352aed1760b9159ec6b6676e1ed75158c2efcdc4a78eda33c8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp8nGypT/sctv.png" group-title="No SignaL 📺", SCTV Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721490886~acl=/drm/dash/*~id=69578335~hmac=6270dfd11ddf27c1e98a543198d998a05d0d7f3b5b9466a1a0c0ca8ea4c82b5e
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnSwL2hF/indosiar.png" group-title="No SignaL 📺", Indosiar Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721578404~acl=/drm/dash/*~id=69578335~hmac=98ff6639d7b851af71b55b4d658c308d85e1daa26b6552e2ec116ea1dcd539ff
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="No SignaL 📺", MOJI Pro liga
 #EXTVLCOPT:http-referrer=http://210.210.155.37/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
@@ -6514,7 +6530,7 @@ Cara Sniffing Live TV di Chrome
 3. klik tombol "Network Sniffer"
 4. cari link dengan ektensi = ts, m3u, m3u8 atau mpd dkk
 5. salam gretongan
- * 10072024
+ * 22072024
 
  
 <<<----############  ^_^ by KiNoy  ############---->>>
