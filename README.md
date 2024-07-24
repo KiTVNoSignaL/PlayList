@@ -4,7 +4,7 @@
 
 > klik kanan, open git bash here
 
-tarik data
+Pull - tarik data
 
 git pull
 
@@ -13,8 +13,8 @@ git pull
 
 git status
 
-# perbaiki file, baru lanjut
 
+> tambah
 
 git add .
 
@@ -39,8 +39,5 @@ git push -u origin main
 
 ## License
 
-<<<<<<< HEAD
+
 by KiNoy
-=======
-by KiNoy
->>>>>>> 65cc518b7cf295b98c7d2e9aab5a169dfff1f548
