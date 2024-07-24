@@ -1,22 +1,16 @@
-# Baco
+# Baco Iko Dolu, Beko Sosek !!!
 
 ## Introduction 
 
 > klik kanan, open git bash here
 
-Pull - tarik data
-
-`git pull`
+Pull - tarik data `git pull`
 
 
-> cek dulu
-
-`git status`
+> cek dulu `git status`
 
 
-> tambah
-
-`git add .`
+> tambah `git add .`
 
 `git commit -m "pesan anda"`
 
