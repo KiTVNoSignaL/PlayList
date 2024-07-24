@@ -18,7 +18,9 @@
 	`git status`
 
 
-* Tambah Data `git add .`
+* Tambah Data
+	
+	`git add .`
 
 	`git commit -m "pesan anda"`
 
