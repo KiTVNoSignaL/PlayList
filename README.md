@@ -8,7 +8,7 @@
 
 > klik kanan, open git bash here
 
-* Pull - Tarik Data
+* Tarik Data
 
 	`git pull`
 
