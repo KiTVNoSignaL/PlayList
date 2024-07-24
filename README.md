@@ -1,16 +1,20 @@
 # Baco Iko Dolu, Beko Sosek !!!
 
+![KiTV](KiTV_icon.png?raw=true)
+
+
+
 ## Introduction 
 
 > klik kanan, open git bash here
 
-Pull - tarik data `git pull`
+Pull - Tarik Data `git pull`
 
 
-> cek dulu `git status`
+Cek Dulu `git status`
 
 
-> tambah `git add .`
+Tambah Data `git add .`
 
 `git commit -m "pesan anda"`
 
@@ -21,7 +25,10 @@ Pull - tarik data `git pull`
 
 ## Download
 
-[KiTV](https://s.id/KiTV_)
+## Download
+[<img src="https://i.postimg.cc/B68RCHG2/Ki-TV-copy.png"
+     alt=""
+     height="80">](https://s.id/KiTV_)
 
 
 
