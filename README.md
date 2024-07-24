@@ -1,4 +1,4 @@
-# Baco Iko Dolu, Beko Sosek !!!
+# BACO IKO DOLU, BEKO SOSEK !!!
 
 ![KiTV](KiTV_icon.png?raw=true)
 
@@ -8,23 +8,27 @@
 
 > klik kanan, open git bash here
 
-* Pull - Tarik Data `git pull`
+* Pull - Tarik Data
+
+	`git pull`
 
 
-Cek Dulu `git status`
+* Cek Dulu
+
+	`git status`
 
 
 * Tambah Data `git add .`
 
-`git commit -m "pesan anda"`
+	`git commit -m "pesan anda"`
 
-`git push -u origin main`
+	`git push -u origin main`
 
 
 
 
 ## Download
-[KiTV][<img src="https://i.postimg.cc/y6S6nS11/Ki-TV-down.png"
+[<img src="https://i.postimg.cc/y6S6nS11/Ki-TV-down.png"
      alt=""
      height="80">](https://s.id/KiTV_)
 
@@ -39,7 +43,7 @@ Cek Dulu `git status`
 ## License
 
 ```
-mak kan lai samiang ti ko nyo
+mak kan lai samiang ti ko nyo, bapo kiro-kiro
 ```
 
 
