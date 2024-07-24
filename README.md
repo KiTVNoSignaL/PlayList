@@ -8,13 +8,13 @@
 
 > klik kanan, open git bash here
 
-Pull - Tarik Data `git pull`
+* Pull - Tarik Data `git pull`
 
 
 Cek Dulu `git status`
 
 
-Tambah Data `git add .`
+* Tambah Data `git add .`
 
 `git commit -m "pesan anda"`
 
@@ -24,9 +24,7 @@ Tambah Data `git add .`
 
 
 ## Download
-
-## Download
-[<img src="https://i.postimg.cc/B68RCHG2/Ki-TV-copy.png"
+[KiTV][<img src="https://i.postimg.cc/y6S6nS11/Ki-TV-down.png"
      alt=""
      height="80">](https://s.id/KiTV_)
 
