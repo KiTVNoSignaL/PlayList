@@ -6,21 +6,21 @@
 
 Pull - tarik data
 
-git pull
+`git pull`
 
 
 > cek dulu
 
-git status
+`git status`
 
 
 > tambah
 
-git add .
+`git add .`
 
-git commit -m "pesan anda"
+`git commit -m "pesan anda"`
 
-git push -u origin main
+`git push -u origin main`
 
 
 
@@ -38,6 +38,10 @@ git push -u origin main
 
 
 ## License
+
+```
+mak kan lai samiang ti ko nyo
+```
 
 
 by KiNoy
