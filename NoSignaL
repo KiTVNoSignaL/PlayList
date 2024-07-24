@@ -178,19 +178,19 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.wapka.io/d92b6d18.png" group-title="No SignaL 📺", EURO | SERVER BBC ONE
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | SERVER BBC ONE
 https://cdn.wapka.io/00dth2/e90e8aa855cb01daa1ef38b699a4dc24/eurobbcone.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.wapka.io/6ed08f9b.png" group-title="No SignaL 📺", EURO | SERVER BBC TWO
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | SERVER BBC TWO
 https://cdn.wapka.io/00dth3/44e8ed1efde5ab67c35df74ec833cef2/eurobbctwo.m3u8
 
-#EXTINF:-1 tvg-logo="http://ikitv.online/server1.png" group-title="No SignaL 📺", EURO | SERVER 1 
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | SERVER 1 
 https://cdn.wapka.io/00dmc9/ff0d72fca4004954faf0dc9302db354b/server-5.m3u8
 
-#EXTINF:-1 tvg-logo="http://ikitv.online/server1.png" group-title="No SignaL 📺", EURO | SERVER 1A 
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | SERVER 1A 
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&amp;stream=560498&amp;extension=ts&amp;play_token=ix2VvdiAHb
 
-#EXTINF:-1 tvg-logo="http://ikitv.online/server1.png" group-title="No SignaL 📺", EURO | SERVER 1 [HD] 
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | SERVER 1 [HD] 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95abe856f5c148b2974f5fb28a74b2e2:be434af7b0e977df382c97a375c47291
 https://cdnlb.tvplayhome.lt/live/eds/TV3_EE_HD_HVC/GO3_LIVE_DASH_AVC/TV3_EE_HD_HVC.mpd
