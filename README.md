@@ -27,7 +27,7 @@ git push -u origin main
 
 ## Download
 
-[KiTV] (https://s.id/KiTV_)
+[KiTV](https://s.id/KiTV_)
 
 
 
@@ -39,4 +39,8 @@ git push -u origin main
 
 ## License
 
+<<<<<<< HEAD
 by KiNoy
+=======
+by KiNoy
+>>>>>>> 65cc518b7cf295b98c7d2e9aab5a169dfff1f548
