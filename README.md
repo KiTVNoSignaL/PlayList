@@ -33,6 +33,7 @@
 
 
 
+<div align="center">
 
 ## Download
 [<img src="https://i.postimg.cc/y6S6nS11/Ki-TV-down.png"
@@ -55,3 +56,5 @@ mak kan lai samiang ti ko nyo, bapo kiro-kiro !!!
 
 
 by KiNoy
+
+</div>
