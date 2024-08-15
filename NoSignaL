@@ -2493,13 +2493,31 @@ https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports", Astro Supersport 1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports", Astro Supersport 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports", Astro Supersport 3
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports", Astro Supersport 4
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380136.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Astro_Prima_HD.png" group-title="Sports", Astro Prima MY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" group-title="Sports", Astro Ria MY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" group-title="Sports", Astro Warna MY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="Sports", Astro Citra MY
 
 #https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrocitra.m3u8#
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="Sports", Play Sports 1
+http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh0IBEvQAx_LxZXNF0HPclV8/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="Sports", Play Sports 2
+http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh4H-SZw38kWrz0xV4EhpfLY/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="Sports", Play Sports 3
+http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh9b7f5u8LZ00S6TRHeA7Rag/ts
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/ldH9G" group-title="Sports", Sports 18 ᴴᴰ
+http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-id="motorvisiontv.de" tvg-logo="https://iptv.urfan.web.id/logo/motorvision.png" group-title="Sports", Motorvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -2597,7 +2615,7 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png" group-title="SPORTS", TNT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png" group-title="Sports", TNT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
@@ -2877,6 +2895,17 @@ http://117tv.icu:8080/live/X5xRz0/944877/57467.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/2560px-TSN5.svg.png" group-title="Sports",TSN 5 i
 http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tsn1-188.png" group-title="Sports", TSN 1
+http://xtv.ooo:8080/83212539/43153928/349014
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tsn2-189.png" group-title="Sports", TSN 2
+http://xtv.ooo:8080/83212539/43153928/349015
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tsn3-190.png" group-title="Sports", TSN 3
+http://xtv.ooo:8080/83212539/43153928/349016
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA: TSN 4" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tsn3-191.png" group-title="Sports", TSN 4
+http://xtv.ooo:8080/83212539/43153928/349017
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tsn3-192.png" group-title="Sports", TSN 5
+http://xtv.ooo:8080/83212539/43153928/349018
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports", Fox Sports 1
 http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8
@@ -5052,6 +5081,9 @@ https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1  group-title="Music" tvg-logo="https://i.imgur.com/lm7ToiW.png",Radio M2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/canal86.png" group-title="Music", CanaL 86 ᴴᴰ
+https://live.canhabsyi.cloud/memfs/08ee8f72-0d4d-423b-8b87-0bfea1799507.m3u8
  
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",Retro Music TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
