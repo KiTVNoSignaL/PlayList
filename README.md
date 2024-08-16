@@ -55,4 +55,5 @@ mak kan lai samiang ti ko nyo, bapo kiro-kiro !!!
 ```
 
 
-by KiNoy
+█▄▄ █▄█   █▄▀ █ █▄ █ █▀█ █▄█
+█▄█  █    █ █ █ █ ▀█ █▄█  █
