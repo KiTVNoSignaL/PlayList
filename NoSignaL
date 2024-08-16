@@ -6892,6 +6892,10 @@ http://www.cctvdishubkampar.co.id/stream/cctv111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 http://www.cctvdishubkampar.co.id/stream/cctv112
 
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv100_355.ts
+
 
 
 
