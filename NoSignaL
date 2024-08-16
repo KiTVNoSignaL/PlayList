@@ -2259,9 +2259,8 @@ http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71038
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Lifestyle",AFN HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://ktpremium.com:443/mkt1420/568765164/916125
+https://cempedak-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd|referer=https://www.visionplus.id/
 
-{https://cempedak-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd|referer=https://www.visionplus.id/}
 {http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298503}
 {https://anv-livechannel-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd}
 
@@ -2270,7 +2269,7 @@ https://ktpremium.com:443/mkt1420/568765164/916125
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_afc_ver1.png" group-title="Lifestyle", AFN (CBM)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Lifestyle", AFN (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857e04fca5017efbaa3ce05d3e/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -6077,6 +6076,699 @@ https://cctvjss.jogjakota.go.id/atcs/ATCS_Parkiran_Ngabean.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", ATCS_Simpang_Galeria_TimurSelatan - JogJa
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Galeria_TimurSelatan.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Air Mancur - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/AirMancur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Alun-Alun Selatan - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/chunklist_w133850215.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Alun-Alun Selatan 3 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunSelatan3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Alun-alun Sleman dari posisi Selatan - JogJa
+http://103.71.191.168/8881/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Alun-alun Sleman dari posisi Utara - JogJa
+http://103.71.191.168/8883/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Alun-Alun Utara 1 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunUtara1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", ALUN-ALUN WONOSARI - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/ALUN-ALUN_WONOSARI.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Babarsari 2 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Babarsari2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Balaikota Timur - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Timur.stream/chunklist_w518277922.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Balaikota Utara - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Utara.stream/chunklist_w716232207.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Bantulan Selatan - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Bantulan_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Banyurejo Selatan - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Banyurejo_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Baron Timur - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBaronTimur.stream/chunklist_w761960059.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Bendung Klegen - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-bantul/BendungKlegen.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Bendung Niten - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-bantul/BendungNiten.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Beringharjo dari posisi 2 - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/chunklist_w525075417.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Beringharjo DIY - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/chunklist_w256102437.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", BPK - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_bpk.stream/chunklist_w1983574447.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Bukit Klangon - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBukitKlangon.stream/chunklist_w1171776566.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", BUNDARAN PLN - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/BUNDARAN_PLN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", BUNDERAN SIYONO - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/BUNDERAN_SIYONO.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Bunderan Srandakan - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-bantul/BunderanSrandakan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Depan Hotel Grand Mercure - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_DeBritto_View_Utara.stream/chunklist_w1443260072.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", DPRD dari posisi 1 - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_4_Depan_DPRD.stream/chunklist_w143799217.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", DPRD dari posisi 2 - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/chunklist_w3935173.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Embung Nglanggeran - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/chunklist_w172440882.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Gayam - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gayam.stream/chunklist_w1910678128.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Gondomanan - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gondomanan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", GOR Amongrogo - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/chunklist_w569088877.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Halaman Media Center - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/HalamanMediaCenter.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Halaman Pemda - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/HalamanPemda.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Halte Trans Jogja - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_2_Depan_Toko_Subur.stream/chunklist_w1501080877.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Hotel Cavinton - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_serangan.stream/chunklist_w2099816399.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Hotel Inna Garuda dari posisi 1 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/chunklist_w90059632.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Hotel Inna Garuda dari posisi 2 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio1_SelatanTeteg.stream/chunklist_w442388786.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Hotel Mutiara Baru - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_9_Mutiara_Baru.stream/chunklist_w720959519.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Istana Negara Gedung Agung Yogyakarta - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/chunklist_w609340057.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", JALAN BARON MULO - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/JALAN_BARON_MULO.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", JALAN MANTHOUS PLAYEN - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/JALAN_MANTHOUS_PLAYEN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", JALAN NASIONAL III PLAYEN - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/JALAN_NASIONAL_III_PLAYEN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jetis - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Jetis.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jl. Kol. Sugiyono dari posisi Dealer Mitsubishi 1 - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono1.stream/chunklist_w1152700400.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jl. Kol. Sugiyono dari posisi Dealer Mitsubishi 2 - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono2.stream/chunklist_w1071462869.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jlagran - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Jlagran.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jokteng Wetan dari posisi Dealer Piaggio - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengWetan.stream/chunklist_w1016905556.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kali Buntung 1 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliBuntung1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kali Buntung 2 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliBuntung2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kali Gajah Wong 1 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliGajahWong1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kali Gajah Wong 2 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliGajahWong2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kali Ngentak - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliNgentak.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kali Segoro Amarto - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliSegoroAmarto.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kali Winongo 1 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sungai/KaliWinongo1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Karangnongko - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/Karangnongko.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kauman - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Permata.stream/chunklist_w205073418.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kawasan Tugu - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewTugu.stream/chunklist_w1039454854.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kepatihan dari posisi 2 - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_10_Kepatihan.stream/chunklist_w1403073580.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", LabKes - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/LabKes.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Lapangan Basket - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/LapanganBasket.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Lempuyangan dari posisi Toko Intisari - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Tunjung.stream/chunklist_w555549290.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Maguwoharjo 1 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Maguwoharjo1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Maguwoharjo 2 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Maguwoharjo2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Maguwoharjo 3 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Maguwoharjo3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Maguwoharjo 6 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Maguwoharjo6.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Malioboro DIY - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/chunklist_w1735252186.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Malioboro Mall - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/chunklist_w2049014652.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Malioboro Mall dari posisi Selatan - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio7_MallSelatan.stream/chunklist_w183783345.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Malioboro Mall dari posisi Utara - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio6_MallUtara.stream/chunklist_w803257147.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Masjid Pajimatan Imogiri - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-bantul/MasjidPajimatanImogiri.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Merapi dari posisi 1 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1563702546.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Merapi dari posisi 2 - JogJa
+http://103.71.191.168/8910/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Mirota Kampus Simanjuntak - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/chunklist_w160846704.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Munggur 2 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Munggur2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", NOL KM dari posisi 1 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w797659833.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", NOL KM dari posisi 2 - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/chunklist_w907331838.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PANTAI BARON - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PANTAI_BARON.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PANTAI KUKUP - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/PANTAI_KUKUP.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Parkir Makam Imogiri - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-bantul/ParkirMakamImogiri.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Parkiran Ngabean - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/ParkiranNgabean.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Pasar Bantul - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-bantul/PasarBantul.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Pasar Gading dari posisi DayTrans Travel 2 - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading2.stream/chunklist_w1134102916.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Paseban - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-bantul/Paseban.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Patangpuluhan dari posisi SPBU Bugisan 1 - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni1.stream/chunklist_w572908058.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Patangpuluhan dari posisi SPBU Bugisan 2 - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni2.stream/chunklist_w1112828954.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Perempatan Godean - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_Godean.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Perempatan PasarStan - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Perempatan_PasarStan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Perempatan Tamansari - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_tamansari.stream/chunklist_w577153823.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Pertigaan Balaikota - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_UST.stream/chunklist_w1355920044.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Pertigaan Glagahsari dari posisi Toko Kenes-UTY 2 - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Glagahsari.stream/chunklist_w1599491110.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Pertigaan Jl. Kyai Mojo dari posisi Toko A.Takrib 1 - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo.stream/chunklist_w557891769.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Pertigaan Jl. Kyai Mojo dari posisi Toko A.Takrib 2 - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo2.stream/chunklist_w2139189844.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Pertigaan Tamsis - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Sentul.stream/chunklist_w1107545712.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Plaza Ambarrukmo - JogJa
+http://103.71.191.168/8912/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PojokTamanBermain - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/PojokTamanBermain.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Ramayana 2 - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/chunklist_w2035487993.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", RBRA - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/RBRA.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Selomartani Selatan - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Selomartani_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Selomartani Utara - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Selomartani_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Sentul - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Sentul.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", SGM - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangSGM.stream/chunklist_w267449320.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Sidomoyo Selatan - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Sidomoyo_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Sidomoyo Utara - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Sidomoyo_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", SIMPANG 3 AMIGO - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG_3_AMIGO.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", SIMPANG 3 PLAYEN - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG_3_PLAYEN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", SIMPANG 4 GADING - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG_4_GADING.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", SIMPANG 4 PATUK - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG_4_PATUK.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", SIMPANG 4 RSUD WONOSARI - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG_4_RSUD_WONOSARI.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", SIMPANG 4 TROWONO - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/SIMPANG_4_TROWONO.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Amongrogo Timur - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangAmongrogoTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Borobudur Plaza - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBorobudurPlaza.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang De Britto - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangDeBritto.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Demangan Selatan - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangDemanganSelatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Demangan Selatan dari posisi Empire XXI - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/chunklist_w879574333.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Demangan Timur dari posisi Empire XXI - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/chunklist_w767797560.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Demangan Utara dari posisi Empire XXI - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Utara.stream/chunklist_w1257576875.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Galeria Timur Selatan - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangGaleriaTImurSelatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Jogjatronik Mall - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/chunklist_w160017393.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Kolombo 1 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangKolombo1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Kolombo 2 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangKolombo2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Ngablak - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangNgablak.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Pamungkas - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangPamungkas.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Pasar Gading 2 - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Pasar Stan - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangPasarStan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Pingit dari posisi 1 - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit1.stream/chunklist_w1034097150.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Pingit dari posisi 2 - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit2.stream/chunklist_w1313710975.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Pingit dari posisi 2 - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Pingit dari posisi 3 - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit3.stream/chunklist_w1967862192.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Pingit dari posisi 3 - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Pingit dari posisi 4 - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit4.stream/chunklist_w43813416.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Santikara 1 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangSantikara1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Santikara 2 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangSantikara2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Taman Batik Terang Bulan dari posisi 1 - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_22_Simpang_Pajeksan_Suryatmajan.stream/chunklist_w1018832673.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Taman Batik Terang Bulan dari posisi 2 - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/chunklist_w1311275126.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Terban Utara - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangTerbanUtara.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang Tugu - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/chunklist_w1865669256.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang UNY - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangUNY.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang XT Square dari posisi Pintu Belakang - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno2.stream/chunklist_w88752653.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Simpang XT Square dari posisi Pintu Depan - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno.stream/chunklist_w1340241130.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", SimpangTajem - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangTajem.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Stasiun Tugu - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/chunklist_w1303369035.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Supit Urang Pajimatan Imogiri - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-bantul/SupitUrangPajimatanImogiri.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Taman Makam Pahlawan Kusumanegara - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Cendana.stream/chunklist_w417543410.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", TamanPemda - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/TamanPemda.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Tangga Pajimatan Imogiri - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-bantul/TanggaPajimatanImogiri.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Tebing Breksi - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/chunklist_w1301384993.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Teras Malioboro - JogJa
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_3_Depan_Dispar.stream/chunklist_w134111321.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Terminal - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/Terminal.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Terminal Imogiri 01 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-bantul/TerminalImogiri01.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Terminal Imogiri 02 - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-bantul/TerminalImogiri02.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Teteg Kulon - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/TetegKulon.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Teteg Wetan - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/TetegWetan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Tirtoadi Selatan - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/Tirtoadi_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", TPRParangtritis - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-bantul/TPRParangtritis.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", TUGU SELAMAT DATANG GK - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kominfogk/TUGU_SELAMAT_DATANG_GK.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", UKDW - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_ukdw.stream/chunklist_w2005994098.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Alun-Alun Kidul - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Baron Barat - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBaronBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Breksi - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Candi Prambanan - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Depan Beringharjo - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Depan Garuda - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Depan Mall - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Gunung Merapi - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Malioboro - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Mangunan - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Nglanggeran - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Nol KM - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Parangtritis - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewParangtritis.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Simpang Tugu - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", View Stasiun Tugu - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", WanaWil - JogJa
+https://mam.jogjaprov.go.id:1937/cctv-kp/WanaWil.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Wirobrajan - JogJa
+https://cctvjss.jogjakota.go.id/atcs/ATCS_wirobrajan.stream/chunklist_w1392608056.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Wirobrajan - JogJa
+https://mam.jogjaprov.go.id:1937/atcs-kota/Wirobrajan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Simpang Tugu Jogja
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY 0 KM View
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w955314280.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY 0 KM BNI Jogja
+http://cctvjss.jogjakota.go.id/malioboro/NolKm_BNI.stream/chunklist_w1519223749.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY 0 KM Gedung Agung Jogja
+http://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/chunklist_w114998319.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY 0 KM Malioboro
+http://cctvjss.jogjakota.go.id/malioboro/NolKm_Utara.stream/chunklist_w1499541048.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Malioboro
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/chunklist_w82526263.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Ngabean
+https://mam.jogjaprov.go.id:1937/atcs-kota/ParkiranNgabean.stream/chunklist_w65046879.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Jokteng Kulon
+https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengKulon.stream/chunklist_w1651432191.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Jokteng Wetan
+http://cctvjss.jogjakota.go.id/atcs/ATCS_joktengwetan.stream/chunklist_w242294016.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Gondomanan
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gondomanan.stream/chunklist_w965772830.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY RejoWinangun Jogja
+http://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Rejowinangun_View_Timur.stream/chunklist_w1478834277.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Tungkak
+https://mam.jogjaprov.go.id:1937/atcs-kota/Tungkak.stream/chunklist_w1890025043.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Perempatan JJ
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBorobudurPlaza.stream/chunklist_w1810700755.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Gramedia
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangGaleriaTImurSelatan.stream/chunklist_w289702257.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Kyai Mojo
+https://mam.jogjaprov.go.id:1937/atcs-kota/KyaiMojo1.stream/chunklist_w1690482971.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Galeria
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangGaleriaTImurSelatan.stream/chunklist_w83687669.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Simpang SGM
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangSGM.stream/chunklist_w1801692763.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Serangan
+https://mam.jogjaprov.go.id:1937/atcs-kota/Serangan.stream/chunklist_w1514288183.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Mirota Kampus
+https://mam.jogjaprov.go.id:1937/atcs-kota/MirotaKampus.stream/chunklist_w18365287.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Malioboro Mall DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo",Beringharjo DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/chunklist_w256102437.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", 0 KM Yogyakarta
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w797659833.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Alun² Utara DIY
+https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunUtara1.stream/chunklist_w108297307.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Alun² Selatan DIY
+https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunSelatan3.stream/chunklist_w1409693452.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Stasiun Tugu DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/chunklist_w1303369035.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Parangtritis DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewPantaiParangTritis.stream/chunklist_w1470497340.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Merapi DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1563702546.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Candi Prambanan DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/chunklist_w1578296569.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Mangunan DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/chunklist_w1363447093.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Nglanggeran DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/chunklist_w172440882.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Tebing Breksi DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/chunklist_w1301384993.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Depan BPK
+https://mam.jogjaprov.go.id:1937/atcs-kota/BPK.stream/chunklist_w842307275.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Wirobrajan
+http://cctvjss.jogjakota.go.id/atcs/ATCS_wirobrajan.stream/chunklist_w2012965028.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Sugeng Jeroni
+http://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SugengJeroni2.stream/chunklist_w842265048.m3u8
+//Kota
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Mentri Supeno
+http://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno.stream/chunklist_w254075836.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Warung Boto
+http://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Gambiran2.stream/chunklist_w2125737874.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", DIY Jogokaryan
+http://cctvjss.jogjakota.go.id/atcs/ATCS_jogokaryan.stream/chunklist_w2005928928.m3u8
+
+///Gunungkidul
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Patuk Selamat Datang
+https://api.beetv.my.id/yt/id.m3u8?id=V6H6ifJ6ris
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Patuk RTH 1
+https://api.beetv.my.id/yt/id.m3u8?id=sORtBzzm15w
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Patuk RTH 2
+https://api.beetv.my.id/yt/id.m3u8?id=AOHip3oUbzU
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Patuk RTH 3
+https://api.beetv.my.id/yt/id.m3u8?id=6KpFGsKU1ag
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Perempatan Patuk
+https://api.beetv.my.id/yt/id.m3u8?id=QXk5xAMenr0
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Puskesmas Patuk II
+https://api.beetv.my.id/yt/id.m3u8?id=Fq9chiYzyr0
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Puskeswan Putat
+https://api.beetv.my.id/yt/id.m3u8?id=61LmPCpEcAg
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Pertigaan Bunder
+https://api.beetv.my.id/yt/id.m3u8?id=oVcD8QzQ-nI
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Pertigaan Gading
+https://api.beetv.my.id/yt/id.m3u8?id=85oknpy29HA
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Bunderan Siyono
+https://api.beetv.my.id/yt/id.m3u8?id=CF-CIAQKm3M
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Alun-Alun Wonosari
+https://api.beetv.my.id/yt/id.m3u8?id=DiDKGA4N0Do
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Lapangan Pemda
+https://api.beetv.my.id/yt/id.m3u8?id=apVEJkGOaAY
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Lapangan Pemda 1
+https://api.beetv.my.id/yt/id.m3u8?id=_YW-PKxXp6E
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Lapangan Pemda 2
+https://api.beetv.my.id/yt/id.m3u8?id=54GiVQUipOI
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Bunderan PLN
+https://api.beetv.my.id/yt/id.m3u8?id=2OLQv2aS-8w
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Perempatan RSUD Wonosari
+https://api.beetv.my.id/yt/id.m3u8?id=DhC_6owzZ5Q
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Pasar Argosari
+https://api.beetv.my.id/yt/id.m3u8?id=ylqAD8A9iBY
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Pertigaan Amigo
+https://api.beetv.my.id/yt/id.m3u8?id=_EK8QaEZ_DY
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Perempatan Baleharjo
+https://api.beetv.my.id/yt/id.m3u8?id=KXZk5xVSZOU
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Perempatan Selang B
+https://api.beetv.my.id/yt/id.m3u8?id=Domcnr5HN9Y
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Perempatan Selang T
+https://api.beetv.my.id/yt/id.m3u8?id=d5Ul5q6h3WY
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Pasar Playen
+https://api.beetv.my.id/yt/id.m3u8?id=2onTAPFbVXM
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Perempatan Tegalsari
+https://api.beetv.my.id/yt/id.m3u8?id=Gi4OPNmvLec
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Perempatan Karangmojo T
+https://api.beetv.my.id/yt/id.m3u8?id=JUI3hSgaeqc
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Perempatan Karangmojo B
+https://api.beetv.my.id/yt/id.m3u8?id=a4fJMjnDxIA
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Simpang 3 Nglipar
+https://api.beetv.my.id/yt/id.m3u8?id=u6nvfLIdtFE
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Pancuran Siraman
+https://api.beetv.my.id/yt/id.m3u8?id=A-HMooJedR0
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK BPP Semanu
+https://api.beetv.my.id/yt/id.m3u8?id=z6uHLz2-IfQ
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Puskesmas Ponjong II
+https://api.beetv.my.id/yt/id.m3u8?id=t5zc1QZIdOQ
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK TPR Utama
+https://api.beetv.my.id/yt/id.m3u8?id=upRMxAd-s-8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Mulo SMP 3 Wonosari
+https://api.beetv.my.id/yt/id.m3u8?id=dkK5hxD7bzQ
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Embung Sriten
+https://api.beetv.my.id/yt/id.m3u8?id=gdv4tcUeBfk
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Pantai Baron
+https://api.beetv.my.id/yt/id.m3u8?id=Vpz53FGtF-k
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Pantai Kukup
+https://api.beetv.my.id/yt/id.m3u8?id=s2AMbnjcc3U
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", GK Pantai Wediombo
+https://api.beetv.my.id/yt/id.m3u8?id=5vmiydoaPiw
+
+//Bantul
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Bantul Paseban
+https://mam.jogjaprov.go.id:1937/cctv-bantul/PerempatanPaseban.stream/chunklist_w610422978.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Bantul Paseban Korpri
+https://stream.bantulkab.go.id/020fe1af-c12c-4a1b-8d81-a15114bc7b26_output_0.m3u8?session=NDXag93bFHTgBtvp7KmKCQ
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Bantul Perempatan Pelemsewu
+https://stream.bantulkab.go.id/92aa1e04-13c9-4ad5-b8b6-40448b4c072e_output_0.m3u8?session=8dncGe8C4LEGGoEPN4MAwK
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Bantul Perempatan Druwo
+https://stream.bantulkab.go.id/592b4d35-1632-4ef3-83ca-ac1f976297c6_output_0.m3u8?session=nJgQJrLCVN932RvZNXknQK
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Bantul TPR Parangtritis
+https://mam.jogjaprov.go.id:1937/cctv-bantul/TPRParangtritis.stream/chunklist_w1722250553.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Bantul Parangtritis
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewParangtritis.stream/chunklist_w1308167377.m3u8
+
+//Sleman
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Sleman Pos Polisi Denggung
+http://103.71.191.168/8880/hls/live.stream.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Sleman Amplas
+http://103.71.191.168/8912/hls/live.stream.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Sleman Pasar Tempel
+http://103.71.191.168/8887/hls/live.stream.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Sleman RSUD Morangan
+http://103.71.191.168/8889/hls/live.stream.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Sleman Merapi via Bronggang
+http://103.71.191.168/8910/hls/live.stream.m3u8
+#EXTINF:-1 tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="CCTV inDo", Sleman Kali Krasak
+http://103.71.191.168/8893/hls/live.stream.m3u8
+
+
 #EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Soekarno Hatta - Malang
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/227920422769509645238654.m3u8
 
@@ -6103,6 +6795,102 @@ http://stream.cctv.malangkota.go.id/WebRTCApp/streams/188896189032493229715252.m
 
 #EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jl. Sudirman Arah Utara - Malang
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/366629122294580263258917.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jl. Bundaran Bandung Arah Barat - Malang
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/699355759296848496652742.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jl. WR Supratman Arah Selatan - Malang
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/540407055746756125950976.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jl. Galunggung Arah Selatan - Malang
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/889779720689036295934998.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jl. Galunggung Arah Selatan - Malang
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/573357726087672833075775.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jl. Jupri Arah Barat - Malang
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/425250660135490708615779.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jl. Ijen Arah Utara - Malang
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/098343692068108583411220.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jl. A Yani Arah Selatan - Malang
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/982131430615781858979987.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jl. Laksda Adi Sucipto Arah Timur - Malang
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/340493797437204668929658.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Jl. Letjen S. Parman Arah Selatan - Malang
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/810133524862588268334710.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv085
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv086
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv087
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv088
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv100
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv101
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv102
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv103
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv104
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv105
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv106
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv107
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv108
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv109
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv110
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv111
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+http://www.cctvdishubkampar.co.id/stream/cctv112
 
 
 
