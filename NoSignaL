@@ -57,6 +57,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="No SignaL 📺", BRI Liga 1 (EVENT ONLY)
+https://lebo.huminbird.cn/live/sd-6MsDBFTegAUdWc5Nbp.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="No SignaL 📺", BRI Liga 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="No SignaL 📺", BRI Liga 2
+https://raw.githubusercontent.com/Acil2125/ee/main/sspl.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="No SignaL 📺", BRI Liga 3
+https://basitv2.pages.dev/liveindos1.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="No SignaL 📺", BRI Liga 4
+http://fastserver.my.id:8080/play/p7M2Yp6F8FBz249PUQPRzgSuY_L-VXt55vYxZiUwbAk/ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NX9aLg_XIH5ivRFICk2v7WX6yom-_9ZhgJ4-nJ0ZcmsM_ZhxXZvEN-SQ&s=10" group-title="No SignaL 📺", Palestine TV
 https://pbc.furrera.ps/palestinehd/index.m3u8
 
@@ -2623,6 +2638,36 @@ http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh0IBEvQAx_LxZXNF0HPclV8/ts
 http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh4H-SZw38kWrz0xV4EhpfLY/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="Sports", Play Sports 3
 http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh9b7f5u8LZ00S6TRHeA7Rag/ts
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmoRoUQ.png" group-title="Sports", TRT Spor
+http://hw1.jemtv.com/app/trtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/d3K5EQa.png" group-title="Sports", TRT Spor Yildiz
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+
+#EXTINF:-1 tvg-logo="https://rb.gy/kpgipx" group-title="Sports", PSJ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://rb.gy/5qj7zx", IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://cdn.jsdelivr.net/gh/habotv/sptv@master/tv29.jpg" group-title="Sports", Sportdigital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh_ejzibRHwEXFzMMXWbdeGc/ts
+
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://cdn.jsdelivr.net/gh/habotv/sptv@master/tv29.jpg" group-title="Sports", Sportdigital ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/win-sports-logo.png" group-title="Sports", WIN Sports
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
+
+#EXTINF:-1 tvg-logo="http://lifetvbd.xyz:8080/images/475bea7156621bdea87b7e478721474c.png" group-title="Sports", PTV Sports HD
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400201958.m3u8
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/ldH9G" group-title="Sports", Sports 18 ᴴᴰ
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
@@ -7994,7 +8039,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-08-20 15:21:00 GMT+7 "
+# (●) Last Update: 2024-08-20 17:40:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 
