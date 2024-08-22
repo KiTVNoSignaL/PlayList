@@ -4063,14 +4063,84 @@ https://cdn.wapka.io/00dx9f/dc4b5213b0be7e86d315d125141e88c7/ikitv-vsportsuomi.m
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/de69jw1641504870.png" group-title="Sports", V Sport Premium
 https://cdn.wapka.io/00dx9e/ff6847b7b2b4906a0f8a1b9be8d3cad9/ikitv-vsportpremium.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a4/Mola_logo_%282023%29.png/320px-Mola_logo_%282023%29.png" group-title="Sports", MOLA 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a4/Mola_logo_%282023%29.png/320px-Mola_logo_%282023%29.png" group-title="Sports", MOLA 1i
 https://cdn.wapka.io/00dx9k/26f5d4421e2a8f2fad2e4f24f86eb6de/ikitv-mola1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a4/Mola_logo_%282023%29.png/320px-Mola_logo_%282023%29.png" group-title="Sports", MOLA 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a4/Mola_logo_%282023%29.png/320px-Mola_logo_%282023%29.png" group-title="Sports", MOLA 2i
 https://cdn.wapka.io/00dx9l/6ce0d66247172d715c92b6b1a9c4b361/ikitv-mola2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a4/Mola_logo_%282023%29.png/320px-Mola_logo_%282023%29.png" group-title="Sports", MOLA 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a4/Mola_logo_%282023%29.png/320px-Mola_logo_%282023%29.png" group-title="Sports", MOLA 3i
 https://cdn.wapka.io/00dx9m/3aa45f3303732f920088b7e0f63740f5/ikitv-mola3.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/fa/bb/5afabbf6-dbcc-b178-92e9-574d11ae3565/App_Icon-marketing.lsr/1200x630bb.png" group-title="Sports", MOLA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/571aaae022fa4cda8edce93bfad5cc27/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/fa/bb/5afabbf6-dbcc-b178-92e9-574d11ae3565/App_Icon-marketing.lsr/1200x630bb.png" group-title="Sports", MOLA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/fa/bb/5afabbf6-dbcc-b178-92e9-574d11ae3565/App_Icon-marketing.lsr/1200x630bb.png" group-title="Sports", MOLA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/a2f7dfe1378940dfa09879b845d07ca1/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/fa/bb/5afabbf6-dbcc-b178-92e9-574d11ae3565/App_Icon-marketing.lsr/1200x630bb.png" group-title="Sports", MOLA 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/f617293796134126b93ff1fea65c8255/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/fa/bb/5afabbf6-dbcc-b178-92e9-574d11ae3565/App_Icon-marketing.lsr/1200x630bb.png" group-title="Sports", MOLA 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv:443/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/fa/bb/5afabbf6-dbcc-b178-92e9-574d11ae3565/App_Icon-marketing.lsr/1200x630bb.png" group-title="Sports", MOLA 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv:443/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/fa/bb/5afabbf6-dbcc-b178-92e9-574d11ae3565/App_Icon-marketing.lsr/1200x630bb.png" group-title="Sports", MOLA 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/b717678459734384aaa98316895d5a2a/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/fa/bb/5afabbf6-dbcc-b178-92e9-574d11ae3565/App_Icon-marketing.lsr/1200x630bb.png" group-title="Sports", MOLA 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/fa/bb/5afabbf6-dbcc-b178-92e9-574d11ae3565/App_Icon-marketing.lsr/1200x630bb.png" group-title="Sports", MOLA 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/728c541035c34cc598cef262c95f7b43/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/fa/bb/5afabbf6-dbcc-b178-92e9-574d11ae3565/App_Icon-marketing.lsr/1200x630bb.png" group-title="Sports", MOLA 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
 
 
 
@@ -6964,6 +7034,90 @@ http://www.cctvdishubkampar.co.id/stream/cctv112
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 http://www.cctvdishubkampar.co.id/stream/cctv100_355.ts
 
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kelapa Gading-Pulo Gebang) 23+150
+https://camera.jtd.co.id/camera/share/tios/2/27/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kelapa Gading-Pulo Gebang) 24+150
+https://camera.jtd.co.id/camera/share/tios/2/25/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kelapa Gading-Pulo Gebang) 25+540
+https://camera.jtd.co.id/camera/share/tios/2/80/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kelapa Gading-Pulo Gebang) 26+800
+https://camera.jtd.co.id/camera/share/tios/2/20/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kelapa Gading-Pulo Gebang) 27+100
+https://camera.jtd.co.id/camera/share/tios/2/19/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kelapa Gading-Pulo Gebang) GERBANG TOL CAKUNG
+https://camera.jtd.co.id/camera/share/tios/2/81/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", 58+400 A
+https://pub.hk-opt.com/LiveApp/streams/687489889091511277827377.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", 58+400 B
+https://pub.hk-opt.com/LiveApp/streams/501264524429471982550467.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", 59+000 A
+https://pub.hk-opt.com/LiveApp/streams/095660838019901274554950.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", 59+000 B
+https://pub.hk-opt.com/LiveApp/streams/956464037412277558025165.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", 59+400 A
+https://pub.hk-opt.com/LiveApp/streams/675323017321643087627650.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", 59+400 B
+https://pub.hk-opt.com/LiveApp/streams/675323017321643087627650.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", 60+000 A
+https://pub.hk-opt.com/LiveApp/streams/062223762734246730973930.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", 60+000 B
+https://pub.hk-opt.com/LiveApp/streams/381024135984437558197100.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", 61+400 A
+https://pub.hk-opt.com/LiveApp/streams/756751654695732090756915.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", 61+400 B
+https://pub.hk-opt.com/LiveApp/streams/241370079371388169899174.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", AKSES CIAWI SELATAN
+https://www.tjt-info.co.id/LiveApp/streams/327294924686013390782781.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", AKSES CIGOMBONG
+https://www.tjt-info.co.id/LiveApp/streams/261350381912633467488420.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", GT. Caringin
+https://www.tjt-info.co.id/LiveApp/streams/035462094731391708865402.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", GT. CIAWI SELATAN
+https://www.tjt-info.co.id/LiveApp/streams/227374319950729322701285.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", GT. Cigombong A
+https://www.tjt-info.co.id/LiveApp/streams/577208699430530699650671.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", GT. Cigombong B
+https://www.tjt-info.co.id/LiveApp/streams/390022051470745093489871.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", IC CARINGIN KM. 53+380
+https://www.tjt-info.co.id/LiveApp/streams/998223146655371157400972.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", IC CIAWI SELATAN KM 48+200
+https://www.tjt-info.co.id/LiveApp/streams/357514173892609384751207.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", IC CIGOMBONG KM. 60+150
+https://www.tjt-info.co.id/LiveApp/streams/336845911722359113982848.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", KM 47+200 A
+https://www.tjt-info.co.id/LiveApp/streams/796749052161901029073168.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", KM 51+050 B
+https://www.tjt-info.co.id/LiveApp/streams/211884290923669138161535.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", KM 55+000 A
+https://www.tjt-info.co.id/LiveApp/streams/021325546274001698409340.m3u8
+
 
 
 
@@ -8039,7 +8193,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-08-20 17:40:00 GMT+7 "
+# (●) Last Update: 2024-08-22 17:17:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 
