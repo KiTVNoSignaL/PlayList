@@ -58,6 +58,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="No SignaL 📺", mOji
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="No SignaL 📺", BRI Liga 1 (EVENT ONLY)
 https://lebo.huminbird.cn/live/sd-6MsDBFTegAUdWc5Nbp.m3u8
@@ -135,20 +137,22 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-037/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/yp7n1ub7j3yrex4b352nx/skysport-motogp.png?rlkey=ppzuwp9uh55zn8st5pftvvoxi&dl=0" group-title="No SignaL 📺", Sky Sport MotoGP Italy
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://ddy6.mizhls.ru/ddy6/premium575/index
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", Sky Sports MIX
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/110863.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2fziggo_sport_select.jpg" group-title="No SignaL 📺", Ziggo Sport Select NL
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://ddy6.mizhls.ru/ddy6/premium393/index
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", Sky Sports PLDE
+https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/SkysportPLDE.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="No SignaL 📺", Bein Sport1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://ddy6.mizhls.ru/ddy6/premium91/tracks-v1a1/mo
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", Sky Sports
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/117930.m3u8
+
+##http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:08:E8:19&stream=82242&extension=m3u8
+##http://luxury-iptv.com:80/live/Huzeir_Jusic/WyCf9BrzdQ/12072.m3u8
+##http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/132854.m3u8
+##http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:74:08:F0&stream=39054&extension=m3u8
+##http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B6:3E:B5&stream=56601&extension=m3u8
+##http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B6:3E:B5&stream=305275&extension=m3u8
+
 
 
 
@@ -214,9 +218,10 @@ https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-p
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QDthhMe.png" group-title="No SignaL 📺", HBO ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/39
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/hboID.m3u8
 
 
+##https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
 {#https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd#}
@@ -286,20 +291,6 @@ https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a
 #EXTINF:-1 group-title="No SignaL 📺" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg",ChampionsTV 6 
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="No SignaL 📺", beIN 1
-http://iptvtree.net:8080/F14995/a84c0963/100
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="No SignaL 📺", beIN 2
-http://iptvtree.net:8080/F14995/a84c0963/101
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="No SignaL 📺", beIN 3 
-http://iptvtree.net:8080/F14995/a84c0963/102
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="No SignaL 📺", beIN 4 
-http://iptvtree.net:8080/F14995/a84c0963/103
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="No SignaL 📺", beIN 5 
-http://iptvtree.net:8080/F14995/a84c0963/104
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="No SignaL 📺", beIN 6 
-http://iptvtree.net:8080/F14995/a84c0963/105
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="No SignaL 📺", beIN 7 
-http://iptvtree.net:8080/F14995/a84c0963/106
 
 
 
@@ -353,64 +344,6 @@ http://hdtt3.online:3050/dlrobinson1976@yahoo.com/M8YvqpfXE7/649796
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | 🇺🇸
-http://ikitv.online/cok.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | SERVER 1
-http://ikitv.online/cok.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | SERVER 2
-http://ikitv.online/copaamrik.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | SERVER 3
-https://tv.qmedia.ps/hls/webs.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | SERVER 4
-https://tv.qmedia.ps/hls/webs2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | SERVER 5
-https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | SERVER 6
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | SERVER 7
-https://d3uyzgka2wjb00.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/1713a57e-ab90-45db-95cc-13aecd917bd9/4.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | TV8 CANLI
-https://hw1.jemtv.com/app/tv85/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | LIVE
-https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | RPC
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | TV Max Canal 9
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | TYC SPORTS
-http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88864.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | Win Sports+
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="No SignaL 📺", Copa America | Sportv
-http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88866.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MUMuSo8.jpeg" group-title="No SignaL 📺", EURO | TRT 1
-https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MUMuSo8.jpeg" group-title="No SignaL 📺", EURO | La 2
-http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MUMuSo8.jpeg" group-title="No SignaL 📺", EURO | SPORT TV 1
-http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88871.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MUMuSo8.jpeg" group-title="No SignaL 📺", EURO | CCTV5
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MUMuSo8.jpeg" group-title="No SignaL 📺", EURO | CCTV5 Plus
-https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="No SignaL 📺", EURO | EUROCOPA LA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/001/204/023/original/soccer-png.png" group-title="No SignaL 📺", EURO | EUROCOPA LA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | SERVER BBC ONE
 https://cdn.wapka.io/00dth2/e90e8aa855cb01daa1ef38b699a4dc24/eurobbcone.m3u8
 
@@ -439,92 +372,6 @@ https://cdn.wapka.io/00dpej/6c58157aa0fdd0ec11bf24ce3af98841/server-6.m3u8
 #EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | SERVER SERVER 3
 https://cdn.wapka.io/00dpek/d92f0c31292fd914fcc41c44e18df58a/server-7.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | Rush Sports
-https://cors-proxy.elfsight.com/http://tv14s.xyz:8080/live/753468/894568/99568.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | SuperSport
-https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=3338_&extension=ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | SuperSport Football
-https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=3344_&extension=ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | DigiSport 1
-https://cors-proxy.elfsight.com/http://gtvstreams.me:80/live/Tony15/Tony15/267419.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | DigiSport 2
-https://cors-proxy.elfsight.com/http://gtvstreams.me:80/live/Tony15/Tony15/267417.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | Sport TV 1
-https://cors-proxy.elfsight.com/http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AB:56:E8&stream=501422&extension=ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | FOX Sports 1
-https://cors-proxy.elfsight.com/http://gtvstreams.me:80/live/Tony15/Tony15/219143.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | TSN 1
-https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=132769&extension=ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | TSN 4
-https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=132772&extension=ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="No SignaL 📺", EURO | Sony Sports 1
-https://cors-proxy.elfsight.com/http://newlife3.wanicelife.com:8880/live/DAALM2417/XmSRhutE3r/55284.ts
-
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="No SignaL 📺", EURO | LIVE 1
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/4
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="No SignaL 📺", EURO | LIVE 2
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/5
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="No SignaL 📺", EURO | LIVE 3
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/6
 
 #EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="No SignaL 📺", EURO | Sportstar 3 HD ᵛ⁺
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -555,6 +402,11 @@ https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+#EXTINF:-1 tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="No SignaL 📺", PPTV 36 HD
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/DASH/B0022.mpd?playbackUrlPrefix=https://tr.play-rbcdn.ais.co.th:8438/&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/anevia&tt=dae2196cfde5256c38dd2eee3b35a814&chunkHttps=true&tmid=B0006&tpbk=ZIOjMHLcbZ0C4mFa&rrt=1722193560&tmod=rfk&rsid=a93ccee5-7059-4996-adca-72c28dbcf87e&tuid=uwBArnpAx+l0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4+n/qh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0=&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1722279886
 
 #EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="No SignaL 📺", EURO | PPTV 36 HD - Backup
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
@@ -724,6 +576,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JzHf9QO.png" group-title="No SignaL 📺", SCTV bisa
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.ts
+
+##https://nonton.site:8443/live/ekos/748344x/931.ts
+##http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162141.ts
+##https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32.ts
+##https://nonton.site:8443/live/ekos/748344x/32.ts
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-url="" tvg-logo="https://i.imgur.com/LdOc4CC.png" group-title="No SignaL 📺", RCTI+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1180,11 +1039,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85AQz4d.png" group-title="Nasional 🇮🇩", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
-#EXTINF:0 tvg-id="RCTI.id" tvg-url="" tvg-logo="https://i.imgur.com/t1WWk8V.png" group-title="Nasional 🇮🇩", RCTI ᵛ⁺
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t1WWk8V.png" group-title="Nasional 🇮🇩", RCTI ʳ⁺
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
@@ -8315,7 +8173,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-09-09 11:21:00 GMT+7 "
+# (●) Last Update: 2024-09-09 19:16:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
