@@ -1092,7 +1092,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Nasional 🇮🇩", SindoNews TV ᵛ⁺
-#EXTINF:-1 group-title="NEWS" tvg-id="SINDO NEWS TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/14/PppRS.png",12.SINDO NEWS TV
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
