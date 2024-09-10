@@ -265,6 +265,9 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:BA:72:3A&stream=231230&exte
 
 ##http://mag.abcdxyz.one:80/play/live.php?mac=00:1A:79:AF:5F:41&stream=194094&extension=ts
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RTNDQ5h/bolachan.png" group-title="No SignaL 📺", bola 1
+http://mag.abcdxyz.one:80/play/live.php?mac=00:1A:79:17:1E:06&stream=115179&extension=ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DiemaSport2-logo.svg/320px-DiemaSport2-logo.svg.png" group-title="No SignaL 📺", Diema Sport 2
 http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:74:08:F0&stream=56191&extension=ts
 
