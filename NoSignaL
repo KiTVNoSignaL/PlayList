@@ -1247,7 +1247,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd|refer
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 https://cempedak-cdn-fly.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd|referer=https://www.visionplus.id/
  
-#EXTINF:-1 group-title="Daerah" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png", Bali TV ᵛ⁺ 322
+#EXTINF:-1 group-title="Daerah" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png", Bali TV ᵛ⁺ 123
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd|referer=https://www.visionplus.id/
