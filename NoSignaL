@@ -105,6 +105,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="No SignaL 📺", mOji 3
 http://013tv.com:8080/live/AmirBilali/76448035/298550.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="No SignaL 📺", mOji 4
+http://ktv.im:8080/556224433k/9004455221/101156
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="No SignaL 📺", BRI Liga (EVENT ONLY)
 https://lebo.huminbird.cn/live/sd-6MsDBFTegAUdWc5Nbp.m3u8
 
@@ -342,6 +345,26 @@ http://ktv.im:8080/556224433k/9004455221/49541
 ##http://ktv.im:8080/556224433k/9004455221/49606
 ##http://ktv.im:8080/556224433k/9004455221/49530
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="No SignaL 📺", ESPN 1
+http://livein1.com:8080/play/live.php?mac=00:1A:79:4B:DD:FF&stream=173529&extension=m3u8
+
+##http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/109299.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="No SignaL 📺", ESPN 2
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/109301.m3u8
+
+##http://gtvstreams.me:80/play/live.php?mac=00:1A:79:72:E6:10&stream=221243&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="No SignaL 📺", ESPN 3
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/109303.m3u8
+
+##http://gtvstreams.me:80/play/live.php?mac=00:1A:79:72:E6:10&stream=221244&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="No SignaL 📺", ESPN 4
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/109304.m3u8
+
+##http://gtvstreams.me:80/play/live.php?mac=00:1A:79:72:E6:10&stream=221245&extension=m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RTNDQ5h/bolachan.png" group-title="No SignaL 📺", bola
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:BA:72:3A&stream=231230&extension=ts
 
@@ -364,6 +387,16 @@ http://sygri.ytsmlve.com:2082/play/live.php?mac=00:1A:79:5B:3B:57&stream=39984&e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sky_Sport_Austria_Logo_2020.svg/320px-Sky_Sport_Austria_Logo_2020.svg.png" group-title="No SignaL 📺", Sky Sport Austria
 http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:74:08:F0&stream=4625&extension=ts
+
+#EXTINF:-1 tvg-logo="https://images-cdn4.welcomesoftware.com/assets/Fox+Sports+Plus.png" group-title="No SignaL 📺", Fox Soccer Plus
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:08:E8:19&stream=630502&extension=ts
+
+##http://mag.abcdxyz.one/play/live.php?mac=00:1A:79:17:1E:06&stream=151932&extension=ts
+
+#EXTINF:-1 tvg-logo="https://images-cdn4.welcomesoftware.com/assets/Fox+Sports+Plus.png" group-title="No SignaL 📺", Fox Soccer Plus 2
+http://eu58.xyz:8080/play/live.php?mac=00:1A:79:3B:88:E3&stream=486813&extension=m3u8
+
+##http://wildversion.com/play/live.php?mac=00:1A:79:F1:B8:05&stream=219141&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/V_Sport_Motor_logo.png/320px-V_Sport_Motor_logo.png" group-title="No SignaL 📺", V Sport Motor
 http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:74:08:F0&stream=39054&extension=ts
@@ -875,6 +908,9 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?h
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="No SignaL 📺", Indosiar(@)
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="No SignaL 📺", Indosiar TV
+http://ktv.im:8080/556224433k/9004455221/101131
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -891,9 +927,18 @@ https://ythls.kekikakademi.org/youtube/video/nfgnpM28xDA.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ythls.kekikakademi.org/youtube/video/DOOrIxw5xOw.m3u8
 
-#EXTINF:-1 tvg-id="Net.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png" group-title="No SignaL 📺",Net (YT) ChanneL
+#EXTINF:-1 tvg-id="Net.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png" group-title="No SignaL 📺", Net (YT) ChanneL
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ythls.kekikakademi.org/youtube/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/607ddb88293e4b4f56040a30/69dc1d2e-319b-471c-8aaa-c5defbbb6732/Folklor-red.png" group-title="No SignaL 📺", Musik & Folklor
+https://63b2dc7196c38.streamlock.net:1937/musikfolklor/ngrp:musikfolklor_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.eljohn.id/assets/vidoe/img/eljohn-logo.png" group-title="No SignaL 📺", El John TV
+https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-Tagline-Hitam.png" group-title="No SignaL 📺", PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
@@ -1148,7 +1193,7 @@ https://play-gachor.xyz/htv@lite/kjTECpmDmq/16
 
 #EXTINF:-1 group-logo="https://i.imgur.com/zwTUrfO.png"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qtx2t9L.png" group-title="Nasional 🇮🇩", aLLplay ⁱ
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1696933489-.png" group-title="Nasional 🇮🇩", aLLplay Ent ⁱ
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-id="ANTV" tvg-logo="https://i.imgur.com/PrEtgIp.png" group-title="Nasional 🇮🇩", Antv ⁱ
@@ -1182,10 +1227,16 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_GPRTV.png/320px-Logo_GPRTV.png" group-title="Nasional 🇮🇩", GPR TV ʸᵗ
+https://ythls.kekikakademi.org/youtube/channel/UCn-Ex0zXXTVElhMr12o0zwA.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/eDSm78Y.png" group-title="Nasional 🇮🇩", GTV ʳ⁺
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/IDTV.svg/320px-IDTV.svg.png" group-title="Nasional 🇮🇩", IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/NobRlzR.png" group-title="Nasional 🇮🇩", IDX ᵛ⁺
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2705,13 +2756,22 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmar
 
 #EXTINF:0 group-logo="https://i.postimg.cc/SN6bY5f6/knowledge.png"
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/640px-Animal_Planet.png" group-title="Knowledge", Animal Planet id
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/640px-Animal_Planet.png" group-title="Knowledge", Animal Planet (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png" group-title="Knowledge", Animal Planet
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png" group-title="Knowledge", Animal Planet
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/320px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Knowledge", Animal Planet
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+
+##https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_pandatv_small.png" group-title="Knowledge", Panda TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -8564,7 +8624,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-09-11 17:18:00 GMT+7 "
+# (●) Last Update: 2024-09-12 17:55:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
