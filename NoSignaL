@@ -345,6 +345,54 @@ http://ktv.im:8080/556224433k/9004455221/49541
 ##http://ktv.im:8080/556224433k/9004455221/49606
 ##http://ktv.im:8080/556224433k/9004455221/49530
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/ESPN-logo-024A47118E-seeklogo.com.png" group-title="No SignaL 📺", ESPN 1 🇺🇸
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:08:E8:19&stream=630483&extension=m3u8
+
+##http://wildversion.com/play/live.php?mac=00:1A:79:F1:B8:05&stream=219088&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/ESPN-logo-024A47118E-seeklogo.com.png" group-title="No SignaL 📺", ESPN 2 🇺🇸
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:08:E8:19&stream=630485&extension=m3u8
+
+##http://wildversion.com/play/live.php?mac=00:1A:79:F1:B8:05&stream=219089&extension=m3u8
+##http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=630485&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-680BBDFB50-seeklogo.com.png" group-title="No SignaL 📺", Fox Sports AR 1
+http://itsbx.uk:80/13124417/88396864/4911077.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-680BBDFB50-seeklogo.com.png" group-title="No SignaL 📺", Fox Sports AR 2
+http://itsbx.uk:80/13124417/88396864/4911065.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-680BBDFB50-seeklogo.com.png" group-title="No SignaL 📺", Fox Sports AR 1
+http://itsbx.uk:80/13124417/88396864/4911068.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png/320px-Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="No SignaL 📺", Fox Sports Premium
+http://itsbx.uk:80/13124417/88396864/4911079.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fox_Sports_wordmark_logo.svg/320px-Fox_Sports_wordmark_logo.svg.png" group-title="No SignaL 📺", Fox Sports us 1
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:08:E8:19&stream=630503&extension=ts
+
+##http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/102786.ts
+##http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=772354&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fox_Sports_wordmark_logo.svg/320px-Fox_Sports_wordmark_logo.svg.png" group-title="No SignaL 📺", Fox Sports us 2
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:08:E8:19&stream=630505&extension=ts
+
+##http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/102787.ts
+##http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=630505&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/320px-Premiere_logo_2013.png" group-title="No SignaL 📺", Premiere 1
+http://itsbx.uk:80/123456/123456/4910519.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/320px-Premiere_logo_2013.png" group-title="No SignaL 📺", Premiere 2
+http://itsbx.uk:80/123456/123456/4910499.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/320px-Premiere_logo_2013.png" group-title="No SignaL 📺", Premiere 3
+http://itsbx.uk:80/123456/123456/4910503.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", TnT Sports
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="No SignaL 📺", ESPN 1
 http://livein1.com:8080/play/live.php?mac=00:1A:79:4B:DD:FF&stream=173529&extension=m3u8
 
@@ -1244,6 +1292,12 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
 ##https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-m.png" group-title="Nasional 🇮🇩", IDX (V+)
+https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/NobRlzR.png" group-title="Nasional 🇮🇩", IDX ᵛ⁺
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -8624,7 +8678,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-09-12 18:01:00 GMT+7 "
+# (●) Last Update: 2024-09-13 10:01:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
