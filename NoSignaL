@@ -134,6 +134,27 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-037/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", Sky Sports Main Event
+http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=5542&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", Sky Sports Premier League
+http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=5546&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", Sky Sports Football UK
+http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:74:08:F0&stream=38399&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", Sky Sports F1
+http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=5539&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", Sky Sports Arena UK
+http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=997323&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", Sky Sports Golf
+http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=5541&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", Sky Sports Tennis
+http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=1086968&extension=m3u8
+
 #EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", Sky Sport MIX
 http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/110863.m3u8
 
