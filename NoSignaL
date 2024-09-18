@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/guide.xml.gz,"refresh="3600"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,"refresh="3600"
 
 #EXTM3U billed-msg="by KiNoy >>> PlayList No Public - Khusus untuk Member 📺 KiTV - PlayList ini didapat dari berbagai Sumber 💯% Free !!! -- !!! Selamat Menyaksikan !!!"
@@ -1449,6 +1450,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0b
 #EXTINF:-1 tvg-name="TV ONE" tvg-logo="https://i.imgur.com/aiBI9Vd.png" group-title="Nasional 🇮🇩", tvOne ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+##https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 #EXTINF:0 tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/yRBzTVo.png" group-title="Nasional 🇮🇩", TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -6271,6 +6274,7 @@ http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71021
 #EXTINF:-1 tvg-id="astroawani.my" tvg-name="astroawani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia 🇲🇾", Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_2.m3u8
 
+##https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1726668902/ei/BozqZoSNAdmWvcAPp-qb0Q8/ip/2407:4d00:1c06:8041:df59:a81a:e28:cc33/id/weCEi1NE0C8.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-3cgv-un5z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/54MbxcVI5AkZnOpdaTx_8jEkQ2krCnar4LYPiuh1KSsMwpPJ65kdwZxgHs_ITyU/vprv/1/playlist_type/DVR/initcwndbps/1126250/mh/V_/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/m/mvi/1/pl/51/dover/11/pacing/0/keepalive/yes/mt/1726646924/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgDeq3-mTwyU_909pb4DYz-AcgBQwJ36p2ijAzy7Y15d8CIQCIPHexuPOO5trKnT-ivWNodMBziIUl4ckS2pLJnI8vSw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ABPmVW0wRQIhAN37bCrlMvd_4pt_PkCzHJo4mJ6MF00Jj-h9uyunkNWIAiBTZe9wzI1rSK_QLfm5hbQbGDTDfV-XPEhaV875aDhxeA%3D%3D/playlist/index.m3u8
 #https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8#
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="Malaysia 🇲🇾", Astro Arena
