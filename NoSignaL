@@ -167,6 +167,9 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=560514&ext
 #EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", Sky Sport
 http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/117930.m3u8
 
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", Sky Sports NBA
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B6:3E:B5&stream=56601&extension=m3u8
+
 ##http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:08:E8:19&stream=82242&extension=m3u8
 ##http://luxury-iptv.com:80/live/Huzeir_Jusic/WyCf9BrzdQ/12072.m3u8
 ##http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/132854.m3u8
@@ -174,6 +177,12 @@ http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/117930.m3u8
 ##http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B6:3E:B5&stream=56601&extension=m3u8
 ##http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B6:3E:B5&stream=305275&extension=m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/V_Sport_Motor_logo.png/320px-V_Sport_Motor_logo.png" group-title="No SignaL 📺", V Sport Motor
+http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:74:08:F0&stream=39054&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", TnT Sport 2
+http://mag.abcdxyz.one:80/play/live.php?mac=00:1A:79:17:1E:06&stream=300451&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", TnT Sport 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -204,6 +213,9 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7fecbc594512443a8bc26471a9cf3234:a3ed608db354550dd17c5c9e5cb51cdf
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", belum ada judul 6
+http://mag.abcdxyz.one:80/play/live.php?mac=00:1A:79:17:1E:06&stream=196725&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="No SignaL 📺", FS 2 🇺🇸
 #EXTVLCOPT:http-referrer=https://player.goupnow.net/
@@ -289,6 +301,29 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-cdn-fly.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_Benfica_TV.png/800px-Logo_Benfica_TV.png" group-title="No SignaL 📺", Benfica TV
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/132563.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png" group-title="No SignaL 📺", Fenerbahce TV
+http://050518.pro:8000/play/jt3H8GjlACrE6Jl872b5Mhx-Y6JGABd4kEeMvAPgsnXvLlfQjOWjNmE3e6FbQTAo2_tHXqYUYjVRAFBqeTaSlg8MNSY71Q33VEJh18gxqVnEuS0wC53ubrpwHx_XvDNu?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Gstv_00.png/200px-Gstv_00.png" group-title="No SignaL 📺", Galatasaray TV
+http://050518.pro:8000/play/jt3H8GjlACrE6Jl872b5Mhx-Y6JGABd4kEeMvAPgsnWJbONCaA5t1PvAqdnqodKNLo95x6atW2QXCfEJzCzOirWtpsSz-In3GaXAy9g2tCWXjsBUKbUgX99x2dxd7K4P?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Inter_TV_-_Logo_2017.svg/320px-Inter_TV_-_Logo_2017.svg.png" group-title="No SignaL 📺", Inter TV
+http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:74:08:F0&stream=51527&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title="No SignaL 📺", LFCtv
+http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=231672&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Real_Madrid_TV.png" group-title="No SignaL 📺", Madrid TV
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/48543.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Milan_TV_-_Logo_2016.png" group-title="No SignaL 📺", Milan TV
+http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:74:08:F0&stream=51528&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/200px-MUTV_logo.png" group-title="No SignaL 📺", MU tv
+http://mag.abcdxyz.one:80/play/live.php?mac=00:1A:79:17:1E:06&stream=300426&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="No SignaL 📺", Astro SuperSport
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554729&extension=m3u8
@@ -8716,7 +8751,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-09-17 10:01:00 GMT+7 "
+# (●) Last Update: 2024-09-18 10:01:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
