@@ -2009,6 +2009,57 @@ http://rr2.dens.tv/s/s10/index10.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhDFes6U8h-jsBlVA-sRVeor93WcWiKsMG_yuE5W8t8sA.png" group-title="News", CNN INTERNATIONAL
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILhTNGiaVmOz_UcLcwaorBvA
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhrI5XbNJ2a2uflSeq0yRmuQ.png" group-title="News", CNN FAST
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILuEWyWThmS46LTZwHYQ2qP0
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhzgpBid3LSIebLAhah8aJVQ.png" group-title="News", SKY NEWS
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILii4GExtUH27gNQP_vJ1m0c
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhSWNgvZDuM_oIYZQK5VIIedIhJoapiSukSJeai0AabDI.png" group-title="News", NBC NEWS
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILkUKNoHcQ-0vWRDkOraeRs4
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhGXJkvLor5HtYtKDjWwVvu5g7qWFeIfnnOcWlMF37Vaw.png" group-title="News", ABC NEWS
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs4GVlZ0muOSnWCx-TrcHgM
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh-lKqFfxYP-x_8poqoVH9Uw.png" group-title="News", BBC NEWS
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILgA00CeuzNBPg2b5FfT8dEo
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh4i9rfLuLmiXP8Jn2AARAkg.png" group-title="News", ALJAZEERA
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILtxAxQ364U3Kjr3I-lR6d5g
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhUfdxLgaCAsDPlRO7g9tf4w.png" group-title="News", FOX NEWS
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILnc70afznJZM4O8P-o1ulZI
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhgBbpUKuE1Rwxf1AlTeM5b1tKg7cTYgu8FQdRcmtK_yg.png" group-title="News", RT ENGLISH
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILrGJaZ2i3zUbyKnYUPVM1Fs
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhCgWQHRJo5hQSoLw6ZaM2zQ.png" group-title="News", EURO NEWS
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILhDDuIhr3rkDRmfzBluV8LQ
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh5uQCOZFuW_SrXr4fkFr45Q.png" group-title="News", DW ENGLISH
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILvA3i4SXaQNJ1QBSJAojOM4
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh_Dkhp1VhTVlxl2No6vIF1w.png" group-title="News", FRANCE 24
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILrdRHjMfJe_1LKyUciR_FJg
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhFL93q6SofQ4Ivs6pmQUU7g.png" group-title="News", CNBC ASIA
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILmHss1MGBehxRAA_cLnMdNM
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhUpC__TeJUF5PBKS-AFTSUw.png" group-title="News", BLOOMBERG
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILrPGYmRvXlMV4zw13KrX_lE
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhwlWoaU8cBrZZQJaj8SdMFA.png" group-title="News", CNA
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILg2F9Iwtq8f_8480TDn7gMg
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhzeFF1PS6Ubtg_JUcdbQdlQ.png" group-title="News", IDX
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILuOH21OskYA177EVysnqRl8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhA-5YZdqslzXV4bYBI08NkA.png" group-title="News", SEA TODAY
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILozxEtkHyiiGgf7Od27YgV0
+
 
 
 
@@ -2516,6 +2567,21 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
 tvg-logo="https://rubbyguntara.github.io/src/img/bflix.png"
 
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4krBvumAA78JZVB7z12JReRLtUaKtS0ner1IeU-wz-MHk.png" group-title="Movies", BIOSKOP ACTION
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILt6NUY3UMVvnooDzZ8xuU0U
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4krBvumAA78JZVB7z12JReRLtUaKtS0ner1IeU-wz-MHk.png" group-title="Movies", BIOSKOP CHINA
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILpuexLUKlAczRe_YVvM7NMg
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4krBvumAA78JZVB7z12JReRLtUaKtS0ner1IeU-wz-MHk.png" group-title="Movies", BIOSKOP BOLLYWOOD
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILiWSAnzIYeqn2ji88Aqtk00
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4krBvumAA78JZVB7z12JReRLtUaKtS0ner1IeU-wz-MHk.png" group-title="Movies", BIOSKOP HORROR
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILk6NefdhMwNVYeE8xi1_inA
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4krBvumAA78JZVB7z12JReRLtUaKtS0ner1IeU-wz-MHk.png" group-title="Movies", BIOSKOP INDONESIA
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILq67eBuGpK9oGsCYPsGW7N
+
 
 
 
@@ -2893,6 +2959,33 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd|refe
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd|referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1ffY3lhJ_dOF9iXr61LJZ1v-ub8yHuumlf-ayhcibjV5I.png" group-title="Lifestyle", FASHION TV
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILu5dFBkJjq-PFxBiBDg9kc8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f6bMKUWTDlWBL98SwEXdUcLS15OKQq6CzEzO7hiZdq1I.png" group-title="Lifestyle", FASHION TV MIDNIGHT
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILkk3WjMSDmy_jRKosQ4tavQ
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fmz4QNyGguLS4rXQ3EIWYqFZPTvfxdr-Tv_4Q2-PIjbU.png" group-title="Lifestyle", HOMEFUL
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILr90qHMkDTKWCRvoqzU6nGA
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fCT1lV8woRXmkD2Oc21gD2eh40BJicyyibsR5grAmxP0.png" group-title="Lifestyle", TASTEMADE
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILpjJirPx39RK8A8MNmlcsoM
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fsVZ7_Zg_DyCLQ6bRW4AGwNP04XI9F7wQ0JauauOAbug.png" group-title="Lifestyle", AT HOME
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILoHQuveLFxgrOjD8zwGMFSM
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fJY68-HyK4HlPRf8lNFlmr8ovN8MpajsI7C9V2bmc4tA.png" group-title="Lifestyle", HOME REFRESH
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILrEAgXrlKY9kILouvBc34ig
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fdNrm68T92jm2YyCftDYuXwToiRJ7h-pb8qnLfmkdm98.png" group-title="Lifestyle", HOME MADE NATION
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILndWNeJFw8rKW91JVwhSXMk
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1fdXC95iCNZwbhyF-Bpi61j4vvYuQY0B9xAVvwxKXU5qQ.png" group-title="Lifestyle", NBC LX HOME
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILgI4NNjG6p36yzagqJqKEtg
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZVGKa_WXlY1pFKTPGwdF1f_nQaH_eJA_6KqkAyqpnFAZCJArT8CF-3DqgV3j0C0t4.png" group-title="Lifestyle", TRAVEL XP
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILoxIbwpY2JzYFejxDSJzTLY
 
 
 
@@ -4907,6 +5000,27 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewH
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Kids", Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcCvm8mQjb9cXh13Do_iYDm6IZ6LHPgrRHXiPN9b1IDk4.png" group-title="Kids", ASTRO CERIA
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILi6R0X6Y0uIQRJB2uBfYpOU
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcbrmfIh1efIx20YCvDMYM2iQscS3LuRzZeZ2KK4ay3Pc.png" group-title="Kids", DREAMWORS
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILosu9Q-Yh_XB7h3bCuoRxiw
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcjo48p6lhkgV6EnAvedgyjB3WXSJHoJ88wcHc5XI3SNw.png" group-title="Kids", CARTOON NETWORK
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILqE5ulKEDF0lSYOpj9Azsx8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcUvvtz58HyUwxERN7eFcmDQ.png" group-title="Kids", NICK JR
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILvgCScuO5O0aITp6Eu5zvqA
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcCceBV0rxKSqBhdJOP8PmALD2wcXAIdlk2hKOgYxAiTM.png" group-title="Kids", NICKELODEON
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILlw9pWOoM-YaoF2l9YlUKmA
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcrMv5ootj3Crjg7UGWmC1aw.png" group-title="Kids", UPIN IPIN
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILontFYn7Rl61Yojqs_Kdi1k
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcwKjIMya0Azpmz_o10mjdNQ.png" group-title="Kids", DORAEMON
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs4FqqGRhKBEGpSaRJ7ES5k
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/colorLogoPNG.png" group-title="Kids", Beyblade
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632119a92c3b880007d3f5dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -8301,6 +8415,69 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122760
 #KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
 https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
 
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7bem1m7GPH-lvtxUAlPUbvg.png" group-title="TV BackUP", ASTRO BOO
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsgXyykC1GMEYP2wR5OQSP0
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX79CKI_NmJcr81irSyIyLmDg.png" group-title="TV BackUP", ASTRO OASIS
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILjzcm9aL72pVhLlfth-DwD0
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX741G93MXdh4Ol_CqtExUyig.png" group-title="TV BackUP", ASTRO RANIA
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILoRKDgK8trRmEwDq7Uqczhw
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7R_JTP8BnNhntAmq8V67dLw.png" group-title="TV BackUP", ASTRO AURA
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILosJZ9wy2-DamCyRSR7StZA
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7oWIDxvwTLHO6BKcXmiESX661xXME2-l4em12yHY5OIU.png" group-title="TV BackUP", ASTRO PREMIER
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILv1FJq3gp2JrgkvgTWpsq9s
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7vQKaz25Tq-tr4hMQiIqaNA.png" group-title="TV BackUP", AWANI
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILtmKLVjzg7pb25QkOgNr2aE
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7I0mbUyVQ6HL_EV4NbYM8bdUewUYhwmVxsyPtaFvWtgE.png" group-title="TV BackUP", SHOWCASE MOVIE
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILrIEkIgOABXU3KIoZXt1nWo
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7Jd21tvfzB0GUq5P5t2XTQ5F0KjwOvJmCgIbHT1SGBWc.png" group-title="TV BackUP", DRAMA HEBAT
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILpXCXEDifObomccJ1rUbFZ8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7_x8vfeMnuf25-2Zsqaa8d0ppzJ7uvWi9nNX-28Z3H4c.png" group-title="TV BackUP", DRAMA HOTPOT
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILosTZb2VIkxVsZ_yoRwtZ98
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7U0TaepNg-TX1073hWEKZlkOt5QvigEXWyrG74gq1vFU.png" group-title="TV BackUP", FILM MANTAP
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILpD934eQBiN1LBpYy_CxZy8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7zOYyxfhzxotTr2vkia-iiyMemgTYqbDGLOMBXWAtgmw.png" group-title="TV BackUP", LAWAK SENTRAL
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILowI3PoHHYKVFxKz2hzaTG4
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7zg2cfptYFZRe6sQfTK_xVA.png" group-title="TV BackUP", TV 1
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILpCceDxcGeLFVd8KXRUfmEQ
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7zzZHMDckmnU_kS5eMWkTzA.png" group-title="TV BackUP", TV 2
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsVee4OIGxhffh5NLwjdxjM
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7m7NE5Bz5B0z6q9O7MCHN-Q.png" group-title="TV BackUP", TV 3
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILp8gCpKLTU5iM9F8QHdCYdM
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7s_0_dxIT84CxsrXL_N6ejQ.png" group-title="TV BackUP", TV 6
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsrM3fjHCP9eh4uMu7YW44Q
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX785Na4n279mqQFY2wSVuvdQ.png" group-title="TV BackUP", TV 8
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILkHt5oyghrFsI1EEtLBj0MM
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7GNnYeQwd45b1UDtp33K9ew.png" group-title="TV BackUP", TV 9
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILitWuOOeLk7etq-k89yWouQ
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7xMQdnFCEKuEnRKMXCxWE8513M2SU3A1c_qCBg3bMYEg.png" group-title="TV BackUP", RTB Aneka
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILoU4xT0sNrNCHlktoIRzIxY
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX78W4Cy61MEQzOxJVvzGZZ0SgPGAwvop3qbEWiFX-BkNI.png" group-title="TV BackUP", RTB Sukmaindera
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILq_n7QAbvxRCCKx8muzYvMc
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX72KjQtlvt49XLtRFQF_fK8w.png" group-title="TV BackUP", RTB GO LIVE
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILpIatXGcb0J_PLNgSf7r5CA
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7l9iVj1r4Kuk8FveO7p1ygg.png" group-title="TV BackUP", OKEY
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILr51BgsO85ssT6BCrIkMAqw
+
 
 
 
@@ -8771,7 +8948,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-09-18 10:01:00 GMT+7 "
+# (●) Last Update: 2024-09-19 10:01:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
