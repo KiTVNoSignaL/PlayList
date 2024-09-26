@@ -205,6 +205,20 @@ http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:C7:1E:6E&stream=23851&extens
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KXGcbYq/sky-sport.png" group-title="No SignaL 📺", Sky_Sport NZ Select
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:C7:1E:6E&stream=23850&extension=m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KXGcbYq/sky-sport.png" group-title="No SignaL 📺", Sky_Sport Austria 1
+http://sky-tv.org:88/02043328231767/ZSASbsuSi6mgRgL/94511
+
+
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="No SignaL 📺",Arena 1
+http://mytv-extra.com:900/live/t12mgxyb335/9832948789/191853.ts
+#https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILr6tYu3go-RXr5T_o0fXDQQ
+
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="No SignaL 📺",Arena 2
+http://mytv-extra.com:900/live/t12mgxyb335/9832948789/185822.ts
+#https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILjvbheYF3I2eVQrQvw2irpA
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/premier-league-new-logo-D22A0CE87E-seeklogo.com.png" group-title="No SignaL 📺", Premier League
 http://anything.ev20.net:8080/play/live.php?mac=00:1A:79:59:A6:84&stream=156305&extension=ts
 
@@ -297,9 +311,17 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="No SignaL 📺", belum ada judul 6
 http://mag.abcdxyz.one:80/play/live.php?mac=00:1A:79:17:1E:06&stream=196725&extension=m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="No SignaL 📺", FS 1 🇺🇸
+http://1tv41.icu:8080/live/aQwbj3/140716/1846.ts
+
+##http://21tv.net:8789/play/live.php?mac=00:1A:79:35:89:7F&stream=117068&extension=ts
+##http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/102786.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="No SignaL 📺", FS 2 🇺🇸
 #EXTVLCOPT:http-referrer=https://player.goupnow.net/
-https://rr2---sn-npoe23nsr.creativehub.sbs/Fox_Sports_2_Live_TV/index.m3u8?tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjQ5LjEzLjE4LjU2IiwidXJsc3RyZWFtIjoiaHR0cHM6Ly9saXZlX3R2LnN0YXJjZG51cC5jb20vRm94X1Nwb3J0c18yX0xpdmVfVFYvaW5kZXgubTN1OCIsIndlYnNpdGUiOiJodHRwczovL2JlZXNwb3J0Lm5ldC9hdXRob3JpemUtY2hhbm5lbCIsImlzVklQIjoiMCIsImV4cCI6MTcyNDkxMTUwMX0._LSltvmoZfx86rExucHDPH01PHsHTpnrlfyHcnEkex0&ref=https://beesport.net/
+http://1tv41.icu:8080/live/aQwbj3/140716/1847.ts
+
+##http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/102787.ts
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="No SignaL 📺", Sportstars 2 FHD+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -538,6 +560,80 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:08:E8:19&stream=630505&ex
 
 ##http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/102787.ts
 ##http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=630505&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", Action
+http://kstv.us:8080/tH300gvHff/8606073792/47637
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", Blitz
+http://kstv.us:8080/tH300gvHff/8606073792/47632
+
+##http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=566522&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", Cricket
+http://kstv.us:8080/tH300gvHff/8606073792/47634
+
+##http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=652910&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", FootBall
+http://kstv.us:8080/live/tH300gvHff/8606073792/47636.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", Golf
+http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=531517&extension=ts
+
+##http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=652914&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", GandStand
+http://kstv.us:8080/tH300gvHff/8606073792/47724
+
+##http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=531505&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", LaLiga
+http://kstv.us:8080/live/tH300gvHff/8606073792/47638.m3u8
+
+##http://89.45.13.153:25461/play/live.php?mac=00:1A:79:00:00:01&stream=1350747&extension=m3u8
+##http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=531508&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", MaXimo
+http://kstv.us:8080/live/tH300gvHff/8606073792/47640.m3u8
+
+##http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18534&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", PSL
+http://kstv.us:8080/tH300gvHff/8606073792/47639
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", Rugby
+http://kstv.us:8080/tH300gvHff/8606073792/47635
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", Tennis
+http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=531518&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", Variety 1
+http://kstv.us:8080/tH300gvHff/8606073792/47628
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", Variety 2
+http://kstv.us:8080/tH300gvHff/8606073792/47629
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", Variety 3
+http://kstv.us:8080/tH300gvHff/8606073792/47630
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="No SignaL 📺", Variety 4
+http://kstv.us:8080/tH300gvHff/8606073792/47631
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/320px-Premiere_logo_2013.png" group-title="No SignaL 📺", Premiere_1
+http://178.162.225.82:2082/live/Tourobox1-WrAVcR6PbW/M0LZqjNQjG/164.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/320px-Premiere_logo_2013.png" group-title="No SignaL 📺", Premiere_2
+http://178.162.225.82:2082/live/Tourobox1-WrAVcR6PbW/M0LZqjNQjG/148.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/320px-Premiere_logo_2013.png" group-title="No SignaL 📺", Premiere_3
+http://178.162.225.82:2082/live/Tourobox1-WrAVcR6PbW/M0LZqjNQjG/150.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/320px-Premiere_logo_2013.png" group-title="No SignaL 📺", Premiere
+http://kstv.us:8080/tH300gvHff/8606073792/47633
+
+##http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=m3u8
+##http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=531507&extension=m3u8
+##http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:C7:1E:6E&stream=531507&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/320px-Premiere_logo_2013.png" group-title="No SignaL 📺", Premiere 1
 http://itsbx.uk:80/123456/123456/4910519.m3u8
@@ -1645,6 +1741,16 @@ https://63b2dc7196c38.streamlock.net:1937/riautv/myStream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 https://cempedak-cdn-fly.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd|referer=https://www.visionplus.id/
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Daerah" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png",Jowo Channel
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
+
 #EXTINF:-1 group-title="Daerah" tvg-logo="https://i.imgur.com/wkK7YNx.png", JTV ᵛ⁺
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -2453,6 +2559,18 @@ Rock Action
 {b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc}
 
 
+#EXTINF:-1 tvg-id="mnet.za" tvg-name="DSTV| M-NET HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies", DSTV| M-NET HD
+http://mytv-extra.com:900/t12mgxyb335/9832948789/14582
+#EXTINF:-1 tvg-id="mmovies1.za" tvg-name="DSTV| M-NET MOVIES 1 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies", DSTV| M-NET MOVIES 1 HD
+http://mytv-extra.com:900/t12mgxyb335/9832948789/14583
+#EXTINF:-1 tvg-id="mmovies2.za" tvg-name="DSTV| M-NET MOVIES 2 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies", DSTV| M-NET MOVIES 2 HD
+http://mytv-extra.com:900/t12mgxyb335/9832948789/14580
+#EXTINF:-1 tvg-id="mmovies3.za" tvg-name="DSTV| M-NET MOVIES 3 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies", DSTV| M-NET MOVIES 3 HD
+http://mytv-extra.com:900/t12mgxyb335/9832948789/186854
+#EXTINF:-1 tvg-id="mmovies4.za" tvg-name="DSTV| M-NET MOVIES 4 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies", DSTV| M-NET MOVIES 4 HD
+http://mytv-extra.com:900/t12mgxyb335/9832948789/186853
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| M-NET EAST HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies", DSTV| M-NET EAST HD
+http://mytv-extra.com:900/t12mgxyb335/9832948789/353443
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="Movies", HBO SG
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -9139,7 +9257,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-09-23 15:51:00 GMT+7 "
+# (●) Last Update: 2024-09-26 17:51:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
