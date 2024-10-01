@@ -63,6 +63,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=941564&ex
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Google_Stadia_logo.svg/320px-Google_Stadia_logo.svg.png" group-title="No SignaL 📺", SPOTV Stadia 2
 http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=941563&extension=ts
 
+##http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656927
 ##http://mytv-extra.com:80/live/t12mgxyb335/9832948789/13131.ts
 
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" group-title="No SignaL 📺", SPOTV
@@ -110,6 +111,163 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRSxndb114QtQxtDU1ZVT_gr8oW29jLKQCIPCd2KXaa64.png" group-title="No SignaL 📺", F ONE - 1
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILob7wjSznZrC1fJq0ZMo7mU
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRSxndb114QtQxtDU1ZVT_gr8oW29jLKQCIPCd2KXaa64.png" group-title="No SignaL 📺", F ONE - 2
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILtBG0Kh7OMSrFeKnugT4VEM
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRxyco6FGlY4rL_9k0FOpmYo_6w_oiAnUu9BEBwpL8UFo.png" group-title="No SignaL 📺", MOTOGP - 1
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILrE7U-B-Ck4umYi3TlDKvBs
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRxyco6FGlY4rL_9k0FOpmYo_6w_oiAnUu9BEBwpL8UFo.png" group-title="No SignaL 📺", MOTOGP - 2
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILv03fN9DQJCS6hFr9JIwaxQ
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRxVzzdaPTSv-hDF1zWy37laqujpjQ7Am_vnSs9BaMhAw.png" group-title="No SignaL 📺", TENNIS - 1
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILml6Sa5gpKu1pBvqQI4LAI8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRxVzzdaPTSv-hDF1zWy37laqujpjQ7Am_vnSs9BaMhAw.png" group-title="No SignaL 📺", TENNIS - 2
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILoUcX9Yw1EmMW5hoH-eqDqo
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRxVzzdaPTSv-hDF1zWy37laqujpjQ7Am_vnSs9BaMhAw.png" group-title="No SignaL 📺", TENNIS - 3
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILn6LCvtgNTO9STWmslXraDQ
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRe0xG97JMSAuQEpyqPRRM87VWGwq2dZ4Bby55HYHZhFs.png" group-title="No SignaL 📺", NBA - 1
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILmNKFj0Sisdq47b3UNhc1lI
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRe0xG97JMSAuQEpyqPRRM87VWGwq2dZ4Bby55HYHZhFs.png" group-title="No SignaL 📺", NBA - 2
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILgJrt0BQA44ggjOHlxz8hPQ
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkR-YBLd8og2J08jljmWSmIwn5RgtXIkh2kasO1bJH4gOU.png" group-title="No SignaL 📺", GOLF - 1
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILq2Ekxz9pTq-za0CoPFO3_o
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkR-YBLd8og2J08jljmWSmIwn5RgtXIkh2kasO1bJH4gOU.png" group-title="No SignaL 📺", GOLF - 2
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILgxvGXQA49a3q6PBpK6Ktzs
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkR-YBLd8og2J08jljmWSmIwn5RgtXIkh2kasO1bJH4gOU.png" group-title="No SignaL 📺", GOLF - 3
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILiVzCAvFMRxgMiPfHQUZoRU
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRpik9xv80UzJq1vZhTmMZcnXnsw4zWU4MavCZSJpf2VU.png" group-title="No SignaL 📺", CRICKET - 1
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILm6SiSEHQOPJk2zTyB_deoo
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRpik9xv80UzJq1vZhTmMZcnXnsw4zWU4MavCZSJpf2VU.png" group-title="No SignaL 📺", CRICKET - 2
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILhwluWoytBj0tlzDMyKXGzo
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkROIzL4HtL9obxJPF2Un_bEcj5WnzhovJx3HzNhCPfgYM.png" group-title="No SignaL 📺", LIGA 1 BRI
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILlo-Oof8f7AcwqBUjOwb7to
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRwi7RIM-I_pbW66ThM8aINqyIXs31DNW_X26Yc0Eo2pM.png" group-title="No SignaL 📺", PRO LIGA
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILtEpbKeZorH4uK-vO64AB1E
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk1CWf0TNPsXKru50dYYEtLA.png" group-title="No SignaL 📺", TIMNAS - 1 (Live Match Only)
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsPvnqGbQsxW51otEwF0vh4
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk1CWf0TNPsXKru50dYYEtLA.png" group-title="No SignaL 📺", TIMNAS - 2 (Live Match Only)
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsdaWEM1IthXmrpGCLcwtc4
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkLHti6_Tr-RHKaaONo0OtHg.png" group-title="No SignaL 📺", EPL - 1 (Live Match Only)
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILuPEQvzpHXstvjTHaQlrivA
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkLHti6_Tr-RHKaaONo0OtHg.png" group-title="No SignaL 📺", EPL - 2 (Live Match Only)
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILjQBRcfzRpi1DFJharZZgek
+
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkLHti6_Tr-RHKaaONo0OtHg.png" group-title="No SignaL 📺", EPL - 3 (Live Match Only)
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILv9MYT-NA66wS5SW015IJUw
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="No SignaL 📺", iNDosiar
+https://zeestb.cdn77.icu/love4all.php?id=189665&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="No SignaL 📺", iNDosiar
+http://ktv.im:8080/556224433k/9004455221/101131
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="No SignaL 📺", iNDosiar
+http://filex.tv:8080/aftab123/004090/302264
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="No SignaL 📺", iNDosiar
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="No SignaL 📺", iNDosiar
+http://ktv.im:8080/556224433k/9004455221/101131
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="No SignaL 📺", iNDosiar
+http://ktv.im:8080/Masud8/1745223/101131
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/320px-SCTV_Logo.svg.png" group-title="No SignaL 📺", sctv
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162141.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/320px-Logo_SportTV.svg.png" group-title="No SignaL 📺", sport tv1
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:C3:C9:45&stream=501422&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/320px-Logo_bein_sports_1.png" group-title="No SignaL 📺", bein sport canli
+http://050518.pro:8000/play/7XnH5bpKpHyU41757H8HPcYYRzVFBrrMyZJdxHcoazLo_KK74PBX3pbDEEe6Zz2kCWfb_dpuOjPevd-pPjX6JOuFMqkf773M0YlP3hOUz-tu0b2KWHW-djL_wKwxa71YAPhhHMZhT04peEcAOq_pLsjCNnML3AK7sVOg7NMaI0I?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/320px-Canal%2B_Sport_2015.png" group-title="No SignaL 📺", canal+ sport 3
+http://050518.pro:8000/play/7XnH5bpKpHyU41757H8HPcYYRzVFBrrMyZJdxHcoazLo_KK74PBX3pbDEEe6Zz2kCWfb_dpuOjPevd-pPjX6JOuFMqkf773M0YlP3hOUz-udYzRB4G2IhTU6LWfeGz3mTEftOJmvLm_2ri2H6SJd7uL7BI_mA45pzu8qMH0HDQM?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Arena_sport_logo.png/220px-Arena_sport_logo.png" group-title="No SignaL 📺", arena sport 3
+http://050518.pro:8000/play/7XnH5bpKpHyU41757H8HPcYYRzVFBrrMyZJdxHcoazLo_KK74PBX3pbDEEe6Zz2kCWfb_dpuOjPevd-pPjX6JOuFMqkf773M0YlP3hOUz-vaWIO5aXpTBfPyljtEfT5dpHa5IfofvHllzDrjOEUFknz-sG5d0OyiXNVVGcK32QU?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="No SignaL 📺", sport 1
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:C3:C9:45&stream=657128&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Logo_Cosmote_old.svg/320px-Logo_Cosmote_old.svg.png" group-title="No SignaL 📺", cosmote sport 2
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:C3:C9:45&stream=585228&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Abu_Dhabi_Logo.svg/320px-Abu_Dhabi_Logo.svg.png" group-title="No SignaL 📺", abu dhabi sport tv
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1002130
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/True_Premier_Football_1.png/revision/latest?cb=20240416002736&path-prefix=vi" group-title="No SignaL 📺", true premier football 1
+http://premiumdedi.one:80/Jubilant7Relative/xmb1HEJBsY/572975
+
+##https://zeestb.cdn77.icu/love4all.php?id=186574&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/True_Premier_Football_HD2.png/revision/latest/scale-to-width-down/1000?cb=20240416003058&path-prefix=vi" group-title="No SignaL 📺", true premier football 2
+http://premiumdedi.one:80/Jubilant7Relative/xmb1HEJBsY/572976
+
+##https://zeestb.cdn77.icu/love4all.php?id=186576&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png" group-title="No SignaL 📺", bein sport fr 1
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:C3:C9:45&stream=520491&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png" group-title="No SignaL 📺", bein sport fr 2
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:C3:C9:45&stream=520495&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png" group-title="No SignaL 📺", bein sport fr 3
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:C3:C9:45&stream=520498&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png" group-title="No SignaL 📺", bein sport fr 4
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/132777.ts
+
+##http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520501&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png" group-title="No SignaL 📺", bein sport fr 5
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/132778.ts
+
+##http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520503&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png" group-title="No SignaL 📺", bein sport fr 6
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/132779.ts
+
+##http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520505&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png" group-title="No SignaL 📺", bein sport fr 7
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/132780.ts
+
+##http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520507&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png" group-title="No SignaL 📺", bein sport fr 8
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520509&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png" group-title="No SignaL 📺", bein sport fr 9
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/132782.ts
+
+##http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520511&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Bein_sports.png" group-title="No SignaL 📺", bein sport fr 10
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/132783.ts
+
+##http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520513&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="No SignaL 📺", mOji
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
@@ -1748,7 +1906,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd|refere
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Daerah" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png",Jowo Channel
+#EXTINF:-1 group-title="Daerah" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png", Jowo Channel
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
 #EXTINF:-1 group-title="Daerah" tvg-logo="https://i.imgur.com/wkK7YNx.png", JTV ᵛ⁺
@@ -9257,7 +9415,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-09-26 17:51:00 GMT+7 "
+# (●) Last Update: 2024-10-01 10:01:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
