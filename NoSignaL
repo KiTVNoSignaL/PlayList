@@ -112,10 +112,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title=group-title="No SignaL 📺", Bahrain Sports 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="No SignaL 📺", Bahrain Sports 1
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/121097
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title=group-title="No SignaL 📺", Bahrain Sports 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="No SignaL 📺", Bahrain Sports 2
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145860
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="No SignaL 📺", LIVE 3
@@ -1920,9 +1920,7 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lNrRGh.png" group-title="Nasional 🇮🇩", Moji
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
-
-##https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/kLfXQQm.png" group-title="Nasional 🇮🇩", NET. ⁱ
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
@@ -1955,9 +1953,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILhuRQ-6V202CXAtWEwsnAc4
-
-##https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTINF:0 tvg-id="Trans TV" tvg-url="" tvg-logo="https://i.imgur.com/L50eZ24.png" group-title="Nasional 🇮🇩", Transᵀⱽ ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -9531,7 +9527,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-10-10 10:01:00 GMT+7 "
+# (●) Last Update: 2024-10-14 10:01:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
