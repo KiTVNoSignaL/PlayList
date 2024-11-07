@@ -121,6 +121,15 @@ http://filex.tv:8080/aftab123/004090/302279
 http://xtv.ooo:8080/30912088/60996054/350997
 
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/bn.png" group-title="No SignaL 📺", BN Channel
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch112.m3u8
+
 #EXTINF:-1 tvg-id="indosiar.id" tvg-name="ID| INDOSIAR HD" tvg-logo="https://so1.360tres.com/t019a56e15b06645682.png" group-title="No SignaL 📺", 🇲🇨 Timnas U20 (TAYANG SAAT EVENT)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=17904&type=drm
@@ -545,6 +554,9 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="No SignaL 📺", TNT Sports 2i
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=894978&extension=ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="No SignaL 📺", TNT Sports_2
 http://kstv.us:8080/tH300gvHff/8606073792/47851
@@ -1049,6 +1061,15 @@ http://itsbx.uk:80/123456/123456/4910499.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/320px-Premiere_logo_2013.png" group-title="No SignaL 📺", Premiere 3
 http://itsbx.uk:80/123456/123456/4910503.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Champion League
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=396881&extension=m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Maximo 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=396872&extension=ts
+
+#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", blue SPORT D 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=622680&extension=ts
 
 #EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="No SignaL 📺", DAZN PT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -2093,7 +2114,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 ##https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#EXTINF:0 tvg-id="Trans TV" tvg-url="" tvg-logo="https://i.imgur.com/L50eZ24.png" group-title="Nasional 🇮🇩", Transᵀⱽ ᵗ
+
+#EXTINF:0 tvg-id="Trans TV" tvg-url="" tvg-logo="https://i.postimg.cc/xjwPyGjY/transtv.png" group-title="Nasional 🇮🇩", Transᵀⱽ ᵗ
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2109,7 +2131,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sgNPx5Nt/trans7.png" group-title="Nasional 🇮🇩", Trans⁷ ᵗ
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sgNPx5Nt/trans7.png" group-title="Nasional 🇮🇩", Trans 7 ᵗ
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
@@ -5166,11 +5188,17 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Ziggo/Ziggo-Logo.wine.png" group-title="Sports", Ziggo Sport
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=308121&extension=ts
 
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Ziggo/Ziggo-Logo.wine.png" group-title="Sports", Ziggo Sport i
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=1281&extension=m3u8
+
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Ziggo/Ziggo-Logo.wine.png" group-title="Sports", Ziggo Sport 1
 http://050518.pro:8000/play/jt3H8GjlACrE6Jl872b5Mhx-Y6JGABd4kEeMvAPgsnXcz94CzqPNi91rcJnPGjtP7rLTLCRMBx9jcAqST8kBz_x9aGRNdWXTa010MhSClCoJVJeZ7srhRydO2G6SNOlN?ext=.ts
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Ziggo/Ziggo-Logo.wine.png" group-title="Sports", Ziggo Sport 2
 http://050518.pro:8000/play/jt3H8GjlACrE6Jl872b5Mhx-Y6JGABd4kEeMvAPgsnXMv2M202ifpDCv5R9hd29f5JcajNNVwcFOsM3NCl-hKFT3HL7D1dRe3uZBwWSsXRK59MSWJ6oawXLqmi3VJBKQ?ext=.ts
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Ziggo/Ziggo-Logo.wine.png" group-title="Sports", Ziggo Sport 2i
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=1280&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Ziggo/Ziggo-Logo.wine.png" group-title="Sports", Ziggo Sport 3
 http://050518.pro:8000/play/jt3H8GjlACrE6Jl872b5Mhx-Y6JGABd4kEeMvAPgsnWVkoNXT-jRXDfnnOnzEple7KDoHH3a90xJiv3mAKcLzhi3qhnyKggAiM9NQC9x2dN4OK7QS3cg9edR19L77jOe?ext=.ts
@@ -9782,7 +9810,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-11-01 10:01:00 GMT+7 "
+# (●) Last Update: 2024-11-07 10:01:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
