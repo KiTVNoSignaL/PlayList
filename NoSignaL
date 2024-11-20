@@ -114,6 +114,12 @@ http://opplex.tv:8080/3116580700/0700/350997
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="No SignaL 📺", mOji tv 1
 http://zozotv.xyz:8080/live/mubaen/k895427/475.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="No SignaL 📺", mOji tv 2
+http://filex.tv:8080/aftab123/004090/302279
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="No SignaL 📺", mOji tv 3
+http://xtv.ooo:8080/30912088/60996054/350997
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="No SignaL 📺", mOji*
 http://iptvtree.net:8080/cinepk2021/F37CXJnaEDN203udnch/298550
 
