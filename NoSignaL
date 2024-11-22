@@ -2134,10 +2134,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 ##KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 ##https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
+
 #EXTINF:0 tvg-id="Trans TV" tvg-url="" tvg-logo="https://i.imgur.com/L50eZ24.png" group-title="Nasional 🇮🇩", Transᵀⱽ ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 ##https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-
 
 #EXTINF:0 tvg-id="Trans TV" tvg-url="" tvg-logo="https://i.postimg.cc/xjwPyGjY/transtv.png" group-title="Nasional 🇮🇩", Transᵀⱽ ᵗ
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2149,9 +2149,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 #EXTVLCOPT:http-referrer=http://cubmu.com
 ##https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/xjwPyGjY/transtv.png" group-title="Nasional 🇮🇩", Transᵀⱽ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/xjwPyGjY/transtv.png" group-title="Nasional 🇮🇩", Transᵀⱽ ᵛ
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+##https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/sgNPx5Nt/trans7.png" group-title="Nasional 🇮🇩", Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2167,6 +2172,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 ##https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+
 
 #EXTINF:-1 tvg-name="TV ONE" tvg-logo="https://i.imgur.com/aiBI9Vd.png" group-title="Nasional 🇮🇩", tvOne ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
