@@ -49,7 +49,7 @@ https://www.dropbox.com/s/zbsnqsvry86bbow/KiTV.ts?dl=1
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/zfcBrM4.png?v=1.0.0.1" group-title="No SignaL 📺", SPOTV
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-###KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+###KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -156,6 +156,8 @@ https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9183&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=das
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Unifi_logo_2017.png/320px-Unifi_logo_2017.png" group-title="No SignaL 📺", Unifi Sports
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="No SignaL 📺", MNC Sports (Sportstars)
@@ -165,7 +167,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="No SignaL 📺", Sportstars 1 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 
@@ -177,7 +179,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="No SignaL 📺", Soccer channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 
@@ -1635,7 +1637,7 @@ https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
 
-
+#http://iptv12k.com:35461/654321/123456/2121
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1496.m3u8
 #http://filex.tv:8080/aftab123/004090/302248
 
@@ -3029,7 +3031,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|re
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-g5YDl3jG8ag/YJaJ6W2KXdI/AAAAAAAAEzI/Xw08JdFRqdwi56k0PVT-R9qfrQYKPSEWACLcBGAsYHQ/s720/ABC%2BAustralia.png" group-title="News", ABC Australia
 https://cempedak-cdn-fly.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
@@ -3266,6 +3268,8 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/warner_tv.png" group-title="Movies", Warner TV
+https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="Movies",[ID] HBO 8k
@@ -3621,7 +3625,7 @@ https://github.com/thefirefox12537/streams/raw/master/zieksyen.m3u8
 https://cempedak-cdn-fly.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/57uczx1gmmu4m537nfa34/Galaxy-hometv.png?rlkey=tkpar02rn74e1cyzv72thu4rs&dl=0" group-title="Movies", Galaxy ᵛ⁺
 https://cempedak-cdn-fly.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
@@ -4405,13 +4409,13 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="Knowledge", Global Trekker (Auto)
 https://cempedak-cdn-fly.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/o9nisv45owgsswmgfo7a8/bbc_earth.png?rlkey=3fq3fs4cjr0uk5mcga2fuiieq&dl=0" group-title="Knowledge" , BBC EARTH (Auto)
 https://cempedak-cdn-fly.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
@@ -4557,6 +4561,47 @@ https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857f48ecd2017f5e98c9fe13e6/b2ef108ddd054b13a9879e983419da37.jpg" group-title="Sports",IDCyclist (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ceb0dd33c1c/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="Sports", Astro Arena 1
+http://zkbvzkj.megahdtv.xyz:900/1103581436/4099381829/29658
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sports", Astro Arena 2
+http://zkbvzkj.megahdtv.xyz:900/1103581436/4099381829/13111
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Astro_Arena_Bola_1_NEW.png" group-title="Sports", Astro Arena Bola 1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaBola1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Astro_Arena_Bola_2.png" group-title="Sports", Astro Arena Bola 2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaBola2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="Sports", Astro.PL.1
+http://iptv12k.com:35461/654321/123456/7990
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="Sports", Astro.P.L.2
+http://iptv12k.com:35461/654321/123456/7988
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="Sports", Astro Grandstand
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656972
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="Sports", Astro Football
+http://iptv12k.com:35461/654321/123456/969
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="Sports", Astro Sport Plus
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroSportPlus.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="Sports", Astro Badminton
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroBadimnton.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/WSports.png" group-title="Sports", Astro WSports
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/WSports.m3u8
 
 
 
@@ -6978,7 +7023,7 @@ https://rakuten-family-13-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsY
 https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Kids" tvg-logo="https://dl.dropbox.com/scl/fi/v6eppmxfwsqxc521063xk/animax.png?rlkey=w40ostqs1ql06z96rfy8zms97&dl=0",Animax (Auto)
 https://cempedak-cdn-fly.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
@@ -7034,7 +7079,7 @@ http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 https://cempedak-cdn-fly.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vkuajnqtnxam5egc7i11t/kidstv.png?rlkey=bx0zmvo0jss6wonzwqtth3r3c&dl=0" group-title="Kids",Kids TV (Auto)
 https://cempedak-cdn-fly.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
@@ -7051,7 +7096,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/r1mas16frvzno3gou6gr7/nick_jr.png?rlkey=kjjcwkpffg4udmlal16xpgctj&dl=0" group-title="Kids", Nick Junior (Auto)
 https://cempedak-cdn-fly.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
@@ -7159,7 +7204,7 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IuhwcB4FsD4/YJZDclRUXoI/AAAAAAAAEok/JXMDEb9nQ7UgmZ_tty3_ZESCIYIQ7R4zwCLcBGAsYHQ/s720/MY-KIDS-Poster.png" group-title="Kids",MY KIDZ
 https://cempedak-cdn-fly.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
