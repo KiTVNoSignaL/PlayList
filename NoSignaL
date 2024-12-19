@@ -348,6 +348,53 @@ https://tv.TruyenHinh.Click/CoBan/vtv8hd/TuyetDoiKhongKinhDoanh
 https://tv.TruyenHinh.Click/CoBan/vtv9hd/TuyetDoiKhongKinhDoanh
 
 
+#EXTINF:-1 tvg-id="vtv1hd" group-title="No SignaL 📺" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://p1.cvtv.xyz/vtv1?token=live
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="No SignaL 📺" tvg-logo="https://i.imgur.com/qWWpYRR.png",VTV2
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://p1.cvtv.xyz/vtv2?token=live
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="No SignaL 📺" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://p1.cvtv.xyz/vtv3?token=live
+
+#EXTINF:-1 tvg-id="vtv4hd" group-title="No SignaL 📺" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="No SignaL 📺" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://p1.cvtv.xyz/vtv5?token=live
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="No SignaL 📺" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nam-bo.png",VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="No SignaL 📺" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nguyen.png",VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="No SignaL 📺" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V6.png",VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="No SignaL 📺" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V6.png",VTV Cần Thơ (50fps)
+http://p1.cvtv.xyz/vtvct?token=live
+
+#EXTINF:-1 tvg-id="vtv7hd" group-title="No SignaL 📺" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V7.png",VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv8hd" group-title="No SignaL 📺" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V8.png",VTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="No SignaL 📺" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V9.png",VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 
@@ -10802,7 +10849,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-12-18 10:01:00 GMT+7 "
+# (●) Last Update: 2024-12-19 10:01:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
