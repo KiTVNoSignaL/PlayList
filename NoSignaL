@@ -8170,6 +8170,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1, group-title="Malaysia 🇲🇾" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/200px-TV3_%28Malaysia%29.svg.png", TV 3
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia 🇲🇾", TV 3*
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/df9KzwF/20240903-015422.jpg" group-title="Malaysia 🇲🇾", TV3 (YS) 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/1732.ts
+
+
 #https://raw.githubusercontent.com/Arrasyid22/vision-/main/tv3my00.m3u8#
 #http://gamsgo.cyou:8080/30fe809e/ec00cbf3/158360#
 #http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzREXLmsqj9X1PsQPKifDqucQ#
@@ -11013,7 +11026,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-12-25 10:05:00 GMT+7 "
+# (●) Last Update: 2024-12-26 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
