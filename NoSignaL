@@ -2747,6 +2747,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://lingkartv.com//assets/img/logo-lingkartv.png" group-title="Nasional 🇮🇩", LINGKAR TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9H02PR.png" group-title="Nasional 🇮🇩", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
@@ -2856,6 +2859,9 @@ https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 ##https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 ##http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvrparlemen.dpr.go.id/wp-content/uploads/2024/08/Logo-White.png" group-title="Nasional 🇮🇩", TVR Parlemen
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
 #EXTINF:0 tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/yRBzTVo.png" group-title="Nasional 🇮🇩", TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -2863,12 +2869,6 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UVHIgoV.png" group-title="Nasional 🇮🇩", vTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch107.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvrparlemen.dpr.go.id/wp-content/uploads/2024/08/Logo-White.png" group-title="Nasional 🇮🇩", TVR Parlemen
-http://103.18.181.69:1935/golive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lingkartv.com//assets/img/logo-lingkartv.png" group-title="Nasional 🇮🇩", LINGKAR TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
 
 
 
