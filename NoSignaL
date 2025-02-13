@@ -2744,7 +2744,7 @@ http://103.165.207.118:9088/play/a005/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.imgur.com/zwTUrfO.png"
 
-#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1696933489-.png" group-title="Nasional 🇮🇩", aLLplay Ent ⁱ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YY2Tn1h.png" group-title="Nasional 🇮🇩", aLLplay Ent ⁱ
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-id="ANTV" tvg-logo="https://i.imgur.com/PrEtgIp.png" group-title="Nasional 🇮🇩", Antv ⁱ
