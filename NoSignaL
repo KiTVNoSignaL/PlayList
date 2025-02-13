@@ -2753,6 +2753,12 @@ https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
 #https://cdngb196.indihometv.com/joss/130/antv/chunklist_w814043711_b1004100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_BeritaSatu_Media.png/320px-Logo_BeritaSatu_Media.png" group-title="Nasional 🇮🇩", Berita Satu
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#https://cdngb196.indihometv.com/joss/134/idtv/chunklist_w448807513_b844100_sleng.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/NIUoT9i.png" group-title="Nasional 🇮🇩", BTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
@@ -2797,12 +2803,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_BeritaSatu_Media.png/320px-Logo_BeritaSatu_Media.png" group-title="Nasional 🇮🇩", Berita Satu
-#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-
-#https://cdngb196.indihometv.com/joss/134/idtv/chunklist_w448807513_b844100_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
