@@ -309,6 +309,9 @@ http://vipipjp.top:8080/VIP0134170394609044/37a3b69326bf/34327
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RhMu5Zo.png" group-title="No SignaL 📺", INDOSIAR - 2
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RhMu5Zo.png" group-title="No SignaL 📺", INDOSIAR - 3
+http://xtv.ooo:8080/live/jk8010801099/jk8010801099/350972.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR 2" tvg-logo="https://i.imgur.com/RhMu5Zo.png" group-title="No SignaL 📺", Trial - INDOSIAR 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2919,6 +2922,43 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 ##https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 
+#EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/Hr47xyW/transtv.png" group-title="Nasional 🇮🇩", Transᵀⱽ ᵛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="Nasional 🇮🇩", Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/cTjlN7U.png" group-title="Nasional 🇮🇩", Trans 7
+#https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
+#https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+##https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/930.ts
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sgNPx5Nt/trans7.png" group-title="Nasional 🇮🇩", Trans 7 ᵗ
+##https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+
+
+
 #EXTINF:0 tvg-id="Trans TV" tvg-url="" tvg-logo="https://i.imgur.com/L50eZ24.png" group-title="Nasional 🇮🇩", Transᵀⱽ ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 ##https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
@@ -2946,26 +2986,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/cTjlN7U.png" group-title="Nasional 🇮🇩", Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
-#https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-##https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/930.ts
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sgNPx5Nt/trans7.png" group-title="Nasional 🇮🇩", Trans 7 ᵗ
-##https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
 
 
 #EXTINF:-1 tvg-name="TV ONE" tvg-logo="https://i.imgur.com/aiBI9Vd.png" group-title="Nasional 🇮🇩", tvOne ⁱ
@@ -3727,6 +3747,18 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uB76Ft0.png" group-title="Movies", Cinemax_ 🇮🇩
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="Movies", HBO_
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/210
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies", HBO Hits_
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/591
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="Movies", HBO Family_
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/592
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="Movies", HBO Signature_
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/873
 
 
 #EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Movies",HBO
@@ -12590,7 +12622,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-02-13 10:05:00 GMT+7 "
+# (●) Last Update: 2025-02-18 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
