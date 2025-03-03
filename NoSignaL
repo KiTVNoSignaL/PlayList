@@ -158,6 +158,139 @@ https://tv.cyev.my.id:443/play/BwpPb-k0GHJfyLF0_SBKthCwbqf7ktf0LcCpojVQE4A/ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://haoyunlai.serv00.net/Smartv-1.php?id=Indosiar
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="No SignaL 📺", _inDoSiar_ 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicOWP39M0mjgAwm2GPatipiPF4V9Y2UCxbr-AvZNyVkWDj3l2iTJ4DzP98K-xIq9_yCSwxiNQqyj1vupiTaaXGBDxqV48lBb42-1yKjq2ht_tAJoB0oPwg-NKTP_Grt7uLPGM2DxTMwNZ4q9-ijf8gvfEnKsiTPpYpfWuZhpbHYwIZpbc6RPPQMv7Z05PL/s700/LIGA%20BRI.png" group-title="No SignaL 📺", LIGA BRI ID
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://gasruktv.my.id/asx/live.mpd?id=205
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicOWP39M0mjgAwm2GPatipiPF4V9Y2UCxbr-AvZNyVkWDj3l2iTJ4DzP98K-xIq9_yCSwxiNQqyj1vupiTaaXGBDxqV48lBb42-1yKjq2ht_tAJoB0oPwg-NKTP_Grt7uLPGM2DxTMwNZ4q9-ijf8gvfEnKsiTPpYpfWuZhpbHYwIZpbc6RPPQMv7Z05PL/s700/LIGA%20BRI.png" group-title="No SignaL 📺", LIGA BRI N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicOWP39M0mjgAwm2GPatipiPF4V9Y2UCxbr-AvZNyVkWDj3l2iTJ4DzP98K-xIq9_yCSwxiNQqyj1vupiTaaXGBDxqV48lBb42-1yKjq2ht_tAJoB0oPwg-NKTP_Grt7uLPGM2DxTMwNZ4q9-ijf8gvfEnKsiTPpYpfWuZhpbHYwIZpbc6RPPQMv7Z05PL/s700/LIGA%20BRI.png" group-title="No SignaL 📺", LIGA BRI N 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:0eb2beb5633f8e35cafab45af3d21de0
+https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicOWP39M0mjgAwm2GPatipiPF4V9Y2UCxbr-AvZNyVkWDj3l2iTJ4DzP98K-xIq9_yCSwxiNQqyj1vupiTaaXGBDxqV48lBb42-1yKjq2ht_tAJoB0oPwg-NKTP_Grt7uLPGM2DxTMwNZ4q9-ijf8gvfEnKsiTPpYpfWuZhpbHYwIZpbc6RPPQMv7Z05PL/s700/LIGA%20BRI.png" group-title="No SignaL 📺", LIGA BRI [EVENT]
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9caf76de62c36d6c8889b24635893951:981eaa8b8d1b4e03ca3b531533907e15
+https://gasruktv.my.id/asx/live.mpd?id=17623
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicOWP39M0mjgAwm2GPatipiPF4V9Y2UCxbr-AvZNyVkWDj3l2iTJ4DzP98K-xIq9_yCSwxiNQqyj1vupiTaaXGBDxqV48lBb42-1yKjq2ht_tAJoB0oPwg-NKTP_Grt7uLPGM2DxTMwNZ4q9-ijf8gvfEnKsiTPpYpfWuZhpbHYwIZpbc6RPPQMv7Z05PL/s700/LIGA%20BRI.png" group-title="No SignaL 📺", LIGA BRI [EVENT] 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c63ef11648fcdd4ad4ea91c1effa91ba:8ecf85e6b1c663162e3f584d111ea30e
+https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17622
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicOWP39M0mjgAwm2GPatipiPF4V9Y2UCxbr-AvZNyVkWDj3l2iTJ4DzP98K-xIq9_yCSwxiNQqyj1vupiTaaXGBDxqV48lBb42-1yKjq2ht_tAJoB0oPwg-NKTP_Grt7uLPGM2DxTMwNZ4q9-ijf8gvfEnKsiTPpYpfWuZhpbHYwIZpbc6RPPQMv7Z05PL/s700/LIGA%20BRI.png" group-title="No SignaL 📺", LIGA BRI [EVENT] 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
+https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17624
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicOWP39M0mjgAwm2GPatipiPF4V9Y2UCxbr-AvZNyVkWDj3l2iTJ4DzP98K-xIq9_yCSwxiNQqyj1vupiTaaXGBDxqV48lBb42-1yKjq2ht_tAJoB0oPwg-NKTP_Grt7uLPGM2DxTMwNZ4q9-ijf8gvfEnKsiTPpYpfWuZhpbHYwIZpbc6RPPQMv7Z05PL/s700/LIGA%20BRI.png" group-title="No SignaL 📺", LIGA BRI [EVENT] 3
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b7903fdbfeaabec90e3d740dfa4f27c:5aa8eaadc6aead7f1ad80e764531bc68
+https://gasruktv.my.id/asx/live.mpd?id=17866
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/JjdfZZnf/IND-4.png" group-title="No SignaL 📺", BRI 1 LIVE 
+https://zozotv.xyz:443/live/zotv744/zxy086/45.ts   
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/JjdfZZnf/IND-4.png" group-title="No SignaL 📺", INDOSIAR HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; ZUPAMNZVUB) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/85DA99CF133D07148EFCEEF6F97B3228/585.ts  
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/JjdfZZnf/IND-4.png" group-title="No SignaL 📺", INDOSIAR
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="No SignaL 📺", INDOSIAR VIDIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:0eb2beb5633f8e35cafab45af3d21de0
+https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
+  
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rFb8pJr/RCTI.png" group-title="No SignaL 📺", RCTI+HD
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti  
+
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co.com/rFb8pJr/RCTI.png" group-title="No SignaL 📺", RCTI
+https://perfecttv.net:443/Perfecttv/Perfecttv/1576
+  
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="No SignaL 📺", GTV
+https://perfecttv.net:443/Perfecttv/Perfecttv/1577  
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-id="SCTV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="No SignaL 📺", SCTV HD
+https://zozotv.xyz:443/live/zotv744/zxy086/46.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png" group-title="No SignaL 📺", TVRI SPORT 
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; ZUPAMNZVUB) ExoPlayerLib/2.15.1
+http://mantul.biz.id:8888/inetwork/gayanet12/618.ts 
+  
+#EXTINF:-1 tvg-id="SCTV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="No SignaL 📺", SCTV LIVE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
+  
+  
+#EVENT UPDATE
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WhYBfs6/IND-3.png" group-title="No SignaL 📺", CTV1 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17938&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WhYBfs6/IND-3.png" group-title="No SignaL 📺", CTV2 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 #KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6686&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WhYBfs6/IND-3.png" group-title="No SignaL 📺", CTV3 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6786&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WhYBfs6/IND-3.png" group-title="No SignaL 📺", CTV5 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9182&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WhYBfs6/IND-3.png" group-title="No SignaL 📺", CTV6 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9183&type=drm 
+https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
+
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="No SignaL 📺", LIGA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3274,9 +3407,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://lingkartv.com//assets/img/logo-lingkartv.png" group-title="Nasional 🇮🇩", LINGKAR TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9H02PR.png" group-title="Nasional 🇮🇩", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
@@ -3413,7 +3543,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
 
 
-#EXTINF:-1 tvg-name="TV ONE" tvg-logo="https://i.imgur.com/aiBI9Vd.png" group-title="Nasional 🇮🇩", tvOne ⁱ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aiBI9Vd.png" group-title="Nasional 🇮🇩", tvOne ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
@@ -3428,6 +3558,10 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/yRBzTVo.png" group-title="Nasional 🇮🇩", TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="Nasional 🇮🇩", VTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=vtv
 
 
 
@@ -3572,7 +3706,7 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 group-title="Daerah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpEWZFUeiAwlUSKxXBbpUDwyANh9F5affeDQ&usqp=CAU",Ficom TV
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PatiTV.id" group-title="Daerah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtuWkCaH3Q2iG34u9XKYXbdHWVvBwsOYmFIQ&usqp=CAU",Lingkar TV Pati
+#EXTINF:-1 tvg-logo="https://lingkartv.com//assets/img/logo-lingkartv.png" group-title="Daerah", Lingkar TV Pati
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCkTNY9lxhd0K0-gG4QBKRzlxMmhBZQCHpQ&usqp=CAU" group-title="Daerah",Sampit TV
@@ -8047,6 +8181,11 @@ https://streaming.indihometv.com/atm/HLS-10s/indikids/playlist.m3u8?enc=05VCrnnY
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Pinkfong_2014_Stacked_Logo.png/revision/latest?cb=20210729153453" group-title="Kids", Pingfong TV
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Hip_Hip_Horee!.png" group-title="Kids", Hip Hip Horeeee!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=7052&type=hls
 
 #EXTINF:-1 tvg-id="HipHipHoree.id" tvg-name="HipHipHoree.id" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Hip_Hip_Horee!.png", Hip Hip Horee!
 http://iptvtree.net:8080/c4596f70/c3848d92/298536
@@ -13062,7 +13201,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-02-24 10:05:00 GMT+7 "
+# (●) Last Update: 2025-03-03 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
