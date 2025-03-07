@@ -3105,13 +3105,13 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 #EXTINF:-1tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="NasioNaL DiGitaL 📡", KOMPAS TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://zozotv.xyz:443/live/zotv744/zxy086/143.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/143.ts
 
 #https://flv.intechmedia.net/live/ch102.m3u8
 
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="NasioNaL DiGitaL 📡", TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://zozotv.xyz:443/live/zotv744/zxy086/359.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/359.ts
 
 #https://flv.intechmedia.net/live/ch103.m3u8
 
@@ -3133,19 +3133,19 @@ https://zozotv.xyz:443/live/zotv744/zxy086/359.ts
 
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="NasioNaL DiGitaL 📡", ANTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://zozotv.xyz:443/live/zotv744/zxy086/51.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/51.ts
 
 #https://flv.intechmedia.net/live/ch108.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2011/02/17/105261_logo-tvone_1265_711.jpg" group-title="NasioNaL DiGitaL 📡", TVONE
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://zozotv.xyz:443/live/zotv744/zxy086/142.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/142.ts
 
 #https://flv.intechmedia.net/live/ch109.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/717/metro-tv-news-logo-14.png" group-title="NasioNaL DiGitaL 📡", METRO TV 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://zozotv.xyz:443/live/zotv744/zxy086/144.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/144.ts
 
 #https://flv.intechmedia.net/live/ch110.m3u8
 
@@ -3163,13 +3163,13 @@ https://zozotv.xyz:443/live/zotv744/zxy086/144.ts
 
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="NasioNaL DiGitaL 📡", NET TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://zozotv.xyz:443/live/zotv744/zxy086/50.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/50.ts
 
 #https://flv.intechmedia.net/live/ch114.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1388255842533662720/pu/img/ulCHo4F1c4fHfvS1.jpg" group-title="NasioNaL DiGitaL 📡", RTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://zozotv.xyz:443/live/zotv744/zxy086/364.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/364.ts
 
 #https://flv.intechmedia.net/live/ch115.m3u8
 
@@ -3178,45 +3178,45 @@ https://zozotv.xyz:443/live/zotv744/zxy086/364.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NasioNaL DiGitaL 📡", Trans 7 ᴴᴰ
-https://zozotv.xyz:443/live/zotv744/zxy086/44.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/44.ts
 
 #https://play-gachor.xyz/htv@lite/kjTECpmDmq/3
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="NasioNaL DiGitaL 📡", Trans TV ᴴᴰ
-https://zozotv.xyz:443/live/zotv744/zxy086/43.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/43.ts
 
 #https://play-gachor.xyz/htv@lite/kjTECpmDmq/4
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/U7aAkEM.png" group-title="NasioNaL DiGitaL 📡", Indosiar ᴴᴰ
-https://zozotv.xyz:443/live/zotv744/zxy086/45.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/45.ts
 
 #https://play-gachor.xyz/htv@lite/kjTECpmDmq/5
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rp8nGypT/sctv.png" group-title="NasioNaL DiGitaL 📡", SCTV ᴴᴰ
-https://zozotv.xyz:443/live/zotv744/zxy086/46.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/46.ts
 
 #https://play-gachor.xyz/htv@lite/kjTECpmDmq/6
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t1WWk8V.png" group-title="NasioNaL DiGitaL 📡", RCTI ᴴᴰ
-https://zozotv.xyz:443/live/zotv744/zxy086/47.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/47.ts
 
 #https://play-gachor.xyz/htv@lite/kjTECpmDmq/7
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SKRgJTs7/mnc.png" group-title="NasioNaL DiGitaL 📡", MNC TV ᴴᴰ
-https://zozotv.xyz:443/live/zotv744/zxy086/49.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/49.ts
 
 #https://play-gachor.xyz/htv@lite/kjTECpmDmq/8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/zGPYhpbk/gtv.png" group-title="NasioNaL DiGitaL 📡", GTV ᴴᴰ
-https://zozotv.xyz:443/live/zotv744/zxy086/48.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/48.ts
 
 #https://play-gachor.xyz/htv@lite/kjTECpmDmq/9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="NasioNaL DiGitaL 📡", Dunia Lain 
-https://zozotv.xyz:443/live/zotv744/zxy086/346.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/346.ts
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3wjpn3z8/inews.png" group-title="NasioNaL DiGitaL 📡", INews ᴴᴰ
-https://zozotv.xyz:443/live/zotv744/zxy086/2203.ts
+#https://zozotv.xyz:443/live/zotv744/zxy086/2203.ts
 
 #https://play-gachor.xyz/htv@lite/kjTECpmDmq/10
 
@@ -3260,7 +3260,7 @@ https://zozotv.xyz:443/live/zotv744/zxy086/2203.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
+#https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
 
 
 {#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="NasioNaL DiGitaL 📡", CNBC
@@ -3391,9 +3391,18 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 #https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
-#EXTINF:0 tvg-id="Indosiar.id" tvg-url="" tvg-logo="https://i.imgur.com/U7aAkEM.png" group-title="Nasional 🇮🇩", Indosiar ⁱ
+#EXTINF:0 tvg-logo="https://i.imgur.com/U7aAkEM.png" group-title="Nasional 🇮🇩", Indosiar ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sHVIA6N.png" group-title="Nasional 🇮🇩", Indosiar ᵈ
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
 
 #https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
@@ -3484,7 +3493,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 
-#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="Nasional 🇮🇩", Trans 7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgNPx5Nt/trans7.png" group-title="Nasional 🇮🇩", Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
@@ -3561,7 +3570,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="Nasional 🇮🇩", VTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://why.biz.id/Iptv/oxygen.php?id=vtv
+#https://why.biz.id/Iptv/oxygen.php?id=vtv
 
 
 
@@ -13201,7 +13210,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-03-03 10:05:00 GMT+7 "
+# (●) Last Update: 2025-03-07 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
