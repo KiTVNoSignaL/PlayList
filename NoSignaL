@@ -114,6 +114,10 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBYhbchW/Mentari.png" group-title="No SignaL 📺", Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=8237&type=hls
+
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="No SignaL 📺", _inDoSiar_ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
