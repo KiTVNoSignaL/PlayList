@@ -85,7 +85,22 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/yp7n1ub7j3yrex4b352nx/skysport-motogp.png?rlkey=ppzuwp9uh55zn8st5pftvvoxi&dl=0" group-title="No SignaL 📺", Sky Sport MotoGP
-http://ledir.thund.re:80/play/live.php?mac=00:1A:79:22:16:5C&stream=654225&extension=m3u8
+http://c.proserver.in:8080/live/wrXPmyab67D/hHnDqaKBGy8/146296.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/yp7n1ub7j3yrex4b352nx/skysport-motogp.png?rlkey=ppzuwp9uh55zn8st5pftvvoxi&dl=0" group-title="No SignaL 📺", Sky Sport MotoGP 2
+http://fortnite5.bestream.football:9099/live/ENZOBARRY/ddb41bc72db30c0f/90348cf2-8c06-49b8-8bc0-247dc814bf9f.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/N/no-logo-FA24764DE0-seeklogo.com.png" group-title="No SignaL 📺", TnT Sports 2
+http://nks24.com:8080/play/live.php?mac=00:1A:79:C2:94:BA&stream=55313&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/N/no-logo-FA24764DE0-seeklogo.com.png" group-title="No SignaL 📺", TnT Sports 2i
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115467
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPsJAOVJditt5bBGtzDW-N6y6f5dBcVLtdk9kl911lnSY9D4h5ATaFsAOHwYWsX-AHgeU7sQRPTsucN5idPfZC7iVRRTNTVixRDazFaoN-_5VUHuMJQs_VNCsiUUgp7C0aw__44_Jb7oMEgqtn2sbsVn47hLAIaseK2AjlY4OiCAP0SK19V0S1aymDq6Ga/s700/ZIGGO%20SPORT.png" group-title="No SignaL 📺", Ziggo Sports 3
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:19:1F:37&stream=151297&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/v79xr71604073804.png" group-title="No SignaL 📺", SK 3 HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:19:1F:37&stream=49992&extension=m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -3410,12 +3425,14 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 #EXTINF:0 tvg-logo="https://i.imgur.com/h3wjLlV.png" group-title="Nasional 🇮🇩", Max Stream ⁱ
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:0 tvg-url="" tvg-logo="https://i.imgur.com/8WKvMNX.png" group-title="Nasional 🇮🇩", Mentari TV ⁱ
+#EXTINF:0 tvg-logo="https://i.imgur.com/8WKvMNX.png" group-title="Nasional 🇮🇩", Mentari TV ⁱ
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rN98ePa.png" group-title="Nasional 🇮🇩", Metro TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BEv34L8.png" group-title="Nasional 🇮🇩", Metro TV ᴴᴰ
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
+https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8OAc8ZA.png" group-title="Nasional 🇮🇩", MNC TV ʳ⁺
 #EXTVLCOPT:http-user-agent=android-R+
@@ -13668,7 +13685,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-03-18 10:05:00 GMT+7 "
+# (●) Last Update: 2025-03-19 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
