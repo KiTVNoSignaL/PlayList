@@ -149,6 +149,18 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/5y8o6vllxa2gf00mxl9dp/sportstar3.png?rlkey=tll02zsejmn6f6rzz3o6pxnl3&dl=0" group-title="No SignaL 📺", SportStars 3
+https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=hhttps://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/s15g38hvpo79oetmkzjiq/sportstar4.png?rlkey=o879aff3wqkaq3o1ligmq7x0j&dl=0" group-title="No SignaL 📺", SportStars 4
+https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" group-title="No SignaL 📺", ESPN
@@ -1676,11 +1688,11 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/vDLvIQH.png" group-title="Nasional 🇮🇩", iNews ʳ⁺
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://i.postimg.cc/3wjpn3z8/inews.png" group-title="Nasional 🇮🇩", iNews ᵛ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zBTqGFd.png" group-title="Nasional 🇮🇩", Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1692,6 +1704,9 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/h3wjLlV.png" group-title="Nasional 🇮🇩", Max Stream ⁱ
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:0 tvg-logo="tvg-logo="https://i.imgur.com/AhY2kXF.png" group-title="Nasional 🇮🇩", mdTV ⁱ
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8WKvMNX.png" group-title="Nasional 🇮🇩", Mentari TV ⁱ
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
@@ -1712,9 +1727,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lNrRGh.png" group-title="Nasional 🇮🇩", Moji
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/kLfXQQm.png" group-title="Nasional 🇮🇩", NET. ⁱ
-https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85AQz4d.png" group-title="Nasional 🇮🇩", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -11894,7 +11906,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-03-20 10:05:00 GMT+7 "
+# (●) Last Update: 2025-03-24 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
