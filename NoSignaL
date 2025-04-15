@@ -49,13 +49,13 @@ https://www.dropbox.com/s/qll0nwcuhyo6izn/TiviMate_Premium.ts?st=4698t7fb&dl=1
 https://www.dropbox.com/s/zbsnqsvry86bbow/KiTV.ts?dl=1
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="No SignaL 📺", SPOTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BYw9xVW.png" group-title="No SignaL 📺", SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="No SignaL 📺", SPOTV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xXCBKAM.png" group-title="No SignaL 📺", SPOTV2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
@@ -79,18 +79,6 @@ http://extraott.com:900/live/3162523972/3791698850/400459082.m3u8
 ##http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656927
 ##http://mytv-extra.com:80/live/t12mgxyb335/9832948789/13131.ts
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BYw9xVW.png" group-title="No SignaL 📺", SPOTV V+
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=119&type=drm
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd|referrer=https://visionplus.id/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xXCBKAM.png" group-title="No SignaL 📺", SPOTV2 V+
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=120&type=drm
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd|referrer=https://visionplus.id/
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/yp7n1ub7j3yrex4b352nx/skysport-motogp.png?rlkey=ppzuwp9uh55zn8st5pftvvoxi&dl=0" group-title="No SignaL 📺", Sky Sport MotoGP_01
