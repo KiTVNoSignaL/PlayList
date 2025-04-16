@@ -1998,12 +1998,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 #https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/mR4Ey2E.png" group-title="Nasional 🇮🇩", MNC TV ʳ⁺
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
-
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
 #https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOKWJqi.png" group-title="Nasional 🇮🇩", Moji
@@ -2021,11 +2020,11 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0pnMMg.png" group-title="Nasional 🇮🇩", RCTI ʳ⁺
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
-
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wIVcibJ.png" group-title="Nasional 🇮🇩", rtv ⁱ
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -12762,7 +12761,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-04-15 10:05:00 GMT+7 "
+# (●) Last Update: 2025-04-16 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
