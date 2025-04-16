@@ -1908,7 +1908,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:0 tvg-logo="https://i.imgur.com/1zcrM6F.png" group-title="Nasional 🇮🇩", IDX ᵛ
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=134&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=134
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd|referrer=https://visionplus.id/
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/NobRlzR.png" group-title="Nasional 🇮🇩", IDX ᵛ⁺'
@@ -1955,6 +1955,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NtHSz1Z.png" group-title="Nasional 🇮🇩", Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:-1 tvg-name="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png" group-title="Nasional 🇮🇩", KTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Ktivi.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -2753,8 +2757,7 @@ https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILozxEtkHyiiGgf7Od27YgV0
 #EXTINF:-1 group-logo="https://i.postimg.cc/7Zq83VKp/movies.png"
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="Movies", HBO 🇮🇩
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
