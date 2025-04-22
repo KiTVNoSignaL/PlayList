@@ -84,6 +84,12 @@ http://416streams.sytes.net:3050/celsotrevino6262@gmail.com/DnX5cXB589/605343
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEfKGF7.png" group-title="No SignaL 📺", RCTI ʳ⁺
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rFb8pJr/RCTI.png" group-title="No SignaL 📺", RCTI HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/yp7n1ub7j3yrex4b352nx/skysport-motogp.png?rlkey=ppzuwp9uh55zn8st5pftvvoxi&dl=0" group-title="No SignaL 📺", Sky Sport MotoGP_01
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/127760
 
@@ -1964,7 +1970,9 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/TRE4NlS.png" group-title="Nasional 🇮🇩", GTV ʳ⁺
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/1zcrM6F.png" group-title="Nasional 🇮🇩", IDX ᵛ
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
@@ -2011,7 +2019,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:0 tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="Nasional 🇮🇩", iNews ʳ
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NtHSz1Z.png" group-title="Nasional 🇮🇩", Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -2061,7 +2071,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/mR4Ey2E.png" group-title="Nasional 🇮🇩", MNC TV ʳ⁺
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
 #https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
@@ -2083,7 +2095,9 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0pnMMg.png" group-title="Nasional 🇮🇩", RCTI ʳ⁺
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 
@@ -12832,7 +12846,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-04-17 10:05:00 GMT+7 "
+# (●) Last Update: 2025-04-22 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
