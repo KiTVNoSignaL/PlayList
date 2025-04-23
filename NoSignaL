@@ -2231,10 +2231,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6
 
 #EXTVLCOPT:http-referrer=http://cubmu.com
 |Referer=https://www.visionplus.id/&user-agent=Android
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/YP3Qy8M.png" group-title="Nasional 🇮🇩", Trans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-
 ##https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 ##https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
 ##https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
