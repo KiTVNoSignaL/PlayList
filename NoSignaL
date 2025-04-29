@@ -163,26 +163,21 @@ https://dusk.biz.id/rp/index.mpd?id=114
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png" group-title="No SignaL 📺", SPORTSTARS 1 !
+#EXTINF:0 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="No SignaL 📺", Sportstars
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="No SignaL 📺", SPORTSTARS 2 !
+ 
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220204/ourlarge/pngtree-access-denied-vintage-metallic-sign-panel-no-fashioned-vector-png-image_23618244.png" group-title="No SignaL 📺", Sportstars 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=112&type=drm
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XPS472m.png" group-title="No SignaL 📺", Live African safar1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; GGTGBBCCY) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCJduEGukjOXzTW4jfkQ-ihw
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/XPS472m.png" group-title="No SignaL 📺", LIVE AFRIKAN SAFARI
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; GGTGBBCCY) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCJduEGukjOXzTW4jfkQ-ihw
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220204/ourlarge/pngtree-access-denied-vintage-metallic-sign-panel-no-fashioned-vector-png-image_23618244.png" group-title="No SignaL 📺", Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|referer=https://www.visionplus.id/
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEfKGF7.png" group-title="No SignaL 📺", RCTI ʳ⁺
