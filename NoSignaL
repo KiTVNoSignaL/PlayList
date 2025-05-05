@@ -2008,7 +2008,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/TRE4NlS.png" group-title="Nasional 🇮🇩", GTV ʳ⁺
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
@@ -2019,11 +2019,12 @@ https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/1zcrM6F.png" group-title="Nasional 🇮🇩", IDX ᵛ
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTINF:0 tvg-logo="https://i.imgur.com/1zcrM6F.png" group-title="Nasional 🇮🇩", IDX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=134
-https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd|referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash/IDX.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEjKxzG.png" group-title="Nasional 🇮🇩", Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
@@ -2057,7 +2058,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:0 tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="Nasional 🇮🇩", iNews ʳ
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://inews-cutv.rctiplus.id/inews-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
