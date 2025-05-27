@@ -2181,7 +2181,7 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://202.147.193.244/live/eds/IDX/sa_dash/IDX.mpd|referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash/IDX.mpd|referrer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEjKxzG.png" group-title="Nasional 🇮🇩", Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
@@ -2217,7 +2217,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=drm
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#http://202.147.193.244/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd|referrer=https://visionplus.id
+#https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd|referrer=https://visionplus.id
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="Nasional 🇮🇩", iNews ʳ
 #EXTVLCOPT:http-user-agent=android-R+
@@ -2355,7 +2355,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Nasional 🇮🇩", SindoNews TV ᵛ⁺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-http://202.147.193.244/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd|Referer=https://www.visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd|Referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0uA3Ki.png" group-title="Nasional 🇮🇩", Trans 7 ᵀ
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3350,14 +3350,14 @@ https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd|referrer=https://visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd|referrer=https://visionplus.id
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/93HkxQz4/GALAXY-P.png" group-title="Movies", GALAXY PREMIUM 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://202.147.193.244/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|https://visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|https://visionplus.id
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1GsXBNwz/K.png" group-title="Movies", K+
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -3413,42 +3413,42 @@ http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8|user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://202.147.193.244/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd|referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd|referrer=https://www.visionplus.id/
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/ch5pR3s2/CK.png" group-title="Movies", CINEMACHI KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://202.147.193.244/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd|referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd|referrer=https://www.visionplus.id/
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/7mD8ZyZ/CA.png" group-title="Movies", CINEMACHI ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://202.147.193.244/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd|referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd|referrer=https://www.visionplus.id/
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4w2YT9bK/CM.png" group-title="Movies", CINEMACHI MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://202.147.193.244/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd|referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd|referrer=https://www.visionplus.id/
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/DPt6nd8c/IMG-20250501-215519.png" group-title="Movies", CINEMACHI XTRA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd|referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd|referrer=https://www.visionplus.id/
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/N246ycVQ/IMC.png" group-title="Movies", IMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://202.147.193.244/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd|referrer=https://visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd|referrer=https://visionplus.id
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/MxS2dWYq/ZEE.png" group-title="Movies", ZEE BIOSKOP
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -14859,7 +14859,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-05-21 | 10:05:00 GMT+7 "
+# (●) Last Update: 2025-05-27 | 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
