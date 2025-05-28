@@ -2341,9 +2341,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6mBUa1.png" group-title="Nasional 🇮🇩", SCTV ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6mBUa1.png" group-title="Nasional 🇮🇩", SCTV ⁱ
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2352,6 +2352,11 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6mBUa1.png" group-title="Nasional 🇮🇩", SCTV ⁱ
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Nasional 🇮🇩", SindoNews TV ᵛ⁺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -2420,7 +2425,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0XzMwt4/tvkesehatan.png" group-title="Nasional 🇮🇩", TV Kesehatan
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+#https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9Xg7V4.png" group-title="Nasional 🇮🇩", tvOne ᵀ
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
@@ -14859,7 +14864,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-05-27 | 10:05:00 GMT+7 "
+# (●) Last Update: 2025-05-28 | 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
