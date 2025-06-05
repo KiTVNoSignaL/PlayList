@@ -2358,7 +2358,9 @@ https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png" group-title="NasioNaL DiGitaL 📡", iNews VIP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://WahyuIPTV.short.gy/iNewsTV-HD.mpd
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeem_548vmbY_4RzhH0LNZLA
+
+#https://WahyuIPTV.short.gy/iNewsTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png" group-title="NasioNaL DiGitaL 📡", iNews VIP 2
 http://opplex.tv:8080/live/mother/mother/350973.ts
@@ -2410,6 +2412,72 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Trans Tv" tvg-logo="https://get.perfecttv.net/logo/transtv.png" group-title="NasioNaL DiGitaL 📡", Trans TV
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png" group-title="NasioNaL DiGitaL 📡", TRANS 7
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeRbFhH8ndU6nSX7LbwOerBw
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKbturk6jSmHYzuGh2xw7Qw.png" group-title="NasioNaL DiGitaL 📡", TRANS TV
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeSh858L7OoHQUD50cUKFSVA
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqCgvgmgsaZSOoak053U9erwi-WW-AM5FjVHDSwcFEabU.png" group-title="NasioNaL DiGitaL 📡", INDOSIAR
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeUPS9MYYaa9uewb-1n2YOdY
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqFDzvu1AGrgVDPl2nZeOioQ.png" group-title="NasioNaL DiGitaL 📡", SCTV
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeU6Cyef0UOoKY5QebpqX_bc
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqtMTNUB-cRIiDGwpjeWFbAg.png" group-title="NasioNaL DiGitaL 📡", RCTI
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefzDHpcnICT51YJ0ffwBbxY
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqaPd_dgDRboAAiRHVfcgrfw.png" group-title="NasioNaL DiGitaL 📡", MNC TV
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeYsIhFXSZXcs_67u0jxOlMw
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqXcSDTjYwcL5sDlcEfWCYYw.png" group-title="NasioNaL DiGitaL 📡", GTV
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecszrg8Xpe6vk3V3_jOEF_A
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpL3DvO2Wsh0CBf1EVc7y8Q.png" group-title="NasioNaL DiGitaL 📡", iNEWS
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeem_548vmbY_4RzhH0LNZLA
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqDDkLWj_yz2dYsMdf57PLcw.png" group-title="NasioNaL DiGitaL 📡", TV ONE
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeT-ppEcP8aq21B0gugEQs80
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpu6z4EwsnPn0URbge-Frww.png" group-title="NasioNaL DiGitaL 📡", METRO TV
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeVhjqBq8ydeM52MeSy4arsw
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqvU-wn4F58wF2Ocu0X2he4A.png" group-title="NasioNaL DiGitaL 📡", KOMPAS TV
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefO-xzjitEZgQZJjI4_hcbQ
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqrFlBchDAfHX5_HlZRkz7Bw.png" group-title="NasioNaL DiGitaL 📡", ANTV
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeeUoBwOiKdkyCX2G73Ah2kc
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqJtbbNR2CRsFDWQiMHunmEg.png" group-title="NasioNaL DiGitaL 📡", MDTV
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeeHuZ-NImZWJvoLQQMtJl4Q
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqM3OnKm5_dx2QLZJQH_7kJw.png" group-title="NasioNaL DiGitaL 📡", RTV
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeUH77ovk6GAJyo-jX9PiyqE
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKZfEHLvts9ohyPR2I798Fw.png" group-title="NasioNaL DiGitaL 📡", BTV
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWee8lhWHWe0vpxFmsBUVbWp4
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqNPGDiTpAbNnK0v4FeWQz-DO4-q1qocEb92FcRn6FFso.png" group-title="NasioNaL DiGitaL 📡", NTV
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeRL7CreBaHIahjZjCYjwZoI
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqmIyRU5r1UatzoqFfSxYpnAn3qAi5b1DZFZtiA63TRCE.png" group-title="NasioNaL DiGitaL 📡", CNN INDONESIA
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeQT5N-MjBUcpjkI9kYA3C8o
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqxwQIyge37IEjq6fFYWRizYOAIO22E8Y8PeFBhiMOZ2w.png" group-title="NasioNaL DiGitaL 📡", SINDO NEWS
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaDtmnMvCDGSMTsZV0KkPpw
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqnVdf82Jp5bl2Bzl7EdjgL6ALkRcG1NwUrRgmpfxKi1E.png" group-title="NasioNaL DiGitaL 📡", BERITA SATU
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeWN_Qjz1R-u1AHCohxjsqh8
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDquyNlM9Uh7Ifp6MGX5vY-tA.png" group-title="NasioNaL DiGitaL 📡", TVRI
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaWavKNk07LY9Gi5-eXDdGU
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqkbk5w8_L7Poo9K3C1JBPbmfxRdv7keisKWOKFWwqqrY.png" group-title="NasioNaL DiGitaL 📡", CNBC INDONESIA
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeW1_PA3ve3lxYwPlmFR1csY
+
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDq0O1iFBnLp7qOj1z9sBlO3w.png" group-title="NasioNaL DiGitaL 📡", DAAI TV
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWef8kPQ0wGt6-ZKC3F1BfwMw
 
 
 
@@ -15509,7 +15577,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-06-03 | 10:05:00 GMT+7 "
+# (●) Last Update: 2025-06-05 | 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
