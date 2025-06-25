@@ -2795,11 +2795,12 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
 #EXTINF:0 tvg-logo="https://i.imgur.com/1zcrM6F.png" group-title="Nasional 🇮🇩", IDX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash/IDX.mpd|referrer=https://www.visionplus.id/
+https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEjKxzG.png" group-title="Nasional 🇮🇩", Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
@@ -2975,10 +2976,19 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTVLCOPT:http-referrer=http://dens.tv
 #http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=5
+#EXTINF:0 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Nasional 🇮🇩", SindoNews TV ᵛ⁺
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=5
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Nasional 🇮🇩", SindoNews TV ᵛ⁺
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+#https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0uA3Ki.png" group-title="Nasional 🇮🇩", Trans 7 ᵀ
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
