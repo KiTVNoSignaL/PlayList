@@ -2696,6 +2696,50 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://i.imgur.com/Xu5jsdw.png"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0uA3Ki.png" group-title="NasioNaL DiGitaL 📡", Trans 7
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/54
+#EXTINF:0 tvg-logo="https://i.imgur.com/41bCR3M.png" group-title="NasioNaL DiGitaL 📡", Trans TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/55
+#EXTINF:0 tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="NasioNaL DiGitaL 📡", Indosiar
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/56
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6mBUa1.png" group-title="NasioNaL DiGitaL 📡", SCTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/57
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0pnMMg.png" group-title="NasioNaL DiGitaL 📡", RCTI
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/58
+#EXTINF:0 tvg-logo="https://i.imgur.com/mR4Ey2E.png" group-title="NasioNaL DiGitaL 📡", MNC TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/59
+#EXTINF:0 tvg-logo="https://i.imgur.com/TRE4NlS.png" group-title="NasioNaL DiGitaL 📡", GTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/60
+#EXTINF:0 tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="NasioNaL DiGitaL 📡", iNews
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/61
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9Xg7V4.png" group-title="NasioNaL DiGitaL 📡", tvOne
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/62
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynGX4PT.png" group-title="NasioNaL DiGitaL 📡", Metro TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/63
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NtHSz1Z.png" group-title="NasioNaL DiGitaL 📡", Kompas TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/64
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ31qhO.png" group-title="NasioNaL DiGitaL 📡", Antv
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/65
+#EXTINF:0 tvg-logo="https://i.imgur.com/nV1ay96.png" group-title="NasioNaL DiGitaL 📡", mdTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/66
+#EXTINF:0 tvg-logo="https://i.imgur.com/wIVcibJ.png" group-title="NasioNaL DiGitaL 📡", rtv
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/67
+#EXTINF:0 tvg-logo="https://i.imgur.com/h1q2r4l.png" group-title="NasioNaL DiGitaL 📡", BTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/68
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lZO4muM.png" group-title="NasioNaL DiGitaL 📡", Nusantara TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/69
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lU0ESEv.png" group-title="NasioNaL DiGitaL 📡", CNN Indonesia
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/70
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEjKxzG.png" group-title="NasioNaL DiGitaL 📡", Indonesiana TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/71
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nanq6nA.png" group-title="NasioNaL DiGitaL 📡", Berita Satu
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/72
+#EXTINF:0 tvg-logo="https://i.imgur.com/XJARIur.png" group-title="NasioNaL DiGitaL 📡", TVRI
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/73
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gk5Axsv.png" group-title="NasioNaL DiGitaL 📡", CNBC Indonesia
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/75
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="NasioNaL DiGitaL 📡", RcTi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
