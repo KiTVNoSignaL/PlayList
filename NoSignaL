@@ -3341,6 +3341,48 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Nasional 🇮🇩", MNCTV
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:0 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Nasional 🇮🇩", MNCTV 0
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:0 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Nasional 🇮🇩", MNCTV 1
+https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:0 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Nasional 🇮🇩", MNCTV 2
+https://allcutv.rctiplus.id/mnctv2023.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:0 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Nasional 🇮🇩", MNCTV 3
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:0 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Nasional 🇮🇩", MNCTV 4
+http://103.179.182.117:6768/hls/54/54.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:0 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Nasional 🇮🇩", MNCTV 5
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/mR4Ey2E.png" group-title="Nasional 🇮🇩", MNC TV ʳ⁺
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -16830,7 +16872,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-09-17 | 10:05:00 GMT+7 "
+# (●) Last Update: 2025-09-22 | 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
