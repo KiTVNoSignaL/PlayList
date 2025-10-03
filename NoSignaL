@@ -3160,6 +3160,9 @@ http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="NasioNaL DiGitaL 📡", Indosiar
 http://mpwtv.github.io/indosiar.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="NasioNaL DiGitaL 📡", Indosiar
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+
 
 
 
@@ -3266,14 +3269,16 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="Nasional 🇮🇩", Indosiar
-https://raw.githubusercontent.com/B-inal-123/konoha-s/refs/heads/inal-22/indosiarTV2.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="Nasional 🇮🇩", Indosiar
+#EXTINF:0 tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="Nasional 🇮🇩", Indosiar 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
+#https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #http://mpwtv.github.io/indosiar.m3u8
 #http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 #https://raw.githubusercontent.com/B-inal-123/konoha-s/refs/heads/inal-22/indosiarTV2.m3u8
