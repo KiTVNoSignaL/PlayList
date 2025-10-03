@@ -3157,6 +3157,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=Indosiarhttp://filex.me:8080/live/@B1
 #KODIPROP:inputstream=inputstream.adaptive
 http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="NasioNaL DiGitaL 📡", Indosiar
+http://mpwtv.github.io/indosiar.m3u8
+
 
 
 
@@ -3263,10 +3266,17 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="Nasional 🇮🇩", Indosiar
+https://raw.githubusercontent.com/B-inal-123/konoha-s/refs/heads/inal-22/indosiarTV2.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="Nasional 🇮🇩", Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#http://mpwtv.github.io/indosiar.m3u8
+#http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+#https://raw.githubusercontent.com/B-inal-123/konoha-s/refs/heads/inal-22/indosiarTV2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
@@ -3413,6 +3423,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
+#http://filex.me:8080//live/Qasim1990/1990qasim/302279.ts
+#http://filex.me:8080/live/drzain/002808/302279.ts
 #https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -3464,6 +3476,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
+
+#http://103.66.62.83:8000/play/a068/index.m3u8
+#http://filex.me:8080/live/drzain/002808/302301.ts
+#http://filex.me:8080//live/Qasim1990/1990qasim/302301.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6mBUa1.png" group-title="Nasional 🇮🇩", SCTV ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -3564,6 +3580,10 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/XJARIur.png" group-title="Nasional 🇮🇩", TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KENRFLZ.png" group-title="Nasional 🇮🇩", VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KENRFLZ.png" group-title="Nasional 🇮🇩", VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -9948,7 +9968,10 @@ https://ktpremium.com:443/mkt1420/568765164/915375
 https://ktpremium.com:443/mkt1420/568765164/73934
 
 #https://cempedak-cdn-fly.mncnow.id/live/eds/CartoonNetwork/sa_dash/CartoonNetwork.mpd|referer=https://www.visionplus.id/
- 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Kids", Nick Jr
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052566|Host=m.zoom.us
+
 #EXTINF:0 tvg-id="NickJrAsia.us" tvg-name="Nick Jr Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Kids", Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -10321,6 +10344,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b0007
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 #http://iptvtree.net:8080/F26646/f950f250/264750
 #http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264750
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZLBGAg.jpg" group-title="Kids", Hip Hip Horeeeee!
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=7052&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=7052&type=dash
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/9klboxxsx6yryi8d6d3qk/Hip-hip-horee-hometv.jpg" group-title="Kids", Hip Hip Horee !
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298536
@@ -15448,6 +15477,403 @@ http://stream.cctv.malangkota.go.id/WebRTCApp/streams/340493797437204668929658.m
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/810133524862588268334710.m3u8
 
 
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vdO7eGs.jpg" group-title="CCTV inDo", LAPANG GASIBU 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DAHUA/GASIBU.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/qXY0yCL.jpg" group-title="CCTV inDo", LAPANG GASIBU 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DAHUA/GASI.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/JxX6nus.jpg" group-title="CCTV inDo", LAPANG GASIBU 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DAHUA/Surat.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/U6UJvm3.jpg" group-title="CCTV inDo", LAPANG GASIBU 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DAHUA/Sura.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/xD5G6HK.jpg" group-title="CCTV inDo", JL.BRAGA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/braga.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/wRi8nN3.jpg" group-title="CCTV inDo", JL.BRAGA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaa.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/2mCeiBh.jpg" group-title="CCTV inDo", JL.BRAGA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaaa.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/m2Zkzvp.jpg" group-title="CCTV inDo", JL.BRAGA 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Nari.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/B5PT5Kv.jpg" group-title="CCTV inDo", JL.BRAGA 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Nar.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/Wkj0L6q.jpg" group-title="CCTV inDo", JL.ASIA AFRIKA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/asiaafrika.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/R7DqW7k.jpg" group-title="CCTV inDo", JL.ASIA AFRIKA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragatiga.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/FjvAMDm.jpg" group-title="CCTV inDo", JL.ASIA AFRIKA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowerdua.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/TjJMhCS.jpg" group-title="CCTV inDo", ALUN-ALUN BANDUNG 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/fQwVETT.jpg" group-title="CCTV inDo", ALUN-ALUN BANDUNG 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/  
+https://pelindung.bandung.go.id:3443/video/DAHUA/ALUN.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Mdd64aa.jpg" group-title="CCTV inDo", Jl.DIPATIUKUR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunp.m3u8
+#https://pelindung.bandung.go.id:3443/video/DAHUA/GASI.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/JnxSRE7.jpg" group-title="CCTV inDo", SIMPANG DAGO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DAHUA/DAG.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/RDFP7na.jpg" group-title="CCTV inDo", DAGO BAWAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagcik.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/G7A4wQj.jpg" group-title="CCTV inDo", CIHAMPELAS PEREMPATAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DISHUB/spcihampelas.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/RgKgGe6.jpg" group-title="CCTV inDo", JL.CIHAMPELAS BAWAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DAHUA/CIH.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/Fd2zTaF.jpg" group-title="CCTV inDo", TEGALEGA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DAHUA/TEGALEGA.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/9qUQFOK.jpg" group-title="CCTV inDo", TEGALEGA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DAHUA/TEGA.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/cYOJZum.jpg" group-title="CCTV inDo", TEGALEGA 3 PEREMPATAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DISHUB/sptegalega.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BfGtPMQ.jpg" group-title="CCTV inDo", PASTEUR 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTC.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Ih2fNUc.jpg" group-title="CCTV inDo", PASTEUR 2  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTCdua.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/NhbjQmM.jpg" group-title="CCTV inDo", TOL PASTEUR (EXIT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DISHUB/sppasteur.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/h8an32V.jpg" group-title="CCTV inDo", Jl.PASOEPATI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DAHUA/PAST.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/3rwOtXn.jpg" group-title="CCTV inDo", Jl.SUKAJADI   
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukajadisukagalihh.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA5HoA2.jpg" group-title="CCTV inDo", Jl.SUKAGALIH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukajadisukagalih.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/qx9wCsX.jpg" group-title="CCTV inDo", DEPAN PVJ SUKAJADI   
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/SukajadiPVJ.m3u8   
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/nWBOkAg.jpg" group-title="CCTV inDo", CEMARA PERTIGAAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabbudibungur.m3u8 
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/bukTbqY.jpg" group-title="CCTV inDo", JL.RIAU PEREMPATAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/   
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/riausiter.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/f6XUO4J.jpg" group-title="CCTV inDo", JL.BANDA PEREMPATAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/banda.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/hrFXSfx.jpg" group-title="CCTV inDo", CIBADUYUT PEREMPATAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DISHUB/spcibaduyut.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/KRIweVI.jpg" group-title="CCTV inDo", BUAH BATU PEREMPATAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://pelindung.bandung.go.id/
+https://pelindung.bandung.go.id:3443/video/DISHUB/spbuahbatu.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", UPT MALIOBORO UTARA
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio6_MallUtara.stream/chunklist_w1496438194.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", UPT MALIOBORO (MUTIARA BARU)
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio9_MutiaraBaru.stream/chunklist_w826364159.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", UPT MALIOBORO (DEPAN DPRD)
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio4_DepanDPRD.stream/chunklist_w1665951647.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", UPT MALIOBORO (PERWAKILAN)
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio5_Perwakilan.stream/chunklist_w316341164.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", UPT MALIOBORO (NOL KILO)
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio_NolKm_Timur.stream/chunklist_w577971871.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", SIMPANG TUGU
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangTugu.stream/chunklist_w1601651204.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", SIMPANG BOROBUDUR (PLAZA)
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBorobudurPlaza.stream/chunklist_w1307752247.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", SIMPANG GAMBIRAN BARAT
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangGambiranBarat.stream/chunklist_w613251528.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", SIMPANG BALAIKOTA BARAT
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/  
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikotaBarat.stream/chunklist_w785881701.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", SIMPANG BALAIKOTA TIMUR
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/  
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikotaTimur.stream/chunklist_w1676017467.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", SIMPANG MENTRI SUPENO 2
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/  
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_MenteriSupeno2.stream/chunklist_w25524573.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", PKU MUH
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/  
+https://mam.jogjaprov.go.id:1937/atcs-kota/PKUMuh.stream/chunklist_w1686840761.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", UST
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/atcs-kota/UST.stream/chunklist_w410694445.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", MARGO UTOMO
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/atcs-kota/MargoUtomo_WismaRatih.stream/chunklist_w46626178.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", WIROBRAJAN
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/atcs-kota/Wirobrajan.stream/chunklist_w591354128.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", NOL KILO
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/   
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w455291914.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", STASIUN TUGU
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/  
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/chunklist_w527719843.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", EMBUNG NGLANGGERAN
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/chunklist_w1066506807.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", BREKSI
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/chunklist_w859888197.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", GUNUNG MERAPI
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1624423348.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", BUKIT KLANGON
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBukitKlangon.stream/chunklist_w2005762266.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", CANDI PRAMBANAN
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/chunklist_w1786680172.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", CANDI RATU BOKO
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiBoko.stream/chunklist_w865240081.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", CANDI IJO
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiIjo.stream/chunklist_w1101595119.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/BsSnHK8.jpg" group-title="CCTV inDo", CANDI SAMBISARI
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mam.jogjaprov.go.id/cctvs/
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiSambisari.stream/chunklist_w142613174.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4nNv98I.jpg" group-title="CCTV inDo", SP.GRAND CITY
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://tmckotabalikpapan.id/
+http://103.144.82.251/camera/SP_GRANDCITY_PTZ.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/4nNv98I.jpg" group-title="CCTV inDo", SP.PASAR BUTON
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://tmckotabalikpapan.id/
+http://103.144.82.251/camera/SP_BATU_AMPAR.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/4nNv98I.jpg" group-title="CCTV inDo", SP.PATIMURA
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://tmckotabalikpapan.id/
+http://103.144.82.251/camera/SP_PATIMURA_1.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/4nNv98I.jpg" group-title="CCTV inDo", SP.PERUMNAS
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://tmckotabalikpapan.id/
+http://103.144.82.251/camera/SP_PERUMNAS.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/4nNv98I.jpg" group-title="CCTV inDo", SP.BELLER
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://tmckotabalikpapan.id/
+http://103.144.82.251/camera/SP_BELLER_PTZ.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/4nNv98I.jpg" group-title="CCTV inDo", SP.WIKA
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://tmckotabalikpapan.id/
+http://103.144.82.251/camera/SP_WIKA.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/4nNv98I.jpg" group-title="CCTV inDo", SP.DAMAI
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://tmckotabalikpapan.id/
+http://103.144.82.251/camera/damai.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/4nNv98I.jpg" group-title="CCTV inDo", SP.LE GRANDEUR
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://tmckotabalikpapan.id/
+http://103.144.82.251/camera/le_grandeur.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/4nNv98I.jpg" group-title="CCTV inDo", SP.KEBUN SAYUR
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://tmckotabalikpapan.id/
+http://103.144.82.251/camera/SP_KEBUN_SAYUR.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/PiGl8wJ.jpg" group-title="CCTV inDo", SIMPANG PASAR LAMA
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://atcs.banjarmasinkota.go.id/
+https://atcs.banjarmasinkota.go.id/stream/fXK2sJj4U1/s.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/PiGl8wJ.jpg" group-title="CCTV inDo", SIMPANG BELITUNG
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://atcs.banjarmasinkota.go.id/ 
+https://atcs.banjarmasinkota.go.id/stream/PNojYeBKDv/s.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/PiGl8wJ.jpg" group-title="CCTV inDo", SIMPANG SULTAN ADAM
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://atcs.banjarmasinkota.go.id/ 
+https://atcs.banjarmasinkota.go.id/stream/dUASq5ZjHs/s.m3u8 
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/PiGl8wJ.jpg" group-title="CCTV inDo", SIMPANG MERDEKA
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://atcs.banjarmasinkota.go.id/
+https://atcs.banjarmasinkota.go.id/stream/xPULo6ZIMd/s.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/PiGl8wJ.jpg" group-title="CCTV inDo", SIMPANG KOLONEL SUGIONO
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://atcs.banjarmasinkota.go.id/
+https://atcs.banjarmasinkota.go.id/stream/xKRCOz839a/s.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/PiGl8wJ.jpg" group-title="CCTV inDo", SIMPANG KURIPAN
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://atcs.banjarmasinkota.go.id/
+https://atcs.banjarmasinkota.go.id/stream/Ep6CgYqoCN/s.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/PiGl8wJ.jpg" group-title="CCTV inDo", SIMPANG VETERAN
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://atcs.banjarmasinkota.go.id/
+https://atcs.banjarmasinkota.go.id/stream/iyYLs1kYnR/s.m3u8
+  
+#EXTINF:0 tvg-logo="https://i.imgur.com/PiGl8wJ.jpg" group-title="CCTV inDo", DEPAN TVRI
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://atcs.banjarmasinkota.go.id/
+https://atcs.banjarmasinkota.go.id/stream/dUi1Zgl86v/s.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/PiGl8wJ.jpg" group-title="CCTV inDo", DEPAN RSUD ULIN
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://atcs.banjarmasinkota.go.id/
+https://atcs.banjarmasinkota.go.id/stream/FNZ59BM5VH/s.m3u8
+
+
+
 #EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Kab. KamPar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 http://www.cctvdishubkampar.co.id/stream/cctv085
@@ -16877,7 +17303,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-09-29 | 10:05:00 GMT+7 "
+# (●) Last Update: 2025-10-03 | 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
