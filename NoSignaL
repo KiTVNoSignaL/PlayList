@@ -2962,7 +2962,7 @@ https://bintangtv.siar.us/bintangtv/live/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/dQTYwD7S/news.png"
 
-#EXTINF:-1 tvg-id="TVRI World" tvg-name="TVRI World" tvg-url="" tvg-logo="https://i.imgur.com/zfElMa0.png" group-title="News", TVRI World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfElMa0.png" group-title="News", TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
  
@@ -4913,16 +4913,9 @@ https://wildearth-roku.amagi.tv/master.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/MHtm07wj/sports.png"
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/330px-TVRI-World.svg.png" group-title="Sports", TVRI Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aSXmtqg.png" group-title="Sports", TVRI Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-
-#https://i.imgur.com/aSXmtqg.png
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zfcBrM4.png?v=1.0.0.1" group-title="Sports", SPOTV
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wDbt2cl.png?v=1.0.0.1" group-title="Sports", SPOTV2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4y146a.jpg" group-title="Sports", SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
