@@ -4919,16 +4919,10 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 #https://i.imgur.com/aSXmtqg.png
-#https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8}
-#http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8}
-#http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8}
-
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zfcBrM4.png?v=1.0.0.1" group-title="Sports", SPOTV
-http://iptvtree.net:8080/F25093/29838750/165105
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wDbt2cl.png?v=1.0.0.1" group-title="Sports", SPOTV2
-http://iptvtree.net:8080/F25093/29838750/298506d
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4y146a.jpg" group-title="Sports", SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4976,61 +4970,163 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/512px-TNT_Sports_%282023%29.svg.png" group-title="Sports", TNT sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115467
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/320px-Moto_Gp_logo.svg.png", Sky Sport MotoGP
-#https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_dolby.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://raw.githubusercontent.com/B-inal-123/sky-s/refs/heads/inal-22/skysportITmotogp00.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/lzjgja8ilzxzq79m20ve2/canal.png?rlkey=guc8we6ghe8jq8u1jntvuc4jd&dl=0" group-title="Sports", CANAL+ MotoGP
 http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2793
 
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://i.postimg.cc/XJ5N06Rr/Soccer.png" group-title="Sports", Soccer Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://cempedak-cdn-fly.mncnow.id/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
-
-#EXTINF:-1 tvg-logo="https://www.spotvon.co.kr/P/images/common/logo.png" group-title="Sports", SPOTV On
-https://cdn-hk-33.cloudrsst.com/live/spotv_on_540/playlist.m3u8
-https://jk-live-us76.supportnettv.com/live/spotv_on_540/playlist.m3u8?secret=8756f4d6996bb4d827f2248bd6d7d72b&time=1680689584
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 {#EXTINF:-1 tvg-logo="https://www.spotvprime.co.kr/img/PRIME_logo_menu.5d5f17aa.png" group-title="Sports", SPOTV Prime}
 {https://epg.pw/stream/d6db2d47f2d0ee421414248979010ece1e2190cd7267f57b4b0e21c160ee2384.m3u8}
 
 
+#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png"group-title="Sports", ZIGGO SPORT 🇳🇱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/yp7n1ub7j3yrex4b352nx/skysport-motogp.png?rlkey=ppzuwp9uh55zn8st5pftvvoxi&dl=0" group-title="Sports", Sky Sport MotoGP
-http://c.proserver.in:8080/live/wrXPmyab67D/hHnDqaKBGy8/146296.m3u8
+#EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-logo="https://i.ibb.co.com/3fNq3Dr/ziggosport2.png"group-title="Sports", ZIGGO SPORT 2 🇳🇱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/yp7n1ub7j3yrex4b352nx/skysport-motogp.png?rlkey=ppzuwp9uh55zn8st5pftvvoxi&dl=0" group-title="Sports", Sky Sport MotoGP 2
-http://fortnite5.bestream.football:9099/live/ENZOBARRY/ddb41bc72db30c0f/90348cf2-8c06-49b8-8bc0-247dc814bf9f.ts
+#EXTINF:-1 tvg-id="Ziggo Sport 3.nl" tvg-logo="https://i.ibb.co.com/b2Q0RdR/ziggosport3.png"group-title="Sports", ZIGGO SPORT 3 🇳🇱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
 
-#http://ledir.thund.re:80/play/live.php?mac=00:1A:79:22:16:5C&stream=654225&extension=m3u8
+#EXTINF:-1 tvg-id="Ziggo Sport 5.nl" tvg-logo="https://i.ibb.co.com/bbVShcY/ziggosport5.png"group-title="Sports", ZIGGO SPORT 5 🇳🇱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/yp7n1ub7j3yrex4b352nx/skysport-motogp.png?rlkey=ppzuwp9uh55zn8st5pftvvoxi&dl=0" group-title="Sports", Sky Sport MotoGP 3
-http://xx35.live:8080/play/live.php?mac=00:1A:79:90:17:19&stream=244112&extension=m3u8
+#EXTINF:-1 tvg-id="Ziggo Sport 6.nl" tvg-logo="https://i.ibb.co.com/P5xs9ZF/ziggosport6.png"group-title="Sports", IGGO SPORT 6 🇳🇱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/yp7n1ub7j3yrex4b352nx/skysport-motogp.png?rlkey=ppzuwp9uh55zn8st5pftvvoxi&dl=0" group-title="Sports", Sky Sport Mix
-http://nks24.com:8080/play/live.php?mac=00:1A:79:C2:94:BA&stream=184145&extension=ts&play_token=032VjPI1Nm
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/ctsport.jpg"group-title="Sports", CT SPORT 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_Sports_2020_logo.svg/193px-TNT_Sports_2020_logo.svg.png" group-title="Sports", TnT Sports 2
-http://nks24.com:8080/play/live.php?mac=00:1A:79:C2:94:BA&stream=55313&extension=m3u8
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport1.jpg"group-title="Sports", EUROSPORT 1 🇸🇰
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_Sports_2020_logo.svg/193px-TNT_Sports_2020_logo.svg.png" group-title="Sports", TnT Sports 2i
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115467
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport2.jpg"group-title="Sports", EUROSPORT 2 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPsJAOVJditt5bBGtzDW-N6y6f5dBcVLtdk9kl911lnSY9D4h5ATaFsAOHwYWsX-AHgeU7sQRPTsucN5idPfZC7iVRRTNTVixRDazFaoN-_5VUHuMJQs_VNCsiUUgp7C0aw__44_Jb7oMEgqtn2sbsVn47hLAIaseK2AjlY4OiCAP0SK19V0S1aymDq6Ga/s700/ZIGGO%20SPORT.png" group-title="Sports", Ziggo Sports 3
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:19:1F:37&stream=151297&extension=m3u8
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/novasport1.jpg"group-title="Sports", NOVA SPORT 1 🇸🇰
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPsJAOVJditt5bBGtzDW-N6y6f5dBcVLtdk9kl911lnSY9D4h5ATaFsAOHwYWsX-AHgeU7sQRPTsucN5idPfZC7iVRRTNTVixRDazFaoN-_5VUHuMJQs_VNCsiUUgp7C0aw__44_Jb7oMEgqtn2sbsVn47hLAIaseK2AjlY4OiCAP0SK19V0S1aymDq6Ga/s700/ZIGGO%20SPORT.png" group-title="Sports", Ziggo Sports 4
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14903
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/novasport2.jpg"group-title="Sports", NOVA SPORT 2 🇸🇰
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPsJAOVJditt5bBGtzDW-N6y6f5dBcVLtdk9kl911lnSY9D4h5ATaFsAOHwYWsX-AHgeU7sQRPTsucN5idPfZC7iVRRTNTVixRDazFaoN-_5VUHuMJQs_VNCsiUUgp7C0aw__44_Jb7oMEgqtn2sbsVn47hLAIaseK2AjlY4OiCAP0SK19V0S1aymDq6Ga/s700/ZIGGO%20SPORT.png" group-title="Sports", Ziggo Sports 5
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/9812.ts
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/sport1.jpg"group-title="Sports", SPORT 1 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPsJAOVJditt5bBGtzDW-N6y6f5dBcVLtdk9kl911lnSY9D4h5ATaFsAOHwYWsX-AHgeU7sQRPTsucN5idPfZC7iVRRTNTVixRDazFaoN-_5VUHuMJQs_VNCsiUUgp7C0aw__44_Jb7oMEgqtn2sbsVn47hLAIaseK2AjlY4OiCAP0SK19V0S1aymDq6Ga/s700/ZIGGO%20SPORT.png" group-title="Sports", Ziggo Sports 6
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/114724.ts
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/sport2.jpg"group-title="Sports", SPORT 2 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport.jpg"group-title="Sports", JOJ SPORT 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport2.jpg"group-title="Sports", JOJ SPORT 2 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/rtvssport.jpg"group-title="Sports", RTVS SPORT 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/automotorsport.jpg"group-title="Sports", AUTO MOTOR AND SPORT 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_ams/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/golfchannel.jpg"group-title="Sports", GOLF CHANNEL 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/fightbox.jpg"group-title="Sports", FIGHT BOX 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/antik/fastandfunbox.jpg"group-title="Sports", FAST AND FUNBOX 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
