@@ -1,0 +1,46 @@
+{
+  "showDialog": true,
+  "title": "🔐  𝗞𝗶𝗧𝗩",
+  "description": "[ 𝗧𝗲𝗿𝘂𝘀 𝗡𝗼𝗻𝘁𝗼𝗻 - 𝗡𝗼𝗻𝘁𝗼𝗻 𝗧𝗲𝗿𝘂𝘀 ]",
+  "button": "LOGIN ✨",
+  "toast": "𝙎𝙚𝙡𝙖𝙢𝙖𝙩 𝙈𝙚𝙣𝙮𝙖𝙠𝙨𝙞𝙠𝙖𝙣 📺",
+  "renewUrl": "https://t.me/rasyid_22",
+  "devices": [
+    {
+      "device_id": "7fdf9500a0590977",
+      "username": "KiNoy",
+      "password": "xxxxx",
+      "expire_date": "2222-11-22"
+    },
+    {
+      "device_id": "5c88281ab9fb0d26",
+      "username": "ReNo 8",
+      "password": "00000",
+      "expire_date": "2026-01-01"
+    },
+    {
+      "device_id": "f313752bf42a7516",
+      "username": "sTb",
+      "password": "00000",
+      "expire_date": "2125-11-24"
+    },
+    {
+      "device_id": "01f44603f56f6448",
+      "username": "zuRRi",
+      "password": "00000",
+      "expire_date": "2125-12-25"
+    },
+    {
+      "device_id": "abcdef9876543210",
+      "username": "demo",
+      "password": "demo123",
+      "expire_date": "2026-04-15"
+    },
+    {
+      "device_id": "testdevice11223344",
+      "username": "user",
+      "password": "pass",
+      "expire_date": "2026-06-01"
+    }
+  ]
+}
