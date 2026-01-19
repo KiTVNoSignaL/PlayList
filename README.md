@@ -24,8 +24,10 @@
 
 
 * Tambah Data
-	
+
 	`git add .`
+	
+	`git add <file>`
 
 	`git commit -m "pesan anda"`
 
