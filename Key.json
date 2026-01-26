@@ -31,9 +31,15 @@
       "expire_date": "2125-12-25"
     },
     {
-      "device_id": "abcdef9876543210",
-      "username": "demo",
-      "password": "demo123",
+      "device_id": "233231e86c7fe140",
+      "username": "Binjei",
+      "password": "12345",
+      "expire_date": "2026-04-15"
+    },
+    {
+      "device_id": "demo",
+      "username": "tes",
+      "password": "12345",
       "expire_date": "2026-04-15"
     },
     {
