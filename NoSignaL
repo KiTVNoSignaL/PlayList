@@ -2478,7 +2478,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/abf3e254818c4608aab8aa109a972203/index
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wIVcibJ.png" group-title="Nasional 🇮🇩", rtv ⁱ
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -2488,7 +2488,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-logo="https://i.imgur.com/MOTQSC8.png" group-title="Nasional 🇮🇩", rtv ⁱ
-https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6mBUa1.png" group-title="Nasional 🇮🇩", SCTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -2622,7 +2622,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
-https://atemeshield1-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9Xg7V4.png" group-title="Nasional 🇮🇩", tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
