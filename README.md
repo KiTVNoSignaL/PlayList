@@ -32,6 +32,16 @@
 	`git commit -m "pesan anda"`
 
 	`git push -u origin main`
+	
+	
+* Remote Other
+	`git add <file>
+	
+	`git restore <file>
+	
+	`git commit -m "pesan anda"`
+
+	`git push -u origin main`
 
 
 
