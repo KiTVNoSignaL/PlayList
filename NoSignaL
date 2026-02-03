@@ -2183,6 +2183,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 group-logo="https://i.imgur.com/zwTUrfO.png"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZP0QQ11.png" group-title="Nasional 🇮🇩", aLLplay Ent ⁱ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
@@ -2385,7 +2386,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/nVp2qzb.png" group-title="Nasional 🇮🇩", Max Stream ⁱ
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MaxStream.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -2514,12 +2519,17 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/wIVcibJ.png" group-title="Nasional 🇮🇩", rtv
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/wIVcibJ.png" group-title="Nasional 🇮🇩", rtv ⁱ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://fta3-cdn-flr.visionplus.id/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
+#https://fta3-cdn-flr.visionplus.id/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wIVcibJ.png" group-title="Nasional 🇮🇩", rtv ⁱ 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2661,10 +2671,15 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 #https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9Xg7V4.png" group-title="Nasional 🇮🇩", tvOne
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9Xg7V4.png" group-title="Nasional 🇮🇩", tvOne
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
-https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9Xg7V4.png" group-title="Nasional 🇮🇩", tvOne 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -3365,6 +3380,25 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 #KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkI-QnpmtNsoMwaZ2zjOtNsiG7mXj9QOmeTGiUmffF0m_TTfXH_DTtm0ZwMmpqxK_beVkerFi6LtTo6_pGSOqe84M2kDol7YDGrVN-hmYygFHWCCA6ojHUvnkv0GyaLnDnZvizDJoWBj05T9J4Wc7d6CIgXdufYm6pjlP7l66hcIQqz4HCosx4-I0lzvOy/s700/HBO%20HD.png" group-title="Movies", HBO ID
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqbfolHm9YpbIjQSdPyBc61RhQ7rZRt-ffhIoMDgEZ5RzM2k3J3oR8ZRHqV4FAw17JSQbCCZNPCU_MEwEgBATVM9d70YIve1fnJu0qZ2sWnStRa4pOnXi2Uola5fhrl8OnD3qnLaS77kHrHRob0DQ72fXM1VrG1zFShx__UakYhJObrtpENVCywnCv-g4b/s700/HBO%20HITS.png" group-title="Movies", HBO HITS ID
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbcx1d55B4tPsl16xxXwGZ29O9DdNh1yzdyTBhi9zZl-oXFhz3j_1gvuo2vwJH5MHAE6VMqrW4RJqDa-BIJY2sDPyUISLbO4Y9u1B6pV2Alow0VNazhppLKfg7sbaG4_BqaO_NhGbJ-tkhWi2XhEPTsIXN4rG1E4RW7OIO3r1jv2j7KUMwgUZDTwUOIzYg/s700/HBO%20FAMILY.png" group-title="Movies", HBO FAMILY ID
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsKgNN_vixF2wx0mNB4-3tqm7f-Bt18i208C7ZfvczosBrAzKfMuzS2Ua6k64H7zUyEwHPhjgov-QnTVqipQmjMqZgkA7ZpgXaGk8YCJYgu-w4tTp683t_OK9lValfeU_T5bgHtS_Ay84b4fBcr7T3fg5QbxE7MxKWD901wEl4P3baIqU-_s0aAvnvvyqM/s700/HBO%20SIGNATURE.png" group-title="Movies", HBO SIGNATURE ID
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzjgvIIQKQiVAnbTBFd4WRMJ8Hp831ngGwJ6fkMvTV9Ctxy0iaLYWbnJeP4uxntytGI1kFZGiti-SMOEvGlAxy_2o0pcU_NdCr0elKrR6R-4BpT4MEFSh3AxkpEKvsBlCamLIxQk1NfTziREdEiN3oPOXLzBZTSGRy86UOEzUXYSt0Zq2fk4muQpcdiehQ/s700/CINEMAX.png" group-title="Movies", CINEMAX ID
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qCnQZ6qCThZlWHZS_G01oE3uCL4APKVA4Ch0Z2hItWvGtmZe0WM2PyIjOM1MZ-QVPXpjwWdvyMue-Ez3A3Nu9JllRnDlrur7RvV-IHpRJNwGN-KUAibOnaBLSolqdCA6cEBdpcYBnuAWIoQvX2H43uUYMLUD5pyZMrRKl_e75w6A6YtFOM_D0-OpPG0R/s700/WARNER%20TV.png" group-title="Movies", WARNER TV ID
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movies", HBO
