@@ -43,6 +43,18 @@
       "expire_date": "2026-04-15"
     },
     {
+      "device_id": "93f7c16782ff567e",
+      "username": "aLdo",
+      "password": "12345",
+      "expire_date": "2026-04-15"
+    },
+    {
+      "device_id": "demo",
+      "username": "tes",
+      "password": "12345",
+      "expire_date": "2026-04-15"
+    },
+    {
       "device_id": "demo",
       "username": "tes",
       "password": "12345",
