@@ -2227,10 +2227,16 @@ https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gk5Axsv.png" group-title="Nasional 🇮🇩", CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lU0ESEv.png" group-title="Nasional 🇮🇩", CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w80388450_b384000_sleng.m3u8
+#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kz2Z3WM.png" group-title="Nasional 🇮🇩", Dunia Lain ᵗ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2587,9 +2593,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="Nasional 🇮🇩", Sin PO tv
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0uA3Ki.png" group-title="Nasional 🇮🇩", Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0uA3Ki.png" group-title="Nasional 🇮🇩", Trans 7 ᵀ
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2603,7 +2616,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 
 #https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
@@ -2626,6 +2639,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
 
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/eVuKMF8.png" group-title="Nasional 🇮🇩", Transᵀⱽ
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/eVuKMF8.png" group-title="Nasional 🇮🇩", Transᵀⱽ ᵀ
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2639,7 +2655,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 #https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
@@ -20083,7 +20099,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-02-09 | 10:05:00 GMT+7 "
+# (●) Last Update: 2026-02-18 | 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
