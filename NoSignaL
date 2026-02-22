@@ -2188,17 +2188,29 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ31qhO.png" group-title="Nasional 🇮🇩", Antv
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ31qhO.png" group-title="Nasional 🇮🇩", Antv ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
 #https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nanq6nA.png" group-title="Nasional 🇮🇩", Berita Satu
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nanq6nA.png" group-title="Nasional 🇮🇩", Berita Satu
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
+#http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 
 #https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
@@ -2229,8 +2241,16 @@ https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gk5Axsv.png" group-title="Nasional 🇮🇩", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gk5Axsv.png" group-title="Nasional 🇮🇩", CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w481242722_b384000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lU0ESEv.png" group-title="Nasional 🇮🇩", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lU0ESEv.png" group-title="Nasional 🇮🇩", CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kz2Z3WM.png" group-title="Nasional 🇮🇩", Dunia Lain ᵗ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -11396,6 +11416,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd|referer=https://www.visionplus.id/
 
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png" group-title="Religi 🕋", Makkah HD
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png" group-title="Religi 🕋", Madinah HD
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png" group-title="Religi 🕋", Makkah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png" group-title="Religi 🕋", Madinah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1zFVnXg/makkahlive.png" group-title="Religi 🕋", Makkah Live 🕋 ☪
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -20083,7 +20117,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-02-09 | 10:05:00 GMT+7 "
+# (●) Last Update: 2026-02-22 | 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
@@ -20091,4 +20125,5 @@ Cara Sniffing Live TV di Chrome
 
 
 █▄▄ █▄█   █▄▀ █ █▄ █ █▀█ █▄█
+
 █▄█  █    █ █ █ █ ▀█ █▄█  █
