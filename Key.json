@@ -7,7 +7,7 @@
   "renewUrl": "https://t.me/rasyid_22",
   "devices": [
     {
-      "device_id": "4a772b823e15e8de",
+      "device_id": "525565490b0260eb",
       "username": "KiNoy",
       "password": "xxxxx",
       "expire_date": "2222-11-22"
@@ -33,6 +33,24 @@
     {
       "device_id": "233231e86c7fe140",
       "username": "Binjei",
+      "password": "12345",
+      "expire_date": "2026-04-15"
+    },
+    {
+      "device_id": "1b3a81218a33988f",
+      "username": "aZzamy",
+      "password": "12345",
+      "expire_date": "2026-04-15"
+    },
+    {
+      "device_id": "93f7c16782ff567e",
+      "username": "aLdo",
+      "password": "12345",
+      "expire_date": "2026-04-15"
+    },
+    {
+      "device_id": "demo",
+      "username": "tes",
       "password": "12345",
       "expire_date": "2026-04-15"
     },
