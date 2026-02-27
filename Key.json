@@ -34,55 +34,55 @@
       "device_id": "233231e86c7fe140",
       "username": "Binjei",
       "password": "12345",
-      "expire_date": "2026-04-15"
+      "expire_date": "2026-03-31"
     },
     {
       "device_id": "1b3a81218a33988f",
       "username": "aZzamy",
       "password": "12345",
-      "expire_date": "2026-04-15"
+      "expire_date": "2026-03-31"
     },
     {
       "device_id": "93f7c16782ff567e",
       "username": "aLdo",
       "password": "12345",
-      "expire_date": "2026-04-15"
+      "expire_date": "2026-03-31"
     },
     {
       "device_id": "00b470add043ea63",
       "username": "Kabid",
       "password": "12345",
-      "expire_date": "2026-04-15"
+      "expire_date": "2026-03-31"
     },
     {
       "device_id": "c6f3baeb2894d1e8",
-      "username": "Hany",
+      "username": "Tomy",
       "password": "12345",
-      "expire_date": "2026-04-15"
+      "expire_date": "2026-03-31"
+    },
+    {
+      "device_id": "1275806c4327a45d",
+      "username": "Taufik",
+      "password": "12345",
+      "expire_date": "2026-03-31"
     },
     {
       "device_id": "demo",
       "username": "tes",
       "password": "12345",
-      "expire_date": "2026-04-15"
+      "expire_date": "2026-03-31"
     },
     {
       "device_id": "demo",
       "username": "tes",
       "password": "12345",
-      "expire_date": "2026-04-15"
-    },
-    {
-      "device_id": "demo",
-      "username": "tes",
-      "password": "12345",
-      "expire_date": "2026-04-15"
+      "expire_date": "2026-03-31"
     },
 	{
       "device_id": "demo",
       "username": "tes",
       "password": "12345",
-      "expire_date": "2026-04-15"
+      "expire_date": "2026-03-31"
     },
     {
       "device_id": "testdevice11223344",
