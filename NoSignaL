@@ -2330,8 +2330,18 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 group-logo="https://i.imgur.com/zwTUrfO.png"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZP0QQ11.png" group-title="Nasional 🇮🇩", aLLplay Ent ⁱ
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZP0QQ11.png" group-title="Nasional 🇮🇩", aLLplay Ent ⁱ 1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-3293972000000000.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZP0QQ11.png" group-title="Nasional 🇮🇩", aLLplay Ent ⁱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ31qhO.png" group-title="Nasional 🇮🇩", Antv
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2407,7 +2417,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 #EXTINF:0 tvg-id="Indosiar.my.id" tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="Nasional 🇮🇩", Indosiar ᴴᴰ
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2416,9 +2426,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
-#https://indihuy.streamized.net/atm/DASH/indosiar/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:0 tvg-id="Indosiar.my.id" tvg-logo="https://i.imgur.com/CJajHRL.png" group-title="Nasional 🇮🇩", Indosiar 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -2445,9 +2453,21 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&uid=&expp=
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:0 tvg-logo="https://i.imgur.com/nV1ay96.png" group-title="Nasional 🇮🇩", mdTV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/nV1ay96.png" group-title="Nasional 🇮🇩", mdTV 1
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/nV1ay96.png" group-title="Nasional 🇮🇩", mdTV
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/7gWNch5.png" group-title="Nasional 🇮🇩", Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2488,13 +2508,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOKWJqi.png" group-title="Nasional 🇮🇩", Moji
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12) ExoPlayerLib/2.15.1
-https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+#https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TOKWJqi.png" group-title="Nasional 🇮🇩", Moji 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOKWJqi.png" group-title="Nasional 🇮🇩", Moji
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=drm
-#https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
+https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lZO4muM.png" group-title="Nasional 🇮🇩", Nusantara TV
 #EXTVLCOPT:http-origin=https://www.dens.tv
@@ -2513,15 +2533,32 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8g6gNYB.png" group-title="Nasional 🇮🇩", SCTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8g6gNYB.png" group-title="Nasional 🇮🇩", SCTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://indihuy.streamized.net/atm/DASH/sctv/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Nasional 🇮🇩", SindoNews TV ᵛ⁺
-https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvku.family/Vis1/index.drm?id=5
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://tvku.family/Vis1/index.mpd?id=5
+
+#https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="Nasional 🇮🇩", Sin PO tv
-https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ratu77.adptv.workers.dev/index.mpd?id=19046&type=dash|User-Agent=VidioPlayer/6.31.6
+
+#https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0uA3Ki.png" group-title="Nasional 🇮🇩", Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
