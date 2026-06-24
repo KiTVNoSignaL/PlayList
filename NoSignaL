@@ -1737,6 +1737,12 @@ https://liveplus.rctiplus.id/RTMP-IN.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/330px-INDOSIAR_Logo.png" group-title="NasioNaL DiGitaL 📡", INDOSIAR
 http://103.148.44.38:8000/play/a05c/index.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="NasioNaL DiGitaL 📡", TRANS 7
+http://119.82.250.109:8080/nl.m3u8?id=1002
+
+#EXTINF:0 tvg-logo="" group-title="NasioNaL DiGitaL 📡", Metro TV
+http://119.82.250.109:8080/nl.m3u8?id=1048
+
 #EXTINF:-1 tvg-logo="" group-title="NasioNaL DiGitaL 📡", RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -3259,6 +3265,24 @@ https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILozxEtkHyiiGgf7Od27YgV0
 =====####***| Movies |***####=====
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/7Zq83VKp/movies.png"
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="Movies", HBO 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://super.diskon.cloud/transvision/cumuy.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="Movies", HBO 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="Movies", HBO 🇮🇩
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="Movies", HBO 🇮🇩
 #KODIPROP:inputstreamaddon=inputstream.adaptive
