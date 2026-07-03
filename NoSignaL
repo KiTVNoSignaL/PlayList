@@ -2706,7 +2706,7 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://103.148.44.38:8000/play/a03t/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/XJARIur.png" group-title="Nasional 🇮🇩", TVRI World
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/330px-TVRI-World.svg.png" group-title="Nasional 🇮🇩", TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
