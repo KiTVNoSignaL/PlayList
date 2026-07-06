@@ -2416,6 +2416,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3Dtbl1.png" group-title="Nasional 🇮🇩", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
+#EXTINF:0 tvg-id="Maxstream.id" tvg-logo="https://i.imgur.com/YnubKbu.png" group-title="Nasional 🇮🇩", Max Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/76/76.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/nV1ay96.png" group-title="Nasional 🇮🇩", mdTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
@@ -2436,10 +2440,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOKWJqi.png" group-title="Nasional 🇮🇩", Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/50/50.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lZO4muM.png" group-title="Nasional 🇮🇩", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -2493,15 +2495,15 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/XJARIur.png" group-title="Nasional 🇮🇩", TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://103.148.44.38:8000/play/a03t/index.m3u8
+http://157.15.187.3:25092/hls/63/63.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/330px-TVRI-World.svg.png" group-title="Nasional 🇮🇩", TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="Nasional 🇮🇩", TVRI Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://103.148.44.38:8000/play/a05u/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/49/49.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KENRFLZ.png" group-title="Nasional 🇮🇩", VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -3183,6 +3185,13 @@ https://cdnjkt913.transvision.co.id/live/master/1/4028c6856c3db2cc016cdbfc4a1934
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/warner_tv.png" group-title="Movies", Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/41/41.m3u8
 
 
 
@@ -3957,11 +3966,9 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash/AXN.mpd|Referer=https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/Qingtvnew/test/raw/main/kix.png", KIX 
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
-https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash/KIX.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/Qingtvnew/test/raw/main/kix.png", KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/38/38.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="TVN MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzplC68PhjEepXf9THtdelWYaNWbodgJMVd6dhJ2aqVg&s",TVN MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4132,16 +4139,13 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd|refe
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTzScg2n/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-29-T172545-868.png" group-title="Movies", Zee Action
 https://github.com/thefirefox12537/streams/raw/master/zieksyen.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="GalaxyPremium.Id" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="Movies", Galaxy Premium ᵛ⁺
-https://cempedak-cdn-fly.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/40/40.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/57uczx1gmmu4m537nfa34/Galaxy-hometv.png?rlkey=tkpar02rn74e1cyzv72thu4rs&dl=0" group-title="Movies", Galaxy ᵛ⁺
-https://cempedak-cdn-fly.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/39/39.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj 
@@ -20551,6 +20555,138 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/51/51.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/52/52.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", Kompas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/53/53.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", Mnc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/54/54.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/55/55.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", iNDosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/56/56.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/57/57.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", CNBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/58/58.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/59/59.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", CNN Highlight
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/60/60.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", CinemaWorld
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/67/67.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", Celestial Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/68/68.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", Woko Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/71/71.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", tvN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/72/72.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", tvN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/73/73.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", BaliTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/74/74.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", Love Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/75/75.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", Max Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/76/76.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/77/77.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", tvMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/78/78.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", MuiTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/79/79.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", Mekkah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/80/80.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", Dunia Lain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/81/81.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", mtatv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/82/82.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", K+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/83/83.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", SpoTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/15/15.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", SpoTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/86/86.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", MoonBug
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/89/89.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", thrill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/90/90.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", rtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/91/91.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", Chinese Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/92/92.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", rtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/95/95.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/khnD6CC/gtv.png" group-title="TV BackUP", GTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -20655,8 +20791,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hV6Z2SP/magna.png" group-title="TV BackUP", MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vvtcxd4/mgn.png" group-title="TV BackUP", METRO GLOBE NETWORK
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", VTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/47/47.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BackUP", MENTARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/48/48.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G9NY1P4/metrotv.png" group-title="TV BackUP", METRO TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -20853,10 +20994,8 @@ https://cdngb196.indihometv.com/atm/hlsv3/mncnews/mncnews-avc1_1200000=4-mp4a_96
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k3S01Fh/transtv.png" group-title="TV BackUP", TRANS TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-https://cempedak-cdn-fly.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/43/43.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k3S01Fh/transtv.png" group-title="TV BackUP", TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -20873,10 +21012,8 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V37y7jf/trans7.png" group-title="TV BackUP", TRANS 7
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-https://cempedak-cdn-fly.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/42/42.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V37y7jf/trans7.png" group-title="TV BackUP", TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -20912,7 +21049,8 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HFjSW0t/tvone.png" group-title="TV BackUP", TV ONE
-https://ythls-v2.onrender.com/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/46/46.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HFjSW0t/tvone.png" group-title="TV BackUP", TV ONE - Trans
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -21210,8 +21348,8 @@ https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 http://opplex.tv:8080/mohsin655/4969292/350997
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Antv.png" group-title="TV BackUP", AnTv
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/45/45.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Antv.png" group-title="TV BackUP", AnTv FHD
 https://phdown.serv00.net/Smartv.php?id=Antv
