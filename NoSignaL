@@ -2372,12 +2372,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kz2Z3WM.png" group-title="Nasional 🇮🇩", Dunia Lain ᵗ
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+http://157.15.187.3:25092/hls/81/81.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_GarudaTV_Merah_Putih_Silver_Merah.svg/960px-Logo_GarudaTV_Merah_Putih_Silver_Merah.svg.png" group-title="Nasional 🇮🇩", Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2416,8 +2412,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3Dtbl1.png" group-title="Nasional 🇮🇩", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
-#EXTINF:0 tvg-id="Maxstream.id" tvg-logo="https://i.imgur.com/YnubKbu.png" group-title="Nasional 🇮🇩", Max Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTINF:0 tvg-logo="https://i.imgur.com/YnubKbu.png" group-title="Nasional 🇮🇩", Max Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://157.15.187.3:25092/hls/76/76.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/nV1ay96.png" group-title="Nasional 🇮🇩", mdTV
