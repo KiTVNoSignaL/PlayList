@@ -2582,8 +2582,12 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 https://op-group1-densxvisionhd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lZO4muM.png" group-title="Nasional 🇮🇩", Nusantara TV
-https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 
+###https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
 ###https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0pnMMg.png" group-title="Nasional 🇮🇩", RCTI
