@@ -134,37 +134,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="No SignaL 📺", CH 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="No SignaL 📺", CH 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#EXTVLCOPT:http-origin=https://cignalplay.com
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="No SignaL 📺", CH 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17140&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="No SignaL 📺", CH 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Voli_TV.png" group-title="No SignaL 📺", Voli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -2547,10 +2516,12 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
-###https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 ###http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34327
+###https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+###http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+###https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
 #EXTVLCOPT:http-user-agent=MPF_Players/537.36
 ###http://202.169.224.202:8800/udp/239.9.1.25:1234
@@ -26716,7 +26687,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-08-09 | 10:05:00 GMT+7 "
+# (●) Last Update: 2026-08-10 | 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
