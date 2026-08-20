@@ -2624,7 +2624,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Riau_TV.png/revision/latest?cb=20181001034314" group-title="Nasional 🇮🇩", Riau TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
+###http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wIVcibJ.png" group-title="Nasional 🇮🇩", rtv
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
