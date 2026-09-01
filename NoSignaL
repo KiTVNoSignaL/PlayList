@@ -1846,7 +1846,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ31qhO.png" group-title=""NasioNaL DiGitaL 📡", antv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ31qhO.png" group-title="NasioNaL DiGitaL 📡", antv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
