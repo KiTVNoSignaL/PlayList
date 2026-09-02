@@ -2542,18 +2542,20 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-origin=https://www.cnbcindonesia.com
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w814432947_b384000_sleng.m3u8
-https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w1325262951_b384000_sleng.m3u8
-https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/media_w1325262951_b384000_sleng.m3u8
+
+###https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w814432947_b384000_sleng.m3u8
+###https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w1325262951_b384000_sleng.m3u8
+###https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/media_w1325262951_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lU0ESEv.png" group-title="Nasional 🇮🇩", CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b384000_sleng.m3u8
-https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w8436220_b384000_sleng.m3u8
-https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w1394770958_b384000_sleng.m3u8
-https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/playlist.m3u8
+
+###https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w8436220_b384000_sleng.m3u8
+###https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w1394770958_b384000_sleng.m3u8
+###https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DAAI_TV.svg/330px-DAAI_TV.svg.png" group-title="Nasional 🇮🇩", DAAI tv
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -2699,6 +2701,8 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KENRFLZ.png" group-title="Nasional 🇮🇩", VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch107.m3u8
+
+###http://ikitv.sqn.at:8000/play/a023/index.m3u8
 
 
 
