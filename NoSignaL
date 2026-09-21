@@ -2630,6 +2630,9 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302297
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 ###https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Riau_TV.png/revision/latest?cb=20181001034314" group-title="Nasional 🇮🇩", Riau TV
+https://63b2dc7196c38.streamlock.net:1937/riautv/myStream/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/wIVcibJ.png" group-title="Nasional 🇮🇩", rtv
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
