@@ -2561,11 +2561,15 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.imgur.com/Z1M2Avx.png" group-title="Nasional 🇮🇩", GTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://proxy-b.rctiplus.id/live/web/gtv/gtv-sdi.m3u8?auth_key=1792072901-56e9550cbd92ffff3ff1db5a78e6d946-0-fad55ce27819939309c00eef2d7339c9
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-
+###http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
 ###https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
@@ -2606,11 +2610,15 @@ https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 ###https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="Nasional 🇮🇩", iNews
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://proxy-b.rctiplus.id/live/web/inews/inews-sdi.m3u8?auth_key=1792072901-5f4249ea20a8ee279594ae1ac0040bc5-0-954effcc2bffcefc2c4daed6914bd3d2
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-
+###https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 ###https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
@@ -2636,11 +2644,15 @@ https://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Nasional 🇮🇩", MNCTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://proxy-b.rctiplus.id/live/web/mnctv/mnctv-sdi.m3u8?auth_key=1792072900-26d5b09fcbb5a3f128ce0336ed339f25-0-ea8c8b4bde0626907220994122bb413b
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
-
+###https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 
 ###https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
@@ -2656,11 +2668,15 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h207/02.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0pnMMg.png" group-title="Nasional 🇮🇩", RCTI
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://proxy-b.rctiplus.id/live/web/rcti/rcti-sdi.m3u8?auth_key=1792072900-d4bfc140ad5180c52a39a0ab0bd31479-0-8911dbef1bc52609269fecdefe104bc2
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
-
+###https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
 ###https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
