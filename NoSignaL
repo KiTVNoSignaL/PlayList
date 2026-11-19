@@ -2911,7 +2911,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 ###https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JtN4fgn.png" group-title="Nasional 🇮🇩", TVR Parlemen
-https://www.dropbox.com/scl/fi/jk02yt13eilekjqjadugi/No_SigNaL.mp4?rlkey=ac7b7t5zvytejxh2wcbjwf0ne&st=akoxo06z&dl=1
+https://wowza1.dpr.go.id/hls/live/tvr/main_stream.m3u8?session=4cb186d7-b8d9-4b3a-86cd-aaf60a81dc7f
+
+###https://www.dropbox.com/scl/fi/jk02yt13eilekjqjadugi/No_SigNaL.mp4?rlkey=ac7b7t5zvytejxh2wcbjwf0ne&st=akoxo06z&dl=1
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/XJARIur.png" group-title="Nasional 🇮🇩", TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
